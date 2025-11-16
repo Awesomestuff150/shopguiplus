@@ -1,0 +1,432 @@
+redstone:
+  name: "&c&lRedstone Lab (page %page%)"
+  size: 54
+  fillItem:
+    material: GRAY_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 45
+    nextPage:
+      slot: 53
+  items:
+    1:
+      type: item
+      item:
+        material: REDSTONE
+        quantity: 64
+        name: "&cRedstone Dust"
+        lore:
+          - "&7Base wiring component."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 10
+    2:
+      type: item
+      item:
+        material: REDSTONE_BLOCK
+        quantity: 16
+        name: "&cBlock of Redstone"
+        lore:
+          - "&7Compact power source."
+      buyPrice: 260
+      sellPrice: 26
+      slot: 11
+    3:
+      type: item
+      item:
+        material: REDSTONE_TORCH
+        quantity: 16
+        name: "&cRedstone Torch"
+        lore:
+          - "&7Constant power torch."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 12
+    4:
+      type: item
+      item:
+        material: REPEATER
+        quantity: 8
+        name: "&cRedstone Repeater"
+        lore:
+          - "&7Extend signals & delays."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 13
+    5:
+      type: item
+      item:
+        material: COMPARATOR
+        quantity: 8
+        name: "&cRedstone Comparator"
+        lore:
+          - "&7Read containers & signals."
+      buyPrice: 160
+      sellPrice: 16
+      slot: 14
+    6:
+      type: item
+      item:
+        material: LEVER
+        quantity: 16
+        name: "&7Lever"
+        lore:
+          - "&7Simple on/off switch."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 15
+    7:
+      type: item
+      item:
+        material: STONE_BUTTON
+        quantity: 16
+        name: "&7Stone Button"
+        lore:
+          - "&7Short pulse trigger."
+      buyPrice: 50
+      sellPrice: 5
+      slot: 16
+    8:
+      type: item
+      item:
+        material: OAK_BUTTON
+        quantity: 16
+        name: "&7Wooden Button"
+        lore:
+          - "&7Arrow-activated input."
+      buyPrice: 50
+      sellPrice: 5
+      slot: 17
+    9:
+      type: item
+      item:
+        material: STONE_PRESSURE_PLATE
+        quantity: 8
+        name: "&7Stone Pressure Plate"
+        lore:
+          - "&7Detect players & mobs."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 19
+    10:
+      type: item
+      item:
+        material: LIGHT_WEIGHTED_PRESSURE_PLATE
+        quantity: 8
+        name: "&eLight Weighted Plate"
+        lore:
+          - "&7Item-weight sensitive."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 20
+    11:
+      type: item
+      item:
+        material: HEAVY_WEIGHTED_PRESSURE_PLATE
+        quantity: 8
+        name: "&eHeavy Weighted Plate"
+        lore:
+          - "&7Measure stacks."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 21
+    12:
+      type: item
+      item:
+        material: TRIPWIRE_HOOK
+        quantity: 16
+        name: "&7Tripwire Hook"
+        lore:
+          - "&7Tripwire traps."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 22
+    13:
+      type: item
+      item:
+        material: STRING
+        quantity: 32
+        name: "&fString"
+        lore:
+          - "&7Connect tripwire lines."
+      buyPrice: 50
+      sellPrice: 5
+      slot: 23
+    14:
+      type: item
+      item:
+        material: DAYLIGHT_DETECTOR
+        quantity: 4
+        name: "&eDaylight Sensor"
+        lore:
+          - "&7Solar-powered logic."
+      buyPrice: 180
+      sellPrice: 18
+      slot: 24
+    15:
+      type: item
+      item:
+        material: TARGET
+        quantity: 4
+        name: "&cTarget Block"
+        lore:
+          - "&7Arrow-powered redstone."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 25
+    16:
+      type: item
+      item:
+        material: REDSTONE_LAMP
+        quantity: 8
+        name: "&eRedstone Lamp"
+        lore:
+          - "&7Toggleable lighting."
+      buyPrice: 160
+      sellPrice: 16
+      slot: 28
+    17:
+      type: item
+      item:
+        material: NOTE_BLOCK
+        quantity: 8
+        name: "&dNote Block"
+        lore:
+          - "&7Musical builds."
+      buyPrice: 150
+      sellPrice: 15
+      slot: 29
+    18:
+      type: item
+      item:
+        material: JUKEBOX
+        quantity: 2
+        name: "&dJukebox"
+        lore:
+          - "&7Play discs via redstone."
+      buyPrice: 220
+      sellPrice: 22
+      slot: 30
+    19:
+      type: item
+      item:
+        material: PISTON
+        quantity: 8
+        name: "&7Piston"
+        lore:
+          - "&7Push blocks."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 31
+    20:
+      type: item
+      item:
+        material: STICKY_PISTON
+        quantity: 8
+        name: "&aSticky Piston"
+        lore:
+          - "&7Push & pull blocks."
+      buyPrice: 180
+      sellPrice: 18
+      slot: 32
+    21:
+      type: item
+      item:
+        material: OBSERVER
+        quantity: 8
+        name: "&7Observer"
+        lore:
+          - "&7Detect block updates."
+      buyPrice: 180
+      sellPrice: 18
+      slot: 33
+    22:
+      type: item
+      item:
+        material: DISPENSER
+        quantity: 8
+        name: "&7Dispenser"
+        lore:
+          - "&7Launch projectiles/items."
+      buyPrice: 160
+      sellPrice: 16
+      slot: 34
+    23:
+      type: item
+      item:
+        material: DROPPER
+        quantity: 8
+        name: "&7Dropper"
+        lore:
+          - "&7Move items sans redstone."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 35
+    24:
+      type: item
+      item:
+        material: HOPPER
+        quantity: 8
+        name: "&7Hopper"
+        lore:
+          - "&7Item transport module."
+      buyPrice: 220
+      sellPrice: 22
+      slot: 36
+    25:
+      type: item
+      item:
+        material: HOPPER_MINECART
+        quantity: 4
+        name: "&7Hopper Minecart"
+        lore:
+          - "&7Mobile item pickup."
+      buyPrice: 260
+      sellPrice: 26
+      slot: 37
+    26:
+      type: item
+      item:
+        material: RAIL
+        quantity: 32
+        name: "&7Rail"
+        lore:
+          - "&7Basic rail track."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 38
+    27:
+      type: item
+      item:
+        material: POWERED_RAIL
+        quantity: 16
+        name: "&ePowered Rail"
+        lore:
+          - "&7Accelerate minecarts."
+      buyPrice: 180
+      sellPrice: 18
+      slot: 39
+    28:
+      type: item
+      item:
+        material: DETECTOR_RAIL
+        quantity: 16
+        name: "&eDetector Rail"
+        lore:
+          - "&7Emit signal when used."
+      buyPrice: 150
+      sellPrice: 15
+      slot: 40
+    29:
+      type: item
+      item:
+        material: ACTIVATOR_RAIL
+        quantity: 16
+        name: "&eActivator Rail"
+        lore:
+          - "&7Trigger special carts."
+      buyPrice: 150
+      sellPrice: 15
+      slot: 41
+    30:
+      type: item
+      item:
+        material: MINECART
+        quantity: 4
+        name: "&7Minecart"
+        lore:
+          - "&7Transport yourself."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 42
+    31:
+      type: item
+      item:
+        material: SLIME_BLOCK
+        quantity: 8
+        name: "&aSlime Block"
+        lore:
+          - "&7Bouncy piston heads."
+      buyPrice: 220
+      sellPrice: 22
+      slot: 43
+    32:
+      type: item
+      item:
+        material: HONEY_BLOCK
+        quantity: 8
+        name: "&6Honey Block"
+        lore:
+          - "&7Sticky flying machines."
+      buyPrice: 220
+      sellPrice: 22
+      slot: 44
+    33:
+      type: item
+      item:
+        material: LIGHTNING_ROD
+        quantity: 4
+        name: "&6Lightning Rod"
+        lore:
+          - "&7Redirect storms."
+      buyPrice: 160
+      sellPrice: 16
+      slot: 46
+    34:
+      type: item
+      item:
+        material: BELL
+        quantity: 2
+        name: "&eBell"
+        lore:
+          - "&7Village alerts."
+      buyPrice: 200
+      sellPrice: 20
+      slot: 47
+    35:
+      type: item
+      item:
+        material: TRAPPED_CHEST
+        quantity: 4
+        name: "&6Trapped Chest"
+        lore:
+          - "&7Hidden chest signals."
+      buyPrice: 160
+      sellPrice: 16
+      slot: 48
+    36:
+      type: item
+      item:
+        material: TINTED_GLASS
+        quantity: 16
+        name: "&5Tinted Glass"
+        lore:
+          - "&7Blocks light for sensors."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 50
+    37:
+      type: item
+      item:
+        material: SCULK_SENSOR
+        quantity: 4
+        name: "&9Sculk Sensor"
+        lore:
+          - "&7Wireless vibration input."
+      buyPrice: 260
+      sellPrice: 26
+      slot: 51
+    38:
+      type: item
+      item:
+        material: CALIBRATED_SCULK_SENSOR
+        quantity: 4
+        name: "&9Calibrated Sculk Sensor"
+        lore:
+          - "&7Filtered vibration logic."
+      buyPrice: 320
+      sellPrice: 32
+      slot: 52

@@ -1,0 +1,454 @@
+utility:
+  name: "&b&lUtility Items (page %page%)"
+  size: 54
+  fillItem:
+    material: GRAY_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 45
+    nextPage:
+      slot: 53
+  items:
+    1:
+      type: item
+      item:
+        material: TORCH
+        quantity: 64
+        name: "&eTorch"
+        lore:
+          - "&7Keep caves lit."
+      buyPrice: 40
+      sellPrice: 4
+      slot: 10
+    2:
+      type: item
+      item:
+        material: LANTERN
+        quantity: 16
+        name: "&fLantern"
+        lore:
+          - "&7Bright hanging light."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 11
+    3:
+      type: item
+      item:
+        material: SOUL_LANTERN
+        quantity: 16
+        name: "&3Soul Lantern"
+        lore:
+          - "&7Cool-toned lighting."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 12
+    4:
+      type: item
+      item:
+        material: CAMPFIRE
+        quantity: 4
+        name: "&6Campfire"
+        lore:
+          - "&7Cook & create smoke signals."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 13
+    5:
+      type: item
+      item:
+        material: SOUL_CAMPFIRE
+        quantity: 4
+        name: "&3Soul Campfire"
+        lore:
+          - "&7Blue flame cooking."
+      buyPrice: 110
+      sellPrice: 11
+      slot: 14
+    6:
+      type: item
+      item:
+        material: FURNACE
+        quantity: 1
+        name: "&7Furnace"
+        lore:
+          - "&7Smelt essentials."
+      buyPrice: 80
+      sellPrice: 16
+      slot: 15
+    7:
+      type: item
+      item:
+        material: BLAST_FURNACE
+        quantity: 1
+        name: "&7Blast Furnace"
+        lore:
+          - "&7Fast ore smelting."
+      buyPrice: 180
+      sellPrice: 36
+      slot: 16
+    8:
+      type: item
+      item:
+        material: SMOKER
+        quantity: 1
+        name: "&7Smoker"
+        lore:
+          - "&7Quick food cooker."
+      buyPrice: 160
+      sellPrice: 32
+      slot: 17
+    9:
+      type: item
+      item:
+        material: BREWING_STAND
+        quantity: 1
+        name: "&5Brewing Stand"
+        lore:
+          - "&7Brew useful potions."
+      buyPrice: 200
+      sellPrice: 40
+      slot: 19
+    10:
+      type: item
+      item:
+        material: CAULDRON
+        quantity: 1
+        name: "&7Cauldron"
+        lore:
+          - "&7Store water or dye."
+      buyPrice: 150
+      sellPrice: 30
+      slot: 20
+    11:
+      type: item
+      item:
+        material: BARREL
+        quantity: 1
+        name: "&6Barrel"
+        lore:
+          - "&7Compact storage."
+      buyPrice: 90
+      sellPrice: 18
+      slot: 21
+    12:
+      type: item
+      item:
+        material: CHEST
+        quantity: 2
+        name: "&6Chest"
+        lore:
+          - "&7General storage block."
+      buyPrice: 80
+      sellPrice: 16
+      slot: 22
+    13:
+      type: item
+      item:
+        material: TRAPPED_CHEST
+        quantity: 1
+        name: "&6Trapped Chest"
+        lore:
+          - "&7Secret storage signal."
+      buyPrice: 140
+      sellPrice: 28
+      slot: 23
+    14:
+      type: item
+      item:
+        material: ENDER_CHEST
+        quantity: 1
+        name: "&5Ender Chest"
+        lore:
+          - "&7Personal network storage."
+      buyPrice: 500
+      sellPrice: 100
+      slot: 24
+    15:
+      type: item
+      item:
+        material: CARTOGRAPHY_TABLE
+        quantity: 1
+        name: "&6Cartography Table"
+        lore:
+          - "&7Lock & clone maps."
+      buyPrice: 140
+      sellPrice: 28
+      slot: 25
+    16:
+      type: item
+      item:
+        material: BUCKET
+        quantity: 1
+        name: "&7Bucket"
+        lore:
+          - "&7Fill with water or lava."
+      buyPrice: 100
+      sellPrice: 20
+      slot: 26
+    17:
+      type: item
+      item:
+        material: WATER_BUCKET
+        quantity: 1
+        name: "&9Water Bucket"
+        lore:
+          - "&7Infinite water source."
+      buyPrice: 130
+      sellPrice: 26
+      slot: 27
+    18:
+      type: item
+      item:
+        material: LAVA_BUCKET
+        quantity: 1
+        name: "&6Lava Bucket"
+        lore:
+          - "&7Fuel or defense."
+      buyPrice: 160
+      sellPrice: 32
+      slot: 28
+    19:
+      type: item
+      item:
+        material: MILK_BUCKET
+        quantity: 1
+        name: "&fMilk Bucket"
+        lore:
+          - "&7Clear potion effects."
+      buyPrice: 140
+      sellPrice: 28
+      slot: 29
+    20:
+      type: item
+      item:
+        material: NAME_TAG
+        quantity: 1
+        name: "&fName Tag"
+        lore:
+          - "&7Keep mobs from despawning."
+      buyPrice: 200
+      sellPrice: 40
+      slot: 30
+    21:
+      type: item
+      item:
+        material: LEAD
+        quantity: 1
+        name: "&fLead"
+        lore:
+          - "&7Guide animals."
+      buyPrice: 120
+      sellPrice: 24
+      slot: 31
+    22:
+      type: item
+      item:
+        material: SADDLE
+        quantity: 1
+        name: "&6Saddle"
+        lore:
+          - "&7Ride horses & striders."
+      buyPrice: 220
+      sellPrice: 44
+      slot: 32
+    23:
+      type: item
+      item:
+        material: OAK_BOAT
+        quantity: 1
+        name: "&6Oak Boat"
+        lore:
+          - "&7Travel waterways."
+      buyPrice: 100
+      sellPrice: 20
+      slot: 33
+    24:
+      type: item
+      item:
+        material: CHEST_BOAT
+        quantity: 1
+        name: "&6Chest Boat"
+        lore:
+          - "&7Boat with storage."
+      buyPrice: 180
+      sellPrice: 36
+      slot: 34
+    25:
+      type: item
+      item:
+        material: MINECART
+        quantity: 1
+        name: "&7Minecart"
+        lore:
+          - "&7Rail travel."
+      buyPrice: 120
+      sellPrice: 24
+      slot: 35
+    26:
+      type: item
+      item:
+        material: CHEST_MINECART
+        quantity: 1
+        name: "&7Chest Minecart"
+        lore:
+          - "&7Storage on rails."
+      buyPrice: 160
+      sellPrice: 32
+      slot: 36
+    27:
+      type: item
+      item:
+        material: BED
+        quantity: 1
+        name: "&fWhite Bed"
+        lore:
+          - "&7Reset spawn point."
+      buyPrice: 100
+      sellPrice: 20
+      slot: 37
+    28:
+      type: item
+      item:
+        material: COMPASS
+        quantity: 1
+        name: "&fCompass"
+        lore:
+          - "&7Always know spawn."
+      buyPrice: 140
+      sellPrice: 28
+      slot: 38
+    29:
+      type: item
+      item:
+        material: CLOCK
+        quantity: 1
+        name: "&6Clock"
+        lore:
+          - "&7Track time underground."
+      buyPrice: 140
+      sellPrice: 28
+      slot: 39
+    30:
+      type: item
+      item:
+        material: EMPTY_MAP
+        quantity: 1
+        name: "&fEmpty Map"
+        lore:
+          - "&7Chart new areas."
+      buyPrice: 120
+      sellPrice: 24
+      slot: 40
+    31:
+      type: item
+      item:
+        material: SPYGLASS
+        quantity: 1
+        name: "&dSpyglass"
+        lore:
+          - "&7Zoom on distant builds."
+      buyPrice: 200
+      sellPrice: 40
+      slot: 41
+    32:
+      type: item
+      item:
+        material: ENDER_PEARL
+        quantity: 4
+        name: "&5Ender Pearl"
+        lore:
+          - "&7Quick reposition."
+      buyPrice: 220
+      sellPrice: 22
+      slot: 42
+    33:
+      type: item
+      item:
+        material: EXPERIENCE_BOTTLE
+        quantity: 8
+        name: "&aBottle o' Enchanting"
+        lore:
+          - "&7Top off XP."
+      buyPrice: 180
+      sellPrice: 18
+      slot: 43
+    34:
+      type: item
+      item:
+        material: WRITABLE_BOOK
+        quantity: 1
+        name: "&fBook & Quill"
+        lore:
+          - "&7Track shopping lists."
+      buyPrice: 160
+      sellPrice: 32
+      slot: 44
+    35:
+      type: item
+      item:
+        material: SOUL_TORCH
+        quantity: 64
+        name: "&3Soul Torch"
+        lore:
+          - "&7Nether-resistant light."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 46
+    36:
+      type: item
+      item:
+        material: CANDLE
+        quantity: 16
+        name: "&eCandle"
+        lore:
+          - "&7Decorative lighting."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 47
+    37:
+      type: item
+      item:
+        material: ITEM_FRAME
+        quantity: 16
+        name: "&6Item Frame"
+        lore:
+          - "&7Display prized gear."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 48
+    38:
+      type: item
+      item:
+        material: FLOWER_POT
+        quantity: 16
+        name: "&fFlower Pot"
+        lore:
+          - "&7Decorate interiors."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 50
+    39:
+      type: item
+      item:
+        material: ARMOR_STAND
+        quantity: 4
+        name: "&fArmor Stand"
+        lore:
+          - "&7Showcase armor sets."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 51
+    40:
+      type: item
+      item:
+        material: BUNDLE
+        quantity: 1
+        name: "&fBundle"
+        lore:
+          - "&7Organize odd items."
+      buyPrice: 220
+      sellPrice: 44
+      slot: 52

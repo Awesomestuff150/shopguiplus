@@ -1,314 +1,575 @@
 blocks:
-  name: "&9&lBlocks (page %page%)"
+  name: "&9&lBuilding Blocks (page %page%)"
+  size: 54
   fillItem:
-    material: BLACK_STAINED_GLASS_PANE
+    material: GRAY_STAINED_GLASS_PANE
     name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 45
+    nextPage:
+      slot: 53
   items:
     1:
       type: item
       item:
-        material: GRASS_BLOCK
-        quantity: 64
-      buyPrice: 50
-      sellPrice: 5
-      slot: 10
-    2:
-      type: item
-      item:
-        material: DIRT
-        quantity: 64
-      buyPrice: 30
-      sellPrice: 3
-      slot: 11
-    3:
-      type: item
-      item:
-        material: GRAVEL
-        quantity: 64
-      buyPrice: 50
-      sellPrice: 5
-      slot: 12
-    4:
-      type: item
-      item:
         material: COBBLESTONE
         quantity: 64
-      buyPrice: 30
-      sellPrice: 3
-      slot: 13
-    5:
-      type: item
-      item:
-        material: MOSSY_COBBLESTONE
-        quantity: 64
-      buyPrice: 50
-      sellPrice: 5
-      slot: 14
-    6:
+        name: "&7Cobblestone"
+        lore:
+          - "&7Baseline block for every build."
+      buyPrice: 40
+      sellPrice: 4
+      slot: 0
+    2:
       type: item
       item:
         material: STONE
         quantity: 64
+        name: "&7Stone"
+        lore:
+          - "&7Smooth mining-floor staple."
       buyPrice: 50
       sellPrice: 5
-      slot: 15
+      slot: 1
+    3:
+      type: item
+      item:
+        material: SMOOTH_STONE
+        quantity: 64
+        name: "&7Smooth Stone"
+        lore:
+          - "&7Clean slabs and floors."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 2
+    4:
+      type: item
+      item:
+        material: STONE_BRICKS
+        quantity: 64
+        name: "&7Stone Bricks"
+        lore:
+          - "&7Classic fortification look."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 3
+    5:
+      type: item
+      item:
+        material: MOSSY_STONE_BRICKS
+        quantity: 64
+        name: "&7Mossy Stone Bricks"
+        lore:
+          - "&7Perfect for ruins."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 4
+    6:
+      type: item
+      item:
+        material: DEEPSLATE
+        quantity: 64
+        name: "&8Deepslate"
+        lore:
+          - "&7Dark-toned stone variant."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 5
     7:
       type: item
       item:
-        material: GRANITE
+        material: POLISHED_DEEPSLATE
         quantity: 64
-      buyPrice: 30
+        name: "&8Polished Deepslate"
+        lore:
+          - "&7Sharp contrast block."
+      buyPrice: 80
       sellPrice: 8
-      slot: 16
+      slot: 6
     8:
       type: item
       item:
-        material: DIORITE
+        material: TUFF
         quantity: 64
-      buyPrice: 30
-      sellPrice: 3
-      slot: 19
+        name: "&7Tuff"
+        lore:
+          - "&7Subtle accent texture."
+      buyPrice: 50
+      sellPrice: 5
+      slot: 7
     9:
       type: item
       item:
-        material: ANDESITE
+        material: CALCITE
         quantity: 64
-      buyPrice: 30
-      sellPrice: 3
-      slot: 20
+        name: "&fCalcite"
+        lore:
+          - "&7Bright marble-like block."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 8
     10:
       type: item
       item:
-        material: OAK_Log
+        material: OAK_LOG
         quantity: 32
-      buyPrice: 100
-      sellPrice: 10
-      slot: 21
+        name: "&6Oak Log"
+        lore:
+          - "&7Versatile, rustic wood."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 9
     11:
       type: item
       item:
         material: SPRUCE_LOG
         quantity: 32
-      buyPrice: 100
-      sellPrice: 10
-      slot: 22
+        name: "&6Spruce Log"
+        lore:
+          - "&7Perfect for cabins."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 10
     12:
       type: item
       item:
         material: BIRCH_LOG
         quantity: 32
-      buyPrice: 100
-      sellPrice: 10
-      slot: 23
+        name: "&6Birch Log"
+        lore:
+          - "&7Light colored trim."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 11
     13:
       type: item
       item:
         material: JUNGLE_LOG
         quantity: 32
-      buyPrice: 100
-      sellPrice: 10
-      slot: 24
+        name: "&6Jungle Log"
+        lore:
+          - "&7Great for treehouses."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 12
     14:
       type: item
       item:
         material: ACACIA_LOG
         quantity: 32
-      buyPrice: 100
-      sellPrice: 10
-      slot: 25
+        name: "&6Acacia Log"
+        lore:
+          - "&7Orange-toned highlights."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 13
     15:
       type: item
       item:
         material: DARK_OAK_LOG
         quantity: 32
-      buyPrice: 100
-      sellPrice: 10
-      slot: 28
+        name: "&6Dark Oak Log"
+        lore:
+          - "&7Bold beams and trims."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 14
     16:
       type: item
       item:
-        material: SNOW_BLOCK
-        quantity: 16
-      buyPrice: 20
-      sellPrice: 2
-      slot: 29
+        material: CRIMSON_STEM
+        quantity: 32
+        name: "&5Crimson Stem"
+        lore:
+          - "&7Nether-themed builds."
+      buyPrice: 150
+      sellPrice: 15
+      slot: 15
     17:
       type: item
       item:
-        material: ICE
-        quantity: 16
-      buyPrice: 30
-      sellPrice: 3
-      slot: 30
+        material: WARPED_STEM
+        quantity: 32
+        name: "&3Warped Stem"
+        lore:
+          - "&7Cool-toned nether wood."
+      buyPrice: 150
+      sellPrice: 15
+      slot: 16
     18:
       type: item
       item:
-        material: PACKED_ICE
-        quantity: 16
-      buyPrice: 30
-      sellPrice: 3
-      slot: 31
+        material: MANGROVE_LOG
+        quantity: 32
+        name: "&cMangrove Log"
+        lore:
+          - "&7Great for roots & arches."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 17
     19:
       type: item
       item:
-        material: SPONGE
-        quantity: 8
-      buyPrice: 100
-      sellPrice: 10
-      slot: 32
+        material: OAK_PLANKS
+        quantity: 64
+        name: "&6Oak Planks"
+        lore:
+          - "&7Essential building block."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 18
     20:
       type: item
       item:
-        material: SAND
+        material: SPRUCE_PLANKS
         quantity: 64
-      buyPrice: 30
-      sellPrice: 3
-      slot: 33
+        name: "&6Spruce Planks"
+        lore:
+          - "&7Deep wood texture."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 19
     21:
       type: item
       item:
-        material: SANDSTONE
-        quantity: 32
-      buyPrice: 30
-      sellPrice: 3
-      slot: 34
+        material: BIRCH_PLANKS
+        quantity: 64
+        name: "&6Birch Planks"
+        lore:
+          - "&7Light interior option."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 20
     22:
       type: item
       item:
-        material: SAND
+        material: JUNGLE_PLANKS
         quantity: 64
-        damage: 1
-      buyPrice: 30
-      sellPrice: 3
-      slot: 10
-      page: 2
+        name: "&6Jungle Planks"
+        lore:
+          - "&7Vibrant wood flooring."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 21
     23:
       type: item
       item:
-        material: RED_SANDSTONE
-        quantity: 32
-      buyPrice: 30
-      sellPrice: 3
-      slot: 11
-      page: 2
+        material: ACACIA_PLANKS
+        quantity: 64
+        name: "&6Acacia Planks"
+        lore:
+          - "&7Modern orange planks."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 22
     24:
       type: item
       item:
-        material: GLASS
-        quantity: 16
-      buyPrice: 20
-      sellPrice: 4
-      slot: 12
-      page: 2
+        material: DARK_OAK_PLANKS
+        quantity: 64
+        name: "&6Dark Oak Planks"
+        lore:
+          - "&7Contrast-heavy trim."
+      buyPrice: 110
+      sellPrice: 11
+      slot: 23
     25:
       type: item
       item:
-        material: CLAY
-        quantity: 32
-      buyPrice: 40
-      sellPrice: 4
-      slot: 13
-      page: 2
+        material: CRIMSON_PLANKS
+        quantity: 64
+        name: "&5Crimson Planks"
+        lore:
+          - "&7Nether palette base."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 24
     26:
       type: item
       item:
-        material: TERRACOTTA
-        quantity: 32
-      buyPrice: 50
-      sellPrice: 5
-      slot: 14
-      page: 2
+        material: WARPED_PLANKS
+        quantity: 64
+        name: "&3Warped Planks"
+        lore:
+          - "&7Cool nether palette."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 25
     27:
       type: item
       item:
-        material: BRICK
+        material: MANGROVE_PLANKS
         quantity: 64
-      buyPrice: 70
-      sellPrice: 7
-      slot: 15
-      page: 2
+        name: "&cMangrove Planks"
+        lore:
+          - "&7Rich red planks."
+      buyPrice: 110
+      sellPrice: 11
+      slot: 26
     28:
-      type: item
-      item:
-        material: OBSIDIAN
-        quantity: 16
-      buyPrice: 30
-      sellPrice: 3
-      slot: 16
-      page: 2
-    29:
-      type: item
-      item:
-        material: NETHERRACK
-        quantity: 64
-      buyPrice: 30
-      sellPrice: 3
-      slot: 19
-      page: 2
-    30:
-      type: item
-      item:
-        material: GLOWSTONE
-        quantity: 64
-      buyPrice: 50
-      sellPrice: 5
-      slot: 20
-      page: 2
-    31:
-      type: item
-      item:
-        material: SOUL_SAND
-        quantity: 64
-      buyPrice: 30
-      sellPrice: 3
-      slot: 21
-      page: 2
-    32:
-      type: item
-      item:
-        material: NETHER_BRICK
-        quantity: 64
-      buyPrice: 50
-      sellPrice: 5
-      slot: 22
-      page: 2
-    33:
-      type: item
-      item:
-        material: END_STONE
-        quantity: 64
-      buyPrice: 30
-      sellPrice: 3
-      slot: 23
-      page: 2
-    34:
-      type: item
-      item:
-        material: PRISMARINE
-        quantity: 64
-      buyPrice: 50
-      sellPrice: 5
-      slot: 24
-      page: 2
-    35:
       type: item
       item:
         material: BOOKSHELF
         quantity: 16
-      buyPrice: 30
+        name: "&eBookshelf"
+        lore:
+          - "&7Libraries & enchanting."
+      buyPrice: 180
+      sellPrice: 36
+      slot: 27
+    29:
+      type: item
+      item:
+        material: GRANITE
+        quantity: 64
+        name: "&7Granite"
+        lore:
+          - "&7Warm-toned accent."
+      buyPrice: 60
       sellPrice: 6
-      slot: 25
-      page: 2
+      slot: 28
+    30:
+      type: item
+      item:
+        material: POLISHED_GRANITE
+        quantity: 64
+        name: "&7Polished Granite"
+        lore:
+          - "&7Refined granite finish."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 29
+    31:
+      type: item
+      item:
+        material: DIORITE
+        quantity: 64
+        name: "&7Diorite"
+        lore:
+          - "&7Speckled white block."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 30
+    32:
+      type: item
+      item:
+        material: POLISHED_DIORITE
+        quantity: 64
+        name: "&7Polished Diorite"
+        lore:
+          - "&7Clean white panels."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 31
+    33:
+      type: item
+      item:
+        material: ANDESITE
+        quantity: 64
+        name: "&7Andesite"
+        lore:
+          - "&7Neutral building stone."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 32
+    34:
+      type: item
+      item:
+        material: POLISHED_ANDESITE
+        quantity: 64
+        name: "&7Polished Andesite"
+        lore:
+          - "&7Smooth gray tiles."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 33
+    35:
+      type: item
+      item:
+        material: QUARTZ_BLOCK
+        quantity: 32
+        name: "&fQuartz Block"
+        lore:
+          - "&7Modern white block."
+      buyPrice: 200
+      sellPrice: 20
+      slot: 34
     36:
       type: item
       item:
-        material: ENCHANTING_TABLE
-        quantity: 1
-      buyPrice: 100
-      sellPrice: 20
-      slot: 31
-      page: 2
+        material: SMOOTH_QUARTZ
+        quantity: 32
+        name: "&fSmooth Quartz"
+        lore:
+          - "&7Polished quartz finish."
+      buyPrice: 220
+      sellPrice: 22
+      slot: 35
     37:
-      type: special
-      special: BALANCE
-      slot: 53
+      type: item
+      item:
+        material: BRICKS
+        quantity: 64
+        name: "&cBricks"
+        lore:
+          - "&7Townhouse favorite."
+      buyPrice: 150
+      sellPrice: 15
+      slot: 36
+    38:
+      type: item
+      item:
+        material: PRISMARINE_BRICKS
+        quantity: 32
+        name: "&bPrismarine Bricks"
+        lore:
+          - "&7Underwater palette."
+      buyPrice: 180
+      sellPrice: 18
+      slot: 37
+    39:
+      type: item
+      item:
+        material: DARK_PRISMARINE
+        quantity: 32
+        name: "&3Dark Prismarine"
+        lore:
+          - "&7Deep teal contrast."
+      buyPrice: 200
+      sellPrice: 20
+      slot: 38
+    40:
+      type: item
+      item:
+        material: SANDSTONE
+        quantity: 64
+        name: "&eSandstone"
+        lore:
+          - "&7Desert-friendly block."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 39
+    41:
+      type: item
+      item:
+        material: CUT_SANDSTONE
+        quantity: 64
+        name: "&eCut Sandstone"
+        lore:
+          - "&7Detailed sandstone faces."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 40
+    42:
+      type: item
+      item:
+        material: RED_SANDSTONE
+        quantity: 64
+        name: "&6Red Sandstone"
+        lore:
+          - "&7Mesa-inspired block."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 41
+    43:
+      type: item
+      item:
+        material: CUT_RED_SANDSTONE
+        quantity: 64
+        name: "&6Cut Red Sandstone"
+        lore:
+          - "&7Decorative red slabs."
+      buyPrice: 100
+      sellPrice: 10
+      slot: 42
+    44:
+      type: item
+      item:
+        material: TERRACOTTA
+        quantity: 64
+        name: "&7Terracotta"
+        lore:
+          - "&7Solid clay palette."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 43
+    45:
+      type: item
+      item:
+        material: SEA_LANTERN
+        quantity: 16
+        name: "&bSea Lantern"
+        lore:
+          - "&7Soft aqua lighting."
+      buyPrice: 220
+      sellPrice: 44
+      slot: 44
+    46:
+      type: item
+      item:
+        material: WHITE_CONCRETE
+        quantity: 64
+        name: "&fWhite Concrete"
+        lore:
+          - "&7Clean modern walls."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 46
+    47:
+      type: item
+      item:
+        material: LIGHT_GRAY_CONCRETE
+        quantity: 64
+        name: "&7Light Gray Concrete"
+        lore:
+          - "&7Neutral tone filler."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 47
+    48:
+      type: item
+      item:
+        material: BLACK_CONCRETE
+        quantity: 64
+        name: "&0Black Concrete"
+        lore:
+          - "&7Bold accent block."
+      buyPrice: 130
+      sellPrice: 13
+      slot: 48
+    49:
+      type: item
+      item:
+        material: GLASS
+        quantity: 64
+        name: "&fGlass"
+        lore:
+          - "&7Clear panes and skylights."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 50
+    50:
+      type: item
+      item:
+        material: WHITE_STAINED_GLASS
+        quantity: 64
+        name: "&fWhite Stained Glass"
+        lore:
+          - "&7Soft frosted windows."
+      buyPrice: 100
+      sellPrice: 10
+      slot: 51
+    51:
+      type: item
+      item:
+        material: GLOWSTONE
+        quantity: 32
+        name: "&eGlowstone"
+        lore:
+          - "&7Bright ambient light."
+      buyPrice: 150
+      sellPrice: 15
+      slot: 52
