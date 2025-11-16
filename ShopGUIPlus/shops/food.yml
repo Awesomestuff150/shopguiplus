@@ -1,8 +1,9 @@
 food:
-  name: "Food (page %page%)"
+  name: "&eFood (page %page%)"
   size: 54
   fillItem:
     material: GRAY_STAINED_GLASS_PANE
+    name: " "
   buttons:
     goBack:
       slot: 49
@@ -13,369 +14,379 @@ food:
   items:
     1:
       type: item
+      page: 1
+      slot: 10
       item:
         material: APPLE
-        quantity: 64
+        quantity: 32
       buyPrice: 80
       sellPrice: 16
-      slot: 0
     2:
       type: item
-      item:
-        material: GOLDEN_APPLE
-        quantity: 16
-      buyPrice: 600
-      sellPrice: 120
-      slot: 1
-    3:
-      type: item
-      item:
-        material: CARROT
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 2
-    4:
-      type: item
-      item:
-        material: GOLDEN_CARROT
-        quantity: 64
-      buyPrice: 200
-      sellPrice: 40
-      slot: 3
-    5:
-      type: item
-      item:
-        material: POTATO
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 4
-    6:
-      type: item
-      item:
-        material: BAKED_POTATO
-        quantity: 64
-      buyPrice: 90
-      sellPrice: 18
-      slot: 5
-    7:
-      type: item
-      item:
-        material: POISONOUS_POTATO
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 6
-    8:
-      type: item
-      item:
-        material: BEETROOT
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 7
-    9:
-      type: item
-      item:
-        material: BEETROOT_SOUP
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
-      slot: 8
-    10:
-      type: item
-      item:
-        material: WHEAT
-        quantity: 64
-      buyPrice: 90
-      sellPrice: 18
-      slot: 9
-    11:
-      type: item
+      page: 1
+      slot: 11
       item:
         material: BREAD
-        quantity: 64
+        quantity: 32
       buyPrice: 90
       sellPrice: 18
-      slot: 10
-    12:
+    3:
       type: item
-      item:
-        material: COOKIE
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 11
-    13:
-      type: item
-      item:
-        material: CAKE
-        quantity: 16
-      buyPrice: 200
-      sellPrice: 40
+      page: 1
       slot: 12
-    14:
-      type: item
       item:
-        material: PUMPKIN_PIE
+        material: COOKED_BEEF
+        quantity: 32
+      buyPrice: 160
+      sellPrice: 32
+    4:
+      type: item
+      page: 1
+      slot: 13
+      item:
+        material: COOKED_CHICKEN
+        quantity: 32
+      buyPrice: 140
+      sellPrice: 28
+    5:
+      type: item
+      page: 1
+      slot: 14
+      item:
+        material: COOKED_MUTTON
+        quantity: 32
+      buyPrice: 140
+      sellPrice: 28
+    6:
+      type: item
+      page: 1
+      slot: 15
+      item:
+        material: COOKED_PORKCHOP
         quantity: 32
       buyPrice: 150
       sellPrice: 30
-      slot: 13
-    15:
+    7:
       type: item
-      item:
-        material: MELON_SLICE
-        quantity: 64
-      buyPrice: 70
-      sellPrice: 14
-      slot: 14
-    16:
-      type: item
-      item:
-        material: GLISTERING_MELON_SLICE
-        quantity: 64
-      buyPrice: 220
-      sellPrice: 44
-      slot: 15
-    17:
-      type: item
-      item:
-        material: SUGAR
-        quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      page: 1
       slot: 16
-    18:
-      type: item
-      item:
-        material: SWEET_BERRIES
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 17
-    19:
-      type: item
-      item:
-        material: GLOW_BERRIES
-        quantity: 32
-      buyPrice: 100
-      sellPrice: 20
-      slot: 18
-    20:
-      type: item
-      item:
-        material: CHORUS_FRUIT
-        quantity: 64
-      buyPrice: 120
-      sellPrice: 24
-      slot: 19
-    21:
-      type: item
-      item:
-        material: DRIED_KELP
-        quantity: 64
-      buyPrice: 60
-      sellPrice: 12
-      slot: 20
-    22:
-      type: item
-      item:
-        material: DRIED_KELP_BLOCK
-        quantity: 64
-      buyPrice: 120
-      sellPrice: 24
-      slot: 21
-    23:
-      type: item
-      item:
-        material: BEEF
-        quantity: 64
-      buyPrice: 90
-      sellPrice: 18
-      slot: 22
-    24:
-      type: item
-      item:
-        material: COOKED_BEEF
-        quantity: 64
-      buyPrice: 140
-      sellPrice: 28
-      slot: 23
-    25:
-      type: item
-      item:
-        material: PORKCHOP
-        quantity: 64
-      buyPrice: 90
-      sellPrice: 18
-      slot: 24
-    26:
-      type: item
-      item:
-        material: COOKED_PORKCHOP
-        quantity: 64
-      buyPrice: 140
-      sellPrice: 28
-      slot: 25
-    27:
-      type: item
-      item:
-        material: MUTTON
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 26
-    28:
-      type: item
-      item:
-        material: COOKED_MUTTON
-        quantity: 64
-      buyPrice: 120
-      sellPrice: 24
-      slot: 27
-    29:
-      type: item
-      item:
-        material: CHICKEN
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 28
-    30:
-      type: item
-      item:
-        material: COOKED_CHICKEN
-        quantity: 64
-      buyPrice: 120
-      sellPrice: 24
-      slot: 29
-    31:
-      type: item
-      item:
-        material: RABBIT
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 30
-    32:
-      type: item
       item:
         material: COOKED_RABBIT
-        quantity: 64
-      buyPrice: 120
-      sellPrice: 24
-      slot: 31
-    33:
-      type: item
-      item:
-        material: RABBIT_STEW
         quantity: 32
       buyPrice: 160
       sellPrice: 32
-      slot: 32
-    34:
+    8:
       type: item
-      item:
-        material: MUSHROOM_STEW
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
-      slot: 33
-    35:
-      type: item
-      item:
-        material: SUSPICIOUS_STEW
-        quantity: 32
-      buyPrice: 140
-      sellPrice: 28
-      slot: 34
-    36:
-      type: item
-      item:
-        material: COD
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 35
-    37:
-      type: item
+      page: 1
+      slot: 19
       item:
         material: COOKED_COD
-        quantity: 64
-      buyPrice: 120
-      sellPrice: 24
-      slot: 36
-    38:
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+    9:
       type: item
-      item:
-        material: SALMON
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 37
-    39:
-      type: item
+      page: 1
+      slot: 20
       item:
         material: COOKED_SALMON
-        quantity: 64
+        quantity: 32
       buyPrice: 140
       sellPrice: 28
-      slot: 38
-    40:
+    10:
       type: item
+      page: 1
+      slot: 21
       item:
-        material: PUFFERFISH
+        material: BAKED_POTATO
         quantity: 32
+      buyPrice: 110
+      sellPrice: 22
+    11:
+      type: item
+      page: 1
+      slot: 22
+      item:
+        material: BEETROOT_SOUP
+        quantity: 16
+      buyPrice: 100
+      sellPrice: 20
+    12:
+      type: item
+      page: 1
+      slot: 23
+      item:
+        material: MUSHROOM_STEW
+        quantity: 16
       buyPrice: 90
       sellPrice: 18
-      slot: 39
-    41:
+    13:
       type: item
+      page: 1
+      slot: 24
       item:
-        material: TROPICAL_FISH
-        quantity: 32
-      buyPrice: 90
-      sellPrice: 18
-      slot: 40
-    42:
+        material: RABBIT_STEW
+        quantity: 16
+      buyPrice: 160
+      sellPrice: 32
+    14:
       type: item
+      page: 1
+      slot: 25
+      item:
+        material: SUSPICIOUS_STEW
+        quantity: 16
+      buyPrice: 140
+      sellPrice: 28
+    15:
+      type: item
+      page: 1
+      slot: 28
+      item:
+        material: PUMPKIN_PIE
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+    16:
+      type: item
+      page: 1
+      slot: 29
+      item:
+        material: CAKE
+        quantity: 4
+      buyPrice: 180
+      sellPrice: 36
+    17:
+      type: item
+      page: 1
+      slot: 30
+      item:
+        material: COOKIE
+        quantity: 64
+      buyPrice: 100
+      sellPrice: 20
+    18:
+      type: item
+      page: 1
+      slot: 31
       item:
         material: HONEY_BOTTLE
         quantity: 32
+      buyPrice: 140
+      sellPrice: 28
+    19:
+      type: item
+      page: 1
+      slot: 32
+      item:
+        material: SWEET_BERRIES
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+    20:
+      type: item
+      page: 1
+      slot: 33
+      item:
+        material: GLOW_BERRIES
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+    21:
+      type: item
+      page: 1
+      slot: 34
+      item:
+        material: DRIED_KELP
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+    22:
+      type: item
+      page: 2
+      slot: 10
+      item:
+        material: BEEF
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+    23:
+      type: item
+      page: 2
+      slot: 11
+      item:
+        material: CHICKEN
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+    24:
+      type: item
+      page: 2
+      slot: 12
+      item:
+        material: MUTTON
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+    25:
+      type: item
+      page: 2
+      slot: 13
+      item:
+        material: PORKCHOP
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+    26:
+      type: item
+      page: 2
+      slot: 14
+      item:
+        material: RABBIT
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+    27:
+      type: item
+      page: 2
+      slot: 15
+      item:
+        material: COD
+        quantity: 32
+      buyPrice: 110
+      sellPrice: 22
+    28:
+      type: item
+      page: 2
+      slot: 16
+      item:
+        material: SALMON
+        quantity: 32
+      buyPrice: 110
+      sellPrice: 22
+    29:
+      type: item
+      page: 2
+      slot: 19
+      item:
+        material: TROPICAL_FISH
+        quantity: 16
+      buyPrice: 150
+      sellPrice: 30
+    30:
+      type: item
+      page: 2
+      slot: 20
+      item:
+        material: PUFFERFISH
+        quantity: 16
+      buyPrice: 150
+      sellPrice: 30
+    31:
+      type: item
+      page: 2
+      slot: 21
+      item:
+        material: BEETROOT
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+    32:
+      type: item
+      page: 2
+      slot: 22
+      item:
+        material: CARROT
+        quantity: 64
+      buyPrice: 55
+      sellPrice: 11
+    33:
+      type: item
+      page: 2
+      slot: 23
+      item:
+        material: POTATO
+        quantity: 64
+      buyPrice: 55
+      sellPrice: 11
+    34:
+      type: item
+      page: 2
+      slot: 24
+      item:
+        material: MELON_SLICE
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+    35:
+      type: item
+      page: 2
+      slot: 25
+      item:
+        material: PUMPKIN
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    36:
+      type: item
+      page: 2
+      slot: 28
+      item:
+        material: SUGAR
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+    37:
+      type: item
+      page: 2
+      slot: 29
+      item:
+        material: MILK_BUCKET
+        quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 41
-    43:
+    38:
       type: item
+      page: 2
+      slot: 30
+      item:
+        material: EGG
+        quantity: 32
+      buyPrice: 90
+      sellPrice: 18
+    39:
+      type: item
+      page: 2
+      slot: 31
+      item:
+        material: WHEAT
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+    40:
+      type: item
+      page: 2
+      slot: 32
+      item:
+        material: HONEYCOMB
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+    41:
+      type: item
+      page: 2
+      slot: 33
+      item:
+        material: CHORUS_FRUIT
+        quantity: 32
+      buyPrice: 140
+      sellPrice: 28
+    42:
+      type: item
+      page: 2
+      slot: 34
       item:
         material: ROTTEN_FLESH
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 42
-    44:
-      type: item
-      item:
-        material: SPIDER_EYE
-        quantity: 64
-      buyPrice: 60
-      sellPrice: 12
-      slot: 43
-    45:
-      type: item
-      item:
-        material: MILK_BUCKET
-        quantity: 1
-      buyPrice: 200
-      sellPrice: 40
-      slot: 44
-    46:
-      type: item
-      item:
-        material: EGG
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 46

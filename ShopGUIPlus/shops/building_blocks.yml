@@ -1,0 +1,644 @@
+building_blocks:
+  name: "&6Building Blocks (page %page%)"
+  size: 54
+  fillItem:
+    material: GRAY_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 45
+    nextPage:
+      slot: 53
+  items:
+    1:
+      type: item
+      page: 1
+      slot: 10
+      item:
+        material: OAK_STAIRS
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    2:
+      type: item
+      page: 1
+      slot: 11
+      item:
+        material: STONE_STAIRS
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    3:
+      type: item
+      page: 1
+      slot: 12
+      item:
+        material: COBBLESTONE_STAIRS
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    4:
+      type: item
+      page: 1
+      slot: 13
+      item:
+        material: BRICK_STAIRS
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    5:
+      type: item
+      page: 1
+      slot: 14
+      item:
+        material: STONE_BRICK_STAIRS
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 15
+    6:
+      type: item
+      page: 1
+      slot: 15
+      item:
+        material: MOSSY_STONE_BRICK_STAIRS
+        quantity: 32
+      buyPrice: 85
+      sellPrice: 17
+    7:
+      type: item
+      page: 1
+      slot: 16
+      item:
+        material: ANDESITE_STAIRS
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    8:
+      type: item
+      page: 1
+      slot: 19
+      item:
+        material: POLISHED_ANDESITE_STAIRS
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    9:
+      type: item
+      page: 1
+      slot: 20
+      item:
+        material: GRANITE_STAIRS
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    10:
+      type: item
+      page: 1
+      slot: 21
+      item:
+        material: POLISHED_GRANITE_STAIRS
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    11:
+      type: item
+      page: 1
+      slot: 22
+      item:
+        material: DIORITE_STAIRS
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    12:
+      type: item
+      page: 1
+      slot: 23
+      item:
+        material: POLISHED_DIORITE_STAIRS
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    13:
+      type: item
+      page: 1
+      slot: 24
+      item:
+        material: BLACKSTONE_STAIRS
+        quantity: 32
+      buyPrice: 85
+      sellPrice: 17
+    14:
+      type: item
+      page: 1
+      slot: 25
+      item:
+        material: POLISHED_BLACKSTONE_STAIRS
+        quantity: 32
+      buyPrice: 90
+      sellPrice: 18
+    15:
+      type: item
+      page: 1
+      slot: 28
+      item:
+        material: POLISHED_BLACKSTONE_BRICK_STAIRS
+        quantity: 32
+      buyPrice: 95
+      sellPrice: 19
+    16:
+      type: item
+      page: 1
+      slot: 29
+      item:
+        material: DEEPSLATE_BRICK_STAIRS
+        quantity: 32
+      buyPrice: 90
+      sellPrice: 18
+    17:
+      type: item
+      page: 1
+      slot: 30
+      item:
+        material: DEEPSLATE_TILE_STAIRS
+        quantity: 32
+      buyPrice: 95
+      sellPrice: 19
+    18:
+      type: item
+      page: 1
+      slot: 31
+      item:
+        material: MUD_BRICK_STAIRS
+        quantity: 32
+      buyPrice: 85
+      sellPrice: 17
+    19:
+      type: item
+      page: 1
+      slot: 32
+      item:
+        material: NETHER_BRICK_STAIRS
+        quantity: 32
+      buyPrice: 85
+      sellPrice: 17
+    20:
+      type: item
+      page: 1
+      slot: 33
+      item:
+        material: QUARTZ_STAIRS
+        quantity: 32
+      buyPrice: 110
+      sellPrice: 22
+    21:
+      type: item
+      page: 1
+      slot: 34
+      item:
+        material: PRISMARINE_STAIRS
+        quantity: 32
+      buyPrice: 100
+      sellPrice: 20
+    22:
+      type: item
+      page: 2
+      slot: 10
+      item:
+        material: STONE_SLAB
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
+    23:
+      type: item
+      page: 2
+      slot: 11
+      item:
+        material: SMOOTH_STONE_SLAB
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    24:
+      type: item
+      page: 2
+      slot: 12
+      item:
+        material: COBBLESTONE_SLAB
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    25:
+      type: item
+      page: 2
+      slot: 13
+      item:
+        material: BRICK_SLAB
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    26:
+      type: item
+      page: 2
+      slot: 14
+      item:
+        material: STONE_BRICK_SLAB
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    27:
+      type: item
+      page: 2
+      slot: 15
+      item:
+        material: BLACKSTONE_SLAB
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 15
+    28:
+      type: item
+      page: 2
+      slot: 16
+      item:
+        material: POLISHED_BLACKSTONE_BRICK_SLAB
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    29:
+      type: item
+      page: 2
+      slot: 19
+      item:
+        material: DEEPSLATE_BRICK_SLAB
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 15
+    30:
+      type: item
+      page: 2
+      slot: 20
+      item:
+        material: DEEPSLATE_TILE_SLAB
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    31:
+      type: item
+      page: 2
+      slot: 21
+      item:
+        material: MUD_BRICK_SLAB
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    32:
+      type: item
+      page: 2
+      slot: 22
+      item:
+        material: OAK_SLAB
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    33:
+      type: item
+      page: 2
+      slot: 23
+      item:
+        material: SPRUCE_SLAB
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    34:
+      type: item
+      page: 2
+      slot: 24
+      item:
+        material: BIRCH_SLAB
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    35:
+      type: item
+      page: 2
+      slot: 25
+      item:
+        material: JUNGLE_SLAB
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    36:
+      type: item
+      page: 2
+      slot: 28
+      item:
+        material: ACACIA_SLAB
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    37:
+      type: item
+      page: 2
+      slot: 29
+      item:
+        material: DARK_OAK_SLAB
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
+    38:
+      type: item
+      page: 2
+      slot: 30
+      item:
+        material: MANGROVE_SLAB
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
+    39:
+      type: item
+      page: 2
+      slot: 31
+      item:
+        material: CHERRY_SLAB
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
+    40:
+      type: item
+      page: 2
+      slot: 32
+      item:
+        material: BAMBOO_SLAB
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    41:
+      type: item
+      page: 2
+      slot: 33
+      item:
+        material: CRIMSON_SLAB
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    42:
+      type: item
+      page: 2
+      slot: 34
+      item:
+        material: WARPED_SLAB
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    43:
+      type: item
+      page: 3
+      slot: 10
+      item:
+        material: COBBLESTONE_WALL
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    44:
+      type: item
+      page: 3
+      slot: 11
+      item:
+        material: MOSSY_COBBLESTONE_WALL
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 15
+    45:
+      type: item
+      page: 3
+      slot: 12
+      item:
+        material: STONE_BRICK_WALL
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    46:
+      type: item
+      page: 3
+      slot: 13
+      item:
+        material: BLACKSTONE_WALL
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    47:
+      type: item
+      page: 3
+      slot: 14
+      item:
+        material: POLISHED_BLACKSTONE_WALL
+        quantity: 32
+      buyPrice: 85
+      sellPrice: 17
+    48:
+      type: item
+      page: 3
+      slot: 15
+      item:
+        material: DEEPSLATE_BRICK_WALL
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    49:
+      type: item
+      page: 3
+      slot: 16
+      item:
+        material: DEEPSLATE_TILE_WALL
+        quantity: 32
+      buyPrice: 85
+      sellPrice: 17
+    50:
+      type: item
+      page: 3
+      slot: 19
+      item:
+        material: MUD_BRICK_WALL
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 15
+    51:
+      type: item
+      page: 3
+      slot: 20
+      item:
+        material: NETHER_BRICK_FENCE
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 15
+    52:
+      type: item
+      page: 3
+      slot: 21
+      item:
+        material: OAK_FENCE
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    53:
+      type: item
+      page: 3
+      slot: 22
+      item:
+        material: SPRUCE_FENCE
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    54:
+      type: item
+      page: 3
+      slot: 23
+      item:
+        material: BIRCH_FENCE
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    55:
+      type: item
+      page: 3
+      slot: 24
+      item:
+        material: JUNGLE_FENCE
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    56:
+      type: item
+      page: 3
+      slot: 25
+      item:
+        material: ACACIA_FENCE
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    57:
+      type: item
+      page: 3
+      slot: 28
+      item:
+        material: DARK_OAK_FENCE
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
+    58:
+      type: item
+      page: 3
+      slot: 29
+      item:
+        material: MANGROVE_FENCE
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
+    59:
+      type: item
+      page: 3
+      slot: 30
+      item:
+        material: CHERRY_FENCE
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
+    60:
+      type: item
+      page: 3
+      slot: 31
+      item:
+        material: BAMBOO_FENCE
+        quantity: 32
+      buyPrice: 55
+      sellPrice: 11
+    61:
+      type: item
+      page: 3
+      slot: 32
+      item:
+        material: CRIMSON_FENCE
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    62:
+      type: item
+      page: 3
+      slot: 33
+      item:
+        material: WARPED_FENCE
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    63:
+      type: item
+      page: 3
+      slot: 34
+      item:
+        material: OAK_DOOR
+        quantity: 16
+      buyPrice: 45
+      sellPrice: 9
+    64:
+      type: item
+      page: 3
+      slot: 37
+      item:
+        material: IRON_DOOR
+        quantity: 16
+      buyPrice: 65
+      sellPrice: 13
+    65:
+      type: item
+      page: 3
+      slot: 38
+      item:
+        material: OAK_TRAPDOOR
+        quantity: 16
+      buyPrice: 40
+      sellPrice: 8
+    66:
+      type: item
+      page: 3
+      slot: 39
+      item:
+        material: IRON_TRAPDOOR
+        quantity: 16
+      buyPrice: 60
+      sellPrice: 12
+    67:
+      type: item
+      page: 3
+      slot: 40
+      item:
+        material: GLASS_PANE
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+    68:
+      type: item
+      page: 3
+      slot: 41
+      item:
+        material: CHAIN
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    69:
+      type: item
+      page: 3
+      slot: 42
+      item:
+        material: CAMPFIRE
+        quantity: 8
+      buyPrice: 75
+      sellPrice: 15
+    70:
+      type: item
+      page: 3
+      slot: 43
+      item:
+        material: SOUL_CAMPFIRE
+        quantity: 8
+      buyPrice: 85
+      sellPrice: 17

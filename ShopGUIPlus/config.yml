@@ -41,7 +41,7 @@ economyTypes:
 # Name of the main GUI
 shopMenuName: "&3&lShop menu"
 # Size of the main GUI, valid values are 9, 18, 27, 36, 45 and 54
-shopMenuSize: 45
+shopMenuSize: 54
 # Choose an item to fill the empty slots of menu with
 shopMenuFillItem:
   material: BLACK_STAINED_GLASS_PANE
@@ -597,95 +597,118 @@ amountSelectionGUI:
       slot: 41
 
 shopMenuItems:
-  # Has to be unique, value doesn't matter
   1:
     item:
-      material: BRICKS
+      material: GRASS_BLOCK
       quantity: 1
-    shop: "blocks"
+    shop: "natural_blocks"
     slot: 10
   2:
+    item:
+      material: BRICK_STAIRS
+      quantity: 1
+    shop: "building_blocks"
+    slot: 11
+  3:
+    item:
+      material: DIAMOND_ORE
+      quantity: 1
+    shop: "ores"
+    slot: 12
+  4:
     item:
       material: IRON_PICKAXE
       quantity: 1
     shop: "tools"
-    slot: 11
-  3:
+    slot: 13
+  5:
     item:
       material: DIAMOND_SWORD
       quantity: 1
     shop: "weapons"
-    slot: 12
-  4:
+    slot: 14
+  6:
     item:
       material: DIAMOND_CHESTPLATE
       quantity: 1
     shop: "armor"
-    slot: 13
-  5:
+    slot: 15
+  7:
+    item:
+      material: POTION
+      quantity: 1
+    shop: "potions"
+    slot: 16
+  8:
     item:
       material: WHEAT
       quantity: 1
     shop: "farming"
-    slot: 14
-  6:
-    item:
-      material: DIAMOND_ORE
-      quantity: 1
-    shop: "mining"
-    slot: 15
-  7:
-    item:
-      material: REDSTONE_TORCH
-      quantity: 1
-    shop: "redstone"
-    slot: 16
-  8:
-    item:
-      material: BUCKET
-      quantity: 1
-    shop: "utility"
     slot: 19
   9:
     item:
-      material: COOKED_CHICKEN
+      material: COOKED_BEEF
       quantity: 1
     shop: "food"
     slot: 20
   10:
     item:
-      material: SPIDER_EYE
+      material: ROTTEN_FLESH
       quantity: 1
-    shop: "drops"
+    shop: "mob_drops"
     slot: 21
   11:
-    item:
-      material: LIGHT_BLUE_DYE
-      quantity: 1
-    shop: "dyes"
-    slot: 22
-  12:
-    item:
-      material: CHEST_MINECART
-      quantity: 1
-    shop: "miscellaneous"
-    slot: 23
-  13:
     item:
       material: BREWING_STAND
       quantity: 1
     shop: "brewing"
+    slot: 22
+  12:
+    item:
+      material: FLOWER_POT
+      quantity: 1
+    shop: "decoration"
+    slot: 23
+  13:
+    item:
+      material: LIGHT_BLUE_DYE
+      quantity: 1
+    shop: "dyes"
     slot: 24
   14:
     item:
-      material: PAINTING
+      material: BOOK
       quantity: 1
-    shop: "decorations"
+    shop: "miscellaneous"
     slot: 25
+  15:
+    item:
+      material: REDSTONE_TORCH
+      quantity: 1
+    shop: "redstone"
+    slot: 28
+  16:
+    item:
+      material: HOPPER
+      quantity: 1
+    shop: "utility"
+    slot: 29
+  17:
+    item:
+      material: SPAWNER
+      quantity: 1
+    shop: "spawners"
+    slot: 30
+  18:
+    item:
+      material: ZOMBIE_SPAWN_EGG
+      quantity: 1
+    shop: "spawn_eggs"
+    slot: 31
   99:
     type: special
     special: balance
-    slot: 34
+    slot: 49
 
 specialElements:
   balance:

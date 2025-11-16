@@ -1,5 +1,5 @@
-redstone:
-  name: "&cRedstone (page %page%)"
+ores:
+  name: "&8Ores & Minerals (page %page%)"
   size: 54
   fillItem:
     material: GRAY_STAINED_GLASS_PANE
@@ -17,16 +17,16 @@ redstone:
       page: 1
       slot: 10
       item:
-        material: REDSTONE
-        quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+        material: COAL_ORE
+        quantity: 32
+      buyPrice: 150
+      sellPrice: 30
     2:
       type: item
       page: 1
       slot: 11
       item:
-        material: REDSTONE_BLOCK
+        material: DEEPSLATE_COAL_ORE
         quantity: 32
       buyPrice: 160
       sellPrice: 32
@@ -35,197 +35,197 @@ redstone:
       page: 1
       slot: 12
       item:
-        material: REDSTONE_TORCH
-        quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+        material: IRON_ORE
+        quantity: 32
+      buyPrice: 180
+      sellPrice: 36
     4:
       type: item
       page: 1
       slot: 13
       item:
-        material: LEVER
-        quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+        material: DEEPSLATE_IRON_ORE
+        quantity: 32
+      buyPrice: 190
+      sellPrice: 38
     5:
       type: item
       page: 1
       slot: 14
       item:
-        material: STONE_BUTTON
-        quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+        material: COPPER_ORE
+        quantity: 32
+      buyPrice: 160
+      sellPrice: 32
     6:
       type: item
       page: 1
       slot: 15
       item:
-        material: OAK_BUTTON
-        quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+        material: DEEPSLATE_COPPER_ORE
+        quantity: 32
+      buyPrice: 170
+      sellPrice: 34
     7:
       type: item
       page: 1
       slot: 16
       item:
-        material: STONE_PRESSURE_PLATE
+        material: GOLD_ORE
         quantity: 32
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 200
+      sellPrice: 40
     8:
       type: item
       page: 1
       slot: 19
       item:
-        material: HEAVY_WEIGHTED_PRESSURE_PLATE
+        material: DEEPSLATE_GOLD_ORE
         quantity: 32
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 210
+      sellPrice: 42
     9:
       type: item
       page: 1
       slot: 20
       item:
-        material: LIGHT_WEIGHTED_PRESSURE_PLATE
+        material: LAPIS_ORE
         quantity: 32
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 170
+      sellPrice: 34
     10:
       type: item
       page: 1
       slot: 21
       item:
-        material: REDSTONE_LAMP
+        material: DEEPSLATE_LAPIS_ORE
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 180
+      sellPrice: 36
     11:
       type: item
       page: 1
       slot: 22
       item:
-        material: REDSTONE_REPEATER
+        material: REDSTONE_ORE
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 180
+      sellPrice: 36
     12:
       type: item
       page: 1
       slot: 23
       item:
-        material: REDSTONE_COMPARATOR
+        material: DEEPSLATE_REDSTONE_ORE
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 190
+      sellPrice: 38
     13:
       type: item
       page: 1
       slot: 24
       item:
-        material: OBSERVER
+        material: DIAMOND_ORE
         quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     14:
       type: item
       page: 1
       slot: 25
       item:
-        material: DAYLIGHT_DETECTOR
+        material: DEEPSLATE_DIAMOND_ORE
         quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 320
+      sellPrice: 64
     15:
       type: item
       page: 1
       slot: 28
       item:
-        material: PISTON
+        material: EMERALD_ORE
         quantity: 16
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 260
+      sellPrice: 52
     16:
       type: item
       page: 1
       slot: 29
       item:
-        material: STICKY_PISTON
+        material: DEEPSLATE_EMERALD_ORE
         quantity: 16
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 280
+      sellPrice: 56
     17:
       type: item
       page: 1
       slot: 30
       item:
-        material: SLIME_BLOCK
-        quantity: 16
-      buyPrice: 220
-      sellPrice: 44
+        material: NETHER_GOLD_ORE
+        quantity: 32
+      buyPrice: 190
+      sellPrice: 38
     18:
       type: item
       page: 1
       slot: 31
       item:
-        material: HONEY_BLOCK
-        quantity: 16
-      buyPrice: 200
-      sellPrice: 40
+        material: NETHER_QUARTZ_ORE
+        quantity: 32
+      buyPrice: 180
+      sellPrice: 36
     19:
       type: item
       page: 1
       slot: 32
       item:
-        material: TARGET
-        quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+        material: ANCIENT_DEBRIS
+        quantity: 8
+      buyPrice: 600
+      sellPrice: 120
     20:
       type: item
       page: 1
       slot: 33
       item:
-        material: LIGHTNING_ROD
+        material: AMETHYST_BLOCK
         quantity: 16
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 200
+      sellPrice: 40
     21:
       type: item
       page: 1
       slot: 34
       item:
-        material: NOTE_BLOCK
+        material: GILDED_BLACKSTONE
         quantity: 16
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     22:
       type: item
       page: 2
       slot: 10
       item:
-        material: TRIPWIRE_HOOK
+        material: COAL
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 120
+      sellPrice: 24
     23:
       type: item
       page: 2
       slot: 11
       item:
-        material: STRING
+        material: CHARCOAL
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 120
+      sellPrice: 24
     24:
       type: item
       page: 2
       slot: 12
       item:
-        material: SCULK_SENSOR
-        quantity: 16
+        material: RAW_IRON
+        quantity: 64
       buyPrice: 200
       sellPrice: 40
     25:
@@ -233,26 +233,26 @@ redstone:
       page: 2
       slot: 13
       item:
-        material: AMETHYST_BLOCK
-        quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+        material: IRON_INGOT
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 52
     26:
       type: item
       page: 2
       slot: 14
       item:
-        material: COPPER_BLOCK
-        quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+        material: RAW_COPPER
+        quantity: 64
+      buyPrice: 180
+      sellPrice: 36
     27:
       type: item
       page: 2
       slot: 15
       item:
-        material: CALIBRATED_SCULK_SENSOR
-        quantity: 16
+        material: COPPER_INGOT
+        quantity: 64
       buyPrice: 220
       sellPrice: 44
     28:
@@ -260,71 +260,71 @@ redstone:
       page: 2
       slot: 16
       item:
-        material: COMPARATOR
-        quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+        material: RAW_GOLD
+        quantity: 64
+      buyPrice: 240
+      sellPrice: 48
     29:
       type: item
       page: 2
       slot: 19
       item:
-        material: DISPENSER
-        quantity: 16
-      buyPrice: 110
-      sellPrice: 22
+        material: GOLD_INGOT
+        quantity: 64
+      buyPrice: 300
+      sellPrice: 60
     30:
       type: item
       page: 2
       slot: 20
       item:
-        material: DROPPER
-        quantity: 16
-      buyPrice: 100
-      sellPrice: 20
+        material: LAPIS_LAZULI
+        quantity: 64
+      buyPrice: 150
+      sellPrice: 30
     31:
       type: item
       page: 2
       slot: 21
       item:
-        material: HOPPER
-        quantity: 16
-      buyPrice: 160
-      sellPrice: 32
+        material: REDSTONE
+        quantity: 64
+      buyPrice: 120
+      sellPrice: 24
     32:
       type: item
       page: 2
       slot: 22
       item:
-        material: OBSERVER
-        quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+        material: DIAMOND
+        quantity: 32
+      buyPrice: 400
+      sellPrice: 80
     33:
       type: item
       page: 2
       slot: 23
       item:
-        material: REPEATER
+        material: EMERALD
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 320
+      sellPrice: 64
     34:
       type: item
       page: 2
       slot: 24
       item:
-        material: COMPARATOR
-        quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+        material: QUARTZ
+        quantity: 64
+      buyPrice: 180
+      sellPrice: 36
     35:
       type: item
       page: 2
       slot: 25
       item:
-        material: REDSTONE_BLOCK
-        quantity: 32
+        material: PRISMARINE_CRYSTALS
+        quantity: 64
       buyPrice: 160
       sellPrice: 32
     36:
@@ -332,17 +332,17 @@ redstone:
       page: 2
       slot: 28
       item:
-        material: GLOWSTONE
-        quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+        material: PRISMARINE_SHARD
+        quantity: 64
+      buyPrice: 150
+      sellPrice: 30
     37:
       type: item
       page: 2
       slot: 29
       item:
-        material: SEA_LANTERN
-        quantity: 16
+        material: AMETHYST_SHARD
+        quantity: 64
       buyPrice: 160
       sellPrice: 32
     38:
@@ -350,43 +350,43 @@ redstone:
       page: 2
       slot: 30
       item:
-        material: SCULK
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+        material: RAW_IRON_BLOCK
+        quantity: 16
+      buyPrice: 280
+      sellPrice: 56
     39:
       type: item
       page: 2
       slot: 31
       item:
-        material: REDSTONE_ORE
-        quantity: 32
-      buyPrice: 180
-      sellPrice: 36
+        material: RAW_GOLD_BLOCK
+        quantity: 16
+      buyPrice: 320
+      sellPrice: 64
     40:
       type: item
       page: 2
       slot: 32
       item:
-        material: DEEPSLATE_REDSTONE_ORE
-        quantity: 32
-      buyPrice: 200
-      sellPrice: 40
+        material: RAW_COPPER_BLOCK
+        quantity: 16
+      buyPrice: 220
+      sellPrice: 44
     41:
       type: item
       page: 2
       slot: 33
       item:
-        material: TINTED_GLASS
-        quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+        material: NETHERITE_SCRAP
+        quantity: 8
+      buyPrice: 420
+      sellPrice: 84
     42:
       type: item
       page: 2
       slot: 34
       item:
-        material: COPPER_BULB
-        quantity: 16
-      buyPrice: 180
-      sellPrice: 36
+        material: NETHERITE_INGOT
+        quantity: 4
+      buyPrice: 800
+      sellPrice: 160

@@ -1,8 +1,9 @@
 farming:
-  name: "Farming (page %page%)"
+  name: "&aFarming (page %page%)"
   size: 54
   fillItem:
     material: GRAY_STAINED_GLASS_PANE
+    name: " "
   buttons:
     goBack:
       slot: 49
@@ -13,409 +14,379 @@ farming:
   items:
     1:
       type: item
+      page: 1
+      slot: 10
       item:
         material: WHEAT_SEEDS
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
-      slot: 0
+      buyPrice: 40
+      sellPrice: 8
     2:
       type: item
+      page: 1
+      slot: 11
       item:
         material: BEETROOT_SEEDS
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
-      slot: 1
+      buyPrice: 45
+      sellPrice: 9
     3:
       type: item
-      item:
-        material: MELON_SEEDS
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 2
-    4:
-      type: item
+      page: 1
+      slot: 12
       item:
         material: PUMPKIN_SEEDS
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 3
+      buyPrice: 50
+      sellPrice: 10
+    4:
+      type: item
+      page: 1
+      slot: 13
+      item:
+        material: MELON_SEEDS
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
     5:
       type: item
-      item:
-        material: CARROT
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 4
-    6:
-      type: item
-      item:
-        material: POTATO
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 5
-    7:
-      type: item
-      item:
-        material: BEETROOT
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 6
-    8:
-      type: item
-      item:
-        material: SUGAR_CANE
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 7
-    9:
-      type: item
-      item:
-        material: BAMBOO
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 8
-    10:
-      type: item
-      item:
-        material: KELP
-        quantity: 64
-      buyPrice: 70
-      sellPrice: 14
-      slot: 9
-    11:
-      type: item
-      item:
-        material: COCOA_BEANS
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 10
-    12:
-      type: item
-      item:
-        material: NETHER_WART
-        quantity: 64
-      buyPrice: 120
-      sellPrice: 24
-      slot: 11
-    13:
-      type: item
-      item:
-        material: GLOW_BERRIES
-        quantity: 32
-      buyPrice: 100
-      sellPrice: 20
-      slot: 12
-    14:
-      type: item
-      item:
-        material: SWEET_BERRIES
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 13
-    15:
-      type: item
-      item:
-        material: CHORUS_FRUIT
-        quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      page: 1
       slot: 14
-    16:
-      type: item
-      item:
-        material: WHEAT
-        quantity: 64
-      buyPrice: 90
-      sellPrice: 18
-      slot: 15
-    17:
-      type: item
-      item:
-        material: HAY_BLOCK
-        quantity: 64
-      buyPrice: 150
-      sellPrice: 30
-      slot: 16
-    18:
-      type: item
       item:
         material: TORCHFLOWER_SEEDS
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
-      slot: 17
-    19:
+      buyPrice: 70
+      sellPrice: 14
+    6:
       type: item
-      item:
-        material: TORCHFLOWER
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 18
-    20:
-      type: item
+      page: 1
+      slot: 15
       item:
         material: PITCHER_POD
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
-      slot: 19
-    21:
+      buyPrice: 70
+      sellPrice: 14
+    7:
       type: item
+      page: 1
+      slot: 16
       item:
-        material: PITCHER_PLANT
+        material: COCOA_BEANS
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 60
+      sellPrice: 12
+    8:
+      type: item
+      page: 1
+      slot: 19
+      item:
+        material: CARROT
+        quantity: 64
+      buyPrice: 55
+      sellPrice: 11
+    9:
+      type: item
+      page: 1
       slot: 20
-    22:
-      type: item
       item:
-        material: SNIFFER_EGG
-        quantity: 4
-      buyPrice: 400
-      sellPrice: 80
+        material: POTATO
+        quantity: 64
+      buyPrice: 55
+      sellPrice: 11
+    10:
+      type: item
+      page: 1
       slot: 21
-    23:
-      type: item
       item:
-        material: OAK_SAPLING
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+        material: SWEET_BERRIES
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+    11:
+      type: item
+      page: 1
       slot: 22
-    24:
-      type: item
       item:
-        material: SPRUCE_SAPLING
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+        material: GLOW_BERRIES
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+    12:
+      type: item
+      page: 1
       slot: 23
-    25:
-      type: item
       item:
-        material: BIRCH_SAPLING
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+        material: SUGAR_CANE
+        quantity: 64
+      buyPrice: 45
+      sellPrice: 9
+    13:
+      type: item
+      page: 1
       slot: 24
-    26:
-      type: item
-      item:
-        material: JUNGLE_SAPLING
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
-      slot: 25
-    27:
-      type: item
-      item:
-        material: ACACIA_SAPLING
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
-      slot: 26
-    28:
-      type: item
-      item:
-        material: DARK_OAK_SAPLING
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
-      slot: 27
-    29:
-      type: item
-      item:
-        material: MANGROVE_PROPAGULE
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
-      slot: 28
-    30:
-      type: item
-      item:
-        material: CHERRY_SAPLING
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
-      slot: 29
-    31:
-      type: item
       item:
         material: BAMBOO
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+    14:
+      type: item
+      page: 1
+      slot: 25
+      item:
+        material: CACTUS
+        quantity: 64
+      buyPrice: 55
+      sellPrice: 11
+    15:
+      type: item
+      page: 1
+      slot: 28
+      item:
+        material: KELP
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+    16:
+      type: item
+      page: 1
+      slot: 29
+      item:
+        material: SEA_PICKLE
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 70
+      sellPrice: 14
+    17:
+      type: item
+      page: 1
       slot: 30
-    32:
-      type: item
       item:
-        material: CRIMSON_NYLIUM
+        material: GLOW_LICHEN
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 80
+      sellPrice: 16
+    18:
+      type: item
+      page: 1
       slot: 31
-    33:
-      type: item
       item:
-        material: WARPED_NYLIUM
+        material: VINE
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 70
+      sellPrice: 14
+    19:
+      type: item
+      page: 1
       slot: 32
-    34:
-      type: item
       item:
-        material: CRIMSON_FUNGUS
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+        material: NETHER_WART
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+    20:
+      type: item
+      page: 1
       slot: 33
-    35:
-      type: item
-      item:
-        material: WARPED_FUNGUS
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
-      slot: 34
-    36:
-      type: item
-      item:
-        material: NETHER_SPROUTS
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 35
-    37:
-      type: item
-      item:
-        material: WARPED_ROOTS
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 36
-    38:
-      type: item
-      item:
-        material: CRIMSON_ROOTS
-        quantity: 64
-      buyPrice: 80
-      sellPrice: 16
-      slot: 37
-    39:
-      type: item
       item:
         material: BONE_MEAL
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 38
-    40:
+    21:
       type: item
+      page: 1
+      slot: 34
       item:
-        material: COMPOSTER
-        quantity: 1
+        material: BONE_BLOCK
+        quantity: 32
       buyPrice: 120
       sellPrice: 24
-      slot: 39
-    41:
+    22:
       type: item
+      page: 2
+      slot: 10
       item:
-        material: WATER_BUCKET
-        quantity: 1
-      buyPrice: 200
-      sellPrice: 40
-      slot: 40
-    42:
-      type: item
-      item:
-        material: LAVA_BUCKET
-        quantity: 1
-      buyPrice: 220
-      sellPrice: 44
-      slot: 41
-    43:
-      type: item
-      item:
-        material: MILK_BUCKET
-        quantity: 1
-      buyPrice: 200
-      sellPrice: 40
-      slot: 42
-    44:
-      type: item
-      item:
-        material: BEEHIVE
-        quantity: 1
-      buyPrice: 250
-      sellPrice: 50
-      slot: 43
-    45:
-      type: item
-      item:
-        material: BEE_NEST
-        quantity: 1
-      buyPrice: 260
-      sellPrice: 52
-      slot: 44
-    46:
-      type: item
-      item:
-        material: SHEARS
-        quantity: 1
-      buyPrice: 150
-      sellPrice: 30
-      slot: 46
-    47:
-      type: item
-      item:
-        material: HONEYCOMB
+        material: OAK_SAPLING
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
-      slot: 47
-    48:
+      buyPrice: 60
+      sellPrice: 12
+    23:
       type: item
+      page: 2
+      slot: 11
       item:
-        material: HONEY_BOTTLE
-        quantity: 16
-      buyPrice: 160
-      sellPrice: 32
-      slot: 48
-    49:
+        material: SPRUCE_SAPLING
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
+    24:
       type: item
+      page: 2
+      slot: 12
       item:
-        material: FLOWER_POT
+        material: BIRCH_SAPLING
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
+    25:
+      type: item
+      page: 2
+      slot: 13
+      item:
+        material: JUNGLE_SAPLING
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    26:
+      type: item
+      page: 2
+      slot: 14
+      item:
+        material: ACACIA_SAPLING
+        quantity: 32
+      buyPrice: 65
+      sellPrice: 13
+    27:
+      type: item
+      page: 2
+      slot: 15
+      item:
+        material: DARK_OAK_SAPLING
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    28:
+      type: item
+      page: 2
+      slot: 16
+      item:
+        material: MANGROVE_PROPAGULE
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 15
+    29:
+      type: item
+      page: 2
+      slot: 19
+      item:
+        material: CHERRY_SAPLING
+        quantity: 32
+      buyPrice: 75
+      sellPrice: 15
+    30:
+      type: item
+      page: 2
+      slot: 20
+      item:
+        material: AZALEA
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    31:
+      type: item
+      page: 2
+      slot: 21
+      item:
+        material: FLOWERING_AZALEA
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+    32:
+      type: item
+      page: 2
+      slot: 22
+      item:
+        material: MOSS_BLOCK
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+    33:
+      type: item
+      page: 2
+      slot: 23
+      item:
+        material: MOSS_CARPET
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+    34:
+      type: item
+      page: 2
+      slot: 24
+      item:
+        material: LILY_PAD
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    35:
+      type: item
+      page: 2
+      slot: 25
+      item:
+        material: BIG_DRIPLEAF
         quantity: 16
       buyPrice: 90
       sellPrice: 18
-      slot: 50
-    50:
+    36:
       type: item
+      page: 2
+      slot: 28
       item:
-        material: SCULK_SENSOR
-        quantity: 1
-      buyPrice: 220
-      sellPrice: 44
-      slot: 51
-    51:
+        material: SMALL_DRIPLEAF
+        quantity: 16
+      buyPrice: 80
+      sellPrice: 16
+    37:
       type: item
+      page: 2
+      slot: 29
       item:
-        material: BRUSH
+        material: MANGROVE_ROOTS
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
+    38:
+      type: item
+      page: 2
+      slot: 30
+      item:
+        material: MUD
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+    39:
+      type: item
+      page: 2
+      slot: 31
+      item:
+        material: DIRT_PATH
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+    40:
+      type: item
+      page: 2
+      slot: 32
+      item:
+        material: FARMLAND
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+    41:
+      type: item
+      page: 2
+      slot: 33
+      item:
+        material: COMPOSTER
+        quantity: 4
+      buyPrice: 80
+      sellPrice: 16
+    42:
+      type: item
+      page: 2
+      slot: 34
+      item:
+        material: BEEHIVE
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
-      slot: 52
+      buyPrice: 260
+      sellPrice: 52
