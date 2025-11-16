@@ -426,7 +426,7 @@ blocks:
         quantity: 32
       buyPrice: 130
       sellPrice: 26
-      slot: 0
+      slot: 54
     53:
       type: item
       item:
@@ -434,7 +434,7 @@ blocks:
         quantity: 64
       buyPrice: 65
       sellPrice: 13
-      slot: 1
+      slot: 55
     54:
       type: item
       item:
@@ -442,7 +442,7 @@ blocks:
         quantity: 16
       buyPrice: 50
       sellPrice: 10
-      slot: 2
+      slot: 56
     55:
       type: item
       item:
@@ -450,7 +450,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 3
+      slot: 57
     56:
       type: item
       item:
@@ -458,7 +458,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 4
+      slot: 58
     57:
       type: item
       item:
@@ -466,7 +466,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 5
+      slot: 59
     58:
       type: item
       item:
@@ -474,7 +474,7 @@ blocks:
         quantity: 32
       buyPrice: 120
       sellPrice: 24
-      slot: 6
+      slot: 60
     59:
       type: item
       item:
@@ -482,7 +482,7 @@ blocks:
         quantity: 32
       buyPrice: 130
       sellPrice: 26
-      slot: 7
+      slot: 61
     60:
       type: item
       item:
@@ -490,7 +490,7 @@ blocks:
         quantity: 64
       buyPrice: 65
       sellPrice: 13
-      slot: 8
+      slot: 62
     61:
       type: item
       item:
@@ -498,7 +498,7 @@ blocks:
         quantity: 16
       buyPrice: 50
       sellPrice: 10
-      slot: 9
+      slot: 63
     62:
       type: item
       item:
@@ -506,7 +506,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 10
+      slot: 64
     63:
       type: item
       item:
@@ -514,7 +514,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 11
+      slot: 65
     64:
       type: item
       item:
@@ -522,7 +522,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 12
+      slot: 66
     65:
       type: item
       item:
@@ -530,7 +530,7 @@ blocks:
         quantity: 32
       buyPrice: 120
       sellPrice: 24
-      slot: 13
+      slot: 67
     66:
       type: item
       item:
@@ -538,7 +538,7 @@ blocks:
         quantity: 32
       buyPrice: 130
       sellPrice: 26
-      slot: 14
+      slot: 68
     67:
       type: item
       item:
@@ -546,7 +546,7 @@ blocks:
         quantity: 64
       buyPrice: 65
       sellPrice: 13
-      slot: 15
+      slot: 69
     68:
       type: item
       item:
@@ -554,7 +554,7 @@ blocks:
         quantity: 16
       buyPrice: 50
       sellPrice: 10
-      slot: 16
+      slot: 70
     69:
       type: item
       item:
@@ -562,7 +562,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 17
+      slot: 71
     70:
       type: item
       item:
@@ -570,7 +570,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 18
+      slot: 72
     71:
       type: item
       item:
@@ -578,7 +578,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 19
+      slot: 73
     72:
       type: item
       item:
@@ -586,7 +586,7 @@ blocks:
         quantity: 32
       buyPrice: 120
       sellPrice: 24
-      slot: 20
+      slot: 74
     73:
       type: item
       item:
@@ -594,7 +594,7 @@ blocks:
         quantity: 32
       buyPrice: 130
       sellPrice: 26
-      slot: 21
+      slot: 75
     74:
       type: item
       item:
@@ -602,7 +602,7 @@ blocks:
         quantity: 64
       buyPrice: 65
       sellPrice: 13
-      slot: 22
+      slot: 76
     75:
       type: item
       item:
@@ -610,7 +610,7 @@ blocks:
         quantity: 16
       buyPrice: 50
       sellPrice: 10
-      slot: 23
+      slot: 77
     76:
       type: item
       item:
@@ -618,7 +618,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 24
+      slot: 78
     77:
       type: item
       item:
@@ -626,7 +626,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 25
+      slot: 79
     78:
       type: item
       item:
@@ -634,7 +634,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 26
+      slot: 80
     79:
       type: item
       item:
@@ -642,7 +642,7 @@ blocks:
         quantity: 32
       buyPrice: 120
       sellPrice: 24
-      slot: 27
+      slot: 81
     80:
       type: item
       item:
@@ -650,7 +650,7 @@ blocks:
         quantity: 32
       buyPrice: 130
       sellPrice: 26
-      slot: 28
+      slot: 82
     81:
       type: item
       item:
@@ -658,7 +658,7 @@ blocks:
         quantity: 64
       buyPrice: 65
       sellPrice: 13
-      slot: 29
+      slot: 83
     82:
       type: item
       item:
@@ -666,7 +666,7 @@ blocks:
         quantity: 16
       buyPrice: 50
       sellPrice: 10
-      slot: 30
+      slot: 84
     83:
       type: item
       item:
@@ -674,7 +674,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 31
+      slot: 85
     84:
       type: item
       item:
@@ -682,7 +682,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 32
+      slot: 86
     85:
       type: item
       item:
@@ -690,7 +690,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 33
+      slot: 87
     86:
       type: item
       item:
@@ -698,7 +698,7 @@ blocks:
         quantity: 32
       buyPrice: 120
       sellPrice: 24
-      slot: 34
+      slot: 88
     87:
       type: item
       item:
@@ -706,7 +706,7 @@ blocks:
         quantity: 32
       buyPrice: 130
       sellPrice: 26
-      slot: 35
+      slot: 89
     88:
       type: item
       item:
@@ -714,7 +714,7 @@ blocks:
         quantity: 64
       buyPrice: 65
       sellPrice: 13
-      slot: 36
+      slot: 90
     89:
       type: item
       item:
@@ -722,7 +722,7 @@ blocks:
         quantity: 16
       buyPrice: 50
       sellPrice: 10
-      slot: 37
+      slot: 91
     90:
       type: item
       item:
@@ -730,7 +730,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 38
+      slot: 92
     91:
       type: item
       item:
@@ -738,7 +738,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 39
+      slot: 93
     92:
       type: item
       item:
@@ -746,23 +746,23 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 40
+      slot: 94
     93:
       type: item
       item:
-        material: CRIMSON_LOG
+        material: CRIMSON_STEM
         quantity: 32
       buyPrice: 120
       sellPrice: 24
-      slot: 41
+      slot: 95
     94:
       type: item
       item:
-        material: STRIPPED_CRIMSON_LOG
+        material: STRIPPED_CRIMSON_STEM
         quantity: 32
       buyPrice: 130
       sellPrice: 26
-      slot: 42
+      slot: 96
     95:
       type: item
       item:
@@ -770,7 +770,7 @@ blocks:
         quantity: 64
       buyPrice: 65
       sellPrice: 13
-      slot: 43
+      slot: 97
     96:
       type: item
       item:
@@ -778,7 +778,7 @@ blocks:
         quantity: 16
       buyPrice: 50
       sellPrice: 10
-      slot: 44
+      slot: 98
     97:
       type: item
       item:
@@ -786,7 +786,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 46
+      slot: 100
     98:
       type: item
       item:
@@ -794,7 +794,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 47
+      slot: 101
     99:
       type: item
       item:
@@ -802,23 +802,23 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 48
+      slot: 102
     100:
       type: item
       item:
-        material: WARPED_LOG
+        material: WARPED_STEM
         quantity: 32
       buyPrice: 120
       sellPrice: 24
-      slot: 50
+      slot: 104
     101:
       type: item
       item:
-        material: STRIPPED_WARPED_LOG
+        material: STRIPPED_WARPED_STEM
         quantity: 32
       buyPrice: 130
       sellPrice: 26
-      slot: 51
+      slot: 105
     102:
       type: item
       item:
@@ -826,7 +826,7 @@ blocks:
         quantity: 64
       buyPrice: 65
       sellPrice: 13
-      slot: 52
+      slot: 106
     103:
       type: item
       item:
@@ -834,7 +834,7 @@ blocks:
         quantity: 16
       buyPrice: 50
       sellPrice: 10
-      slot: 0
+      slot: 108
     104:
       type: item
       item:
@@ -842,7 +842,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 1
+      slot: 109
     105:
       type: item
       item:
@@ -850,7 +850,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 2
+      slot: 110
     106:
       type: item
       item:
@@ -858,7 +858,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 3
+      slot: 111
     107:
       type: item
       item:
@@ -866,7 +866,7 @@ blocks:
         quantity: 64
       buyPrice: 75
       sellPrice: 15
-      slot: 4
+      slot: 112
     108:
       type: item
       item:
@@ -874,7 +874,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 5
+      slot: 113
     109:
       type: item
       item:
@@ -882,7 +882,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 6
+      slot: 114
     110:
       type: item
       item:
@@ -890,7 +890,7 @@ blocks:
         quantity: 64
       buyPrice: 75
       sellPrice: 15
-      slot: 7
+      slot: 115
     111:
       type: item
       item:
@@ -898,7 +898,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 8
+      slot: 116
     112:
       type: item
       item:
@@ -906,7 +906,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 9
+      slot: 117
     113:
       type: item
       item:
@@ -914,7 +914,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 10
+      slot: 118
     114:
       type: item
       item:
@@ -922,7 +922,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 11
+      slot: 119
     115:
       type: item
       item:
@@ -930,7 +930,7 @@ blocks:
         quantity: 32
       buyPrice: 160
       sellPrice: 32
-      slot: 12
+      slot: 120
     116:
       type: item
       item:
@@ -938,7 +938,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 13
+      slot: 121
     117:
       type: item
       item:
@@ -946,7 +946,7 @@ blocks:
         quantity: 64
       buyPrice: 95
       sellPrice: 19
-      slot: 14
+      slot: 122
     118:
       type: item
       item:
@@ -954,7 +954,7 @@ blocks:
         quantity: 64
       buyPrice: 110
       sellPrice: 22
-      slot: 15
+      slot: 123
     119:
       type: item
       item:
@@ -962,7 +962,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 16
+      slot: 124
     120:
       type: item
       item:
@@ -970,7 +970,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 17
+      slot: 125
     121:
       type: item
       item:
@@ -978,7 +978,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 18
+      slot: 126
     122:
       type: item
       item:
@@ -986,7 +986,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 19
+      slot: 127
     123:
       type: item
       item:
@@ -994,7 +994,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 20
+      slot: 128
     124:
       type: item
       item:
@@ -1002,7 +1002,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 21
+      slot: 129
     125:
       type: item
       item:
@@ -1010,7 +1010,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 22
+      slot: 130
     126:
       type: item
       item:
@@ -1018,7 +1018,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 23
+      slot: 131
     127:
       type: item
       item:
@@ -1026,7 +1026,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 24
+      slot: 132
     128:
       type: item
       item:
@@ -1034,7 +1034,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 25
+      slot: 133
     129:
       type: item
       item:
@@ -1042,7 +1042,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 26
+      slot: 134
     130:
       type: item
       item:
@@ -1050,7 +1050,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 27
+      slot: 135
     131:
       type: item
       item:
@@ -1058,7 +1058,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 28
+      slot: 136
     132:
       type: item
       item:
@@ -1066,7 +1066,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 29
+      slot: 137
     133:
       type: item
       item:
@@ -1074,7 +1074,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 30
+      slot: 138
     134:
       type: item
       item:
@@ -1082,7 +1082,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 31
+      slot: 139
     135:
       type: item
       item:
@@ -1090,7 +1090,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 32
+      slot: 140
     136:
       type: item
       item:
@@ -1098,7 +1098,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 33
+      slot: 141
     137:
       type: item
       item:
@@ -1106,7 +1106,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 34
+      slot: 142
     138:
       type: item
       item:
@@ -1114,7 +1114,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 35
+      slot: 143
     139:
       type: item
       item:
@@ -1122,7 +1122,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 36
+      slot: 144
     140:
       type: item
       item:
@@ -1130,7 +1130,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 37
+      slot: 145
     141:
       type: item
       item:
@@ -1138,7 +1138,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 38
+      slot: 146
     142:
       type: item
       item:
@@ -1146,7 +1146,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 39
+      slot: 147
     143:
       type: item
       item:
@@ -1154,7 +1154,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 40
+      slot: 148
     144:
       type: item
       item:
@@ -1162,7 +1162,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 41
+      slot: 149
     145:
       type: item
       item:
@@ -1170,7 +1170,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 42
+      slot: 150
     146:
       type: item
       item:
@@ -1178,7 +1178,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 43
+      slot: 151
     147:
       type: item
       item:
@@ -1186,7 +1186,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 44
+      slot: 152
     148:
       type: item
       item:
@@ -1194,7 +1194,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 46
+      slot: 154
     149:
       type: item
       item:
@@ -1202,7 +1202,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 47
+      slot: 155
     150:
       type: item
       item:
@@ -1210,7 +1210,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 48
+      slot: 156
     151:
       type: item
       item:
@@ -1218,7 +1218,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 50
+      slot: 158
     152:
       type: item
       item:
@@ -1226,7 +1226,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 51
+      slot: 159
     153:
       type: item
       item:
@@ -1234,7 +1234,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 52
+      slot: 160
     154:
       type: item
       item:
@@ -1242,7 +1242,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 0
+      slot: 162
     155:
       type: item
       item:
@@ -1250,7 +1250,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 1
+      slot: 163
     156:
       type: item
       item:
@@ -1258,7 +1258,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 2
+      slot: 164
     157:
       type: item
       item:
@@ -1266,7 +1266,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 3
+      slot: 165
     158:
       type: item
       item:
@@ -1274,7 +1274,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 4
+      slot: 166
     159:
       type: item
       item:
@@ -1282,7 +1282,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 5
+      slot: 167
     160:
       type: item
       item:
@@ -1290,7 +1290,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 6
+      slot: 168
     161:
       type: item
       item:
@@ -1298,7 +1298,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 7
+      slot: 169
     162:
       type: item
       item:
@@ -1306,7 +1306,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 8
+      slot: 170
     163:
       type: item
       item:
@@ -1314,7 +1314,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 9
+      slot: 171
     164:
       type: item
       item:
@@ -1322,7 +1322,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 10
+      slot: 172
     165:
       type: item
       item:
@@ -1330,7 +1330,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 11
+      slot: 173
     166:
       type: item
       item:
@@ -1338,7 +1338,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 12
+      slot: 174
     167:
       type: item
       item:
@@ -1346,7 +1346,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 13
+      slot: 175
     168:
       type: item
       item:
@@ -1354,7 +1354,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 14
+      slot: 176
     169:
       type: item
       item:
@@ -1362,7 +1362,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 15
+      slot: 177
     170:
       type: item
       item:
@@ -1370,7 +1370,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 16
+      slot: 178
     171:
       type: item
       item:
@@ -1378,7 +1378,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 17
+      slot: 179
     172:
       type: item
       item:
@@ -1386,7 +1386,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 18
+      slot: 180
     173:
       type: item
       item:
@@ -1394,7 +1394,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 19
+      slot: 181
     174:
       type: item
       item:
@@ -1402,7 +1402,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 20
+      slot: 182
     175:
       type: item
       item:
@@ -1410,7 +1410,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 21
+      slot: 183
     176:
       type: item
       item:
@@ -1418,7 +1418,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 22
+      slot: 184
     177:
       type: item
       item:
@@ -1426,7 +1426,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 23
+      slot: 185
     178:
       type: item
       item:
@@ -1434,7 +1434,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 24
+      slot: 186
     179:
       type: item
       item:
@@ -1442,7 +1442,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 25
+      slot: 187
     180:
       type: item
       item:
@@ -1450,7 +1450,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 26
+      slot: 188
     181:
       type: item
       item:
@@ -1458,7 +1458,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 27
+      slot: 189
     182:
       type: item
       item:
@@ -1466,7 +1466,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 28
+      slot: 190
     183:
       type: item
       item:
@@ -1474,7 +1474,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 29
+      slot: 191
     184:
       type: item
       item:
@@ -1482,7 +1482,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 30
+      slot: 192
     185:
       type: item
       item:
@@ -1490,7 +1490,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 31
+      slot: 193
     186:
       type: item
       item:
@@ -1498,7 +1498,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 32
+      slot: 194
     187:
       type: item
       item:
@@ -1506,7 +1506,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 33
+      slot: 195
     188:
       type: item
       item:
@@ -1514,7 +1514,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 34
+      slot: 196
     189:
       type: item
       item:
@@ -1522,7 +1522,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 35
+      slot: 197
     190:
       type: item
       item:
@@ -1530,7 +1530,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 36
+      slot: 198
     191:
       type: item
       item:
@@ -1538,7 +1538,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 37
+      slot: 199
     192:
       type: item
       item:
@@ -1546,7 +1546,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 38
+      slot: 200
     193:
       type: item
       item:
@@ -1554,7 +1554,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 39
+      slot: 201
     194:
       type: item
       item:
@@ -1562,7 +1562,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 40
+      slot: 202
     195:
       type: item
       item:
@@ -1570,7 +1570,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 41
+      slot: 203
     196:
       type: item
       item:
@@ -1578,7 +1578,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 42
+      slot: 204
     197:
       type: item
       item:
@@ -1586,7 +1586,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 43
+      slot: 205
     198:
       type: item
       item:
@@ -1594,7 +1594,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 44
+      slot: 206
     199:
       type: item
       item:
@@ -1602,7 +1602,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 46
+      slot: 208
     200:
       type: item
       item:
@@ -1610,7 +1610,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 47
+      slot: 209
     201:
       type: item
       item:
@@ -1618,7 +1618,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 48
+      slot: 210
     202:
       type: item
       item:
@@ -1626,7 +1626,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 50
+      slot: 212
     203:
       type: item
       item:
@@ -1634,7 +1634,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 51
+      slot: 213
     204:
       type: item
       item:
@@ -1642,7 +1642,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 52
+      slot: 214
     205:
       type: item
       item:
@@ -1650,7 +1650,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 0
+      slot: 216
     206:
       type: item
       item:
@@ -1658,7 +1658,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 1
+      slot: 217
     207:
       type: item
       item:
@@ -1666,7 +1666,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 2
+      slot: 218
     208:
       type: item
       item:
@@ -1674,7 +1674,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 3
+      slot: 219
     209:
       type: item
       item:
@@ -1682,7 +1682,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 4
+      slot: 220
     210:
       type: item
       item:
@@ -1690,7 +1690,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 5
+      slot: 221
     211:
       type: item
       item:
@@ -1698,7 +1698,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 6
+      slot: 222
     212:
       type: item
       item:
@@ -1706,7 +1706,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 7
+      slot: 223
     213:
       type: item
       item:
@@ -1714,7 +1714,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 8
+      slot: 224
     214:
       type: item
       item:
@@ -1722,7 +1722,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 9
+      slot: 225
     215:
       type: item
       item:
@@ -1730,7 +1730,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 10
+      slot: 226
     216:
       type: item
       item:
@@ -1738,7 +1738,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 11
+      slot: 227
     217:
       type: item
       item:
@@ -1746,7 +1746,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 12
+      slot: 228
     218:
       type: item
       item:
@@ -1754,7 +1754,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 13
+      slot: 229
     219:
       type: item
       item:
@@ -1762,7 +1762,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 14
+      slot: 230
     220:
       type: item
       item:
@@ -1770,7 +1770,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 15
+      slot: 231
     221:
       type: item
       item:
@@ -1778,7 +1778,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 16
+      slot: 232
     222:
       type: item
       item:
@@ -1786,7 +1786,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 17
+      slot: 233
     223:
       type: item
       item:
@@ -1794,7 +1794,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 18
+      slot: 234
     224:
       type: item
       item:
@@ -1802,7 +1802,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 19
+      slot: 235
     225:
       type: item
       item:
@@ -1810,7 +1810,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 20
+      slot: 236
     226:
       type: item
       item:
@@ -1818,7 +1818,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 21
+      slot: 237
     227:
       type: item
       item:
@@ -1826,7 +1826,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 22
+      slot: 238
     228:
       type: item
       item:
@@ -1834,7 +1834,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 23
+      slot: 239
     229:
       type: item
       item:
@@ -1842,7 +1842,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 24
+      slot: 240
     230:
       type: item
       item:
@@ -1850,7 +1850,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 25
+      slot: 241
     231:
       type: item
       item:
@@ -1858,7 +1858,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 26
+      slot: 242
     232:
       type: item
       item:
@@ -1866,7 +1866,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 27
+      slot: 243
     233:
       type: item
       item:
@@ -1874,7 +1874,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 28
+      slot: 244
     234:
       type: item
       item:
@@ -1882,7 +1882,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 29
+      slot: 245
     235:
       type: item
       item:
@@ -1890,7 +1890,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 30
+      slot: 246
     236:
       type: item
       item:
@@ -1898,7 +1898,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 31
+      slot: 247
     237:
       type: item
       item:
@@ -1906,7 +1906,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 32
+      slot: 248
     238:
       type: item
       item:
@@ -1914,7 +1914,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 33
+      slot: 249
     239:
       type: item
       item:
@@ -1922,7 +1922,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 34
+      slot: 250
     240:
       type: item
       item:
@@ -1930,7 +1930,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 35
+      slot: 251
     241:
       type: item
       item:
@@ -1938,7 +1938,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 36
+      slot: 252
     242:
       type: item
       item:
@@ -1946,7 +1946,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 37
+      slot: 253
     243:
       type: item
       item:
@@ -1954,7 +1954,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 38
+      slot: 254
     244:
       type: item
       item:
@@ -1962,7 +1962,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 39
+      slot: 255
     245:
       type: item
       item:
@@ -1970,7 +1970,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 40
+      slot: 256
     246:
       type: item
       item:
@@ -1978,7 +1978,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 41
+      slot: 257
     247:
       type: item
       item:
@@ -1986,7 +1986,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 42
+      slot: 258
     248:
       type: item
       item:
@@ -1994,7 +1994,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 43
+      slot: 259
     249:
       type: item
       item:
@@ -2002,7 +2002,7 @@ blocks:
         quantity: 64
       buyPrice: 110
       sellPrice: 22
-      slot: 44
+      slot: 260
     250:
       type: item
       item:
@@ -2010,7 +2010,7 @@ blocks:
         quantity: 64
       buyPrice: 110
       sellPrice: 22
-      slot: 46
+      slot: 262
     251:
       type: item
       item:
@@ -2018,7 +2018,7 @@ blocks:
         quantity: 64
       buyPrice: 115
       sellPrice: 23
-      slot: 47
+      slot: 263
     252:
       type: item
       item:
@@ -2026,7 +2026,7 @@ blocks:
         quantity: 64
       buyPrice: 115
       sellPrice: 23
-      slot: 48
+      slot: 264
     253:
       type: item
       item:
@@ -2034,7 +2034,7 @@ blocks:
         quantity: 64
       buyPrice: 120
       sellPrice: 24
-      slot: 50
+      slot: 266
     254:
       type: item
       item:
@@ -2042,7 +2042,7 @@ blocks:
         quantity: 64
       buyPrice: 130
       sellPrice: 26
-      slot: 51
+      slot: 267
     255:
       type: item
       item:
@@ -2050,7 +2050,7 @@ blocks:
         quantity: 64
       buyPrice: 135
       sellPrice: 27
-      slot: 52
+      slot: 268
     256:
       type: item
       item:
@@ -2058,7 +2058,7 @@ blocks:
         quantity: 64
       buyPrice: 90
       sellPrice: 18
-      slot: 0
+      slot: 270
     257:
       type: item
       item:
@@ -2066,7 +2066,7 @@ blocks:
         quantity: 64
       buyPrice: 95
       sellPrice: 19
-      slot: 1
+      slot: 271
     258:
       type: item
       item:
@@ -2074,7 +2074,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 2
+      slot: 272
     259:
       type: item
       item:
@@ -2082,7 +2082,7 @@ blocks:
         quantity: 64
       buyPrice: 110
       sellPrice: 22
-      slot: 3
+      slot: 273
     260:
       type: item
       item:
@@ -2090,7 +2090,7 @@ blocks:
         quantity: 32
       buyPrice: 200
       sellPrice: 40
-      slot: 4
+      slot: 274
     261:
       type: item
       item:
@@ -2098,7 +2098,7 @@ blocks:
         quantity: 64
       buyPrice: 120
       sellPrice: 24
-      slot: 5
+      slot: 275
     262:
       type: item
       item:
@@ -2106,7 +2106,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 6
+      slot: 276
     263:
       type: item
       item:
@@ -2114,7 +2114,7 @@ blocks:
         quantity: 32
       buyPrice: 180
       sellPrice: 36
-      slot: 7
+      slot: 277
     264:
       type: item
       item:
@@ -2122,7 +2122,7 @@ blocks:
         quantity: 32
       buyPrice: 200
       sellPrice: 40
-      slot: 8
+      slot: 278
     265:
       type: item
       item:
@@ -2130,7 +2130,7 @@ blocks:
         quantity: 32
       buyPrice: 140
       sellPrice: 28
-      slot: 9
+      slot: 279
     266:
       type: item
       item:
@@ -2138,7 +2138,7 @@ blocks:
         quantity: 32
       buyPrice: 140
       sellPrice: 28
-      slot: 10
+      slot: 280
     267:
       type: item
       item:
@@ -2146,7 +2146,7 @@ blocks:
         quantity: 32
       buyPrice: 150
       sellPrice: 30
-      slot: 11
+      slot: 281
     268:
       type: item
       item:
@@ -2154,7 +2154,7 @@ blocks:
         quantity: 1
       buyPrice: 500
       sellPrice: 100
-      slot: 12
+      slot: 282
     269:
       type: item
       item:
@@ -2162,7 +2162,7 @@ blocks:
         quantity: 64
       buyPrice: 80
       sellPrice: 16
-      slot: 13
+      slot: 283
     270:
       type: item
       item:
@@ -2170,7 +2170,7 @@ blocks:
         quantity: 64
       buyPrice: 50
       sellPrice: 10
-      slot: 14
+      slot: 284
     271:
       type: item
       item:
@@ -2178,7 +2178,7 @@ blocks:
         quantity: 64
       buyPrice: 60
       sellPrice: 12
-      slot: 15
+      slot: 285
     272:
       type: item
       item:
@@ -2186,7 +2186,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 16
+      slot: 286
     273:
       type: item
       item:
@@ -2194,7 +2194,7 @@ blocks:
         quantity: 64
       buyPrice: 40
       sellPrice: 8
-      slot: 17
+      slot: 287
     274:
       type: item
       item:
@@ -2202,7 +2202,7 @@ blocks:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 18
+      slot: 288
     275:
       type: item
       item:
@@ -2210,4 +2210,4 @@ blocks:
         quantity: 32
       buyPrice: 80
       sellPrice: 16
-      slot: 19
+      slot: 289

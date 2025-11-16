@@ -86,7 +86,7 @@ redstone:
     10:
       type: item
       item:
-        material: PRESSURE_PLATE
+        material: STONE_PRESSURE_PLATE
         quantity: 64
       buyPrice: 120
       sellPrice: 24

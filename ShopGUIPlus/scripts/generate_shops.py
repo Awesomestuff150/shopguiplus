@@ -7,6 +7,13 @@ base_dir.mkdir(parents=True, exist_ok=True)
 
 slot_order = [i for i in range(54) if i not in (45, 49, 53)]
 
+def resolve_slot(index: int) -> int:
+    """Return a GUI slot while keeping navigation buttons reserved per page."""
+    per_page = len(slot_order)
+    slot = slot_order[(index - 1) % per_page]
+    page = (index - 1) // per_page
+    return slot + 54 * page
+
 class Shop:
     def __init__(self, shop_id, title):
         self.shop_id = shop_id
@@ -59,8 +66,15 @@ for wood in wood_types:
     plank = f'{wood}_PLANKS'
     stairs = f'{wood}_STAIRS'
     slab = f'{wood}_SLAB'
-    log = 'BAMBOO_BLOCK' if wood == 'BAMBOO' else f'{wood}_LOG'
-    stripped = 'STRIPPED_BAMBOO_BLOCK' if wood == 'BAMBOO' else f'STRIPPED_{wood}_LOG'
+    if wood in {'CRIMSON', 'WARPED'}:
+        log = f'{wood}_STEM'
+        stripped = f'STRIPPED_{wood}_STEM'
+    elif wood == 'BAMBOO':
+        log = 'BAMBOO_BLOCK'
+        stripped = 'STRIPPED_BAMBOO_BLOCK'
+    else:
+        log = f'{wood}_LOG'
+        stripped = f'STRIPPED_{wood}_LOG'
     fence = f'{wood}_FENCE'
     door = f'{wood}_DOOR'
     shops['blocks'].add(plank, 64, 70, 14)
@@ -141,7 +155,7 @@ weapon_extras = [
     ('BOW',1,220),('CROSSBOW',1,260),('TRIDENT',1,600),('SHIELD',1,200),
     ('ARROW',64,120),('SPECTRAL_ARROW',64,150),('TIPPED_ARROW',64,200),('FIREWORK_ROCKET',64,200),
     ('FIREWORK_STAR',64,140),('FIRE_CHARGE',16,160),('FLINT_AND_STEEL',1,120),('SNOWBALL',16,60),
-    ('EGG',16,60),('ENDER_PEARL',16,260),('EYE_OF_ENDER',16,320),('TNT',16,220),('TNT_MINECART',16,360),
+    ('EGG',16,60),('ENDER_PEARL',16,260),('ENDER_EYE',16,320),('TNT',16,220),('TNT_MINECART',16,360),
     ('LAVA_BUCKET',1,240),('RESPAWN_ANCHOR',1,700),('END_CRYSTAL',16,260),('LIGHTNING_ROD',1,120),
     ('FISHING_ROD',1,200),('POTION',16,140),('SPLASH_POTION',16,150),('LINGERING_POTION',16,180),
     ('FLINT',64,80),('FEATHER',64,90),('STRING',64,120),('STICK',64,40),('GUNPOWDER',64,160),
@@ -237,7 +251,7 @@ for mat, qty, buy in minerals:
 ore_blocks = [
     ('COAL_ORE',32,240),('IRON_ORE',32,300),('COPPER_ORE',32,260),('GOLD_ORE',32,340),('LAPIS_ORE',32,260),
     ('REDSTONE_ORE',32,280),('DIAMOND_ORE',16,650),('EMERALD_ORE',16,700),('NETHER_GOLD_ORE',32,320),
-    ('QUARTZ_ORE',32,260),('DEEPSLATE_COAL_ORE',32,260),('DEEPSLATE_IRON_ORE',32,320),
+    ('NETHER_QUARTZ_ORE',32,260),('DEEPSLATE_COAL_ORE',32,260),('DEEPSLATE_IRON_ORE',32,320),
     ('DEEPSLATE_COPPER_ORE',32,300),('DEEPSLATE_GOLD_ORE',32,360),('DEEPSLATE_REDSTONE_ORE',32,320),
     ('DEEPSLATE_DIAMOND_ORE',16,700),('DEEPSLATE_EMERALD_ORE',16,720)
 ]
@@ -256,7 +270,7 @@ for mat, qty, buy in mining_blocks:
 # Redstone
 redstone_items = [
     ('REDSTONE',64,200),('REDSTONE_TORCH',64,220),('REDSTONE_BLOCK',64,480),('REPEATER',64,260),('COMPARATOR',64,300),
-    ('REDSTONE_LAMP',64,280),('LEVER',64,120),('STONE_BUTTON',64,80),('OAK_BUTTON',64,80),('PRESSURE_PLATE',64,120),
+    ('REDSTONE_LAMP',64,280),('LEVER',64,120),('STONE_BUTTON',64,80),('OAK_BUTTON',64,80),('STONE_PRESSURE_PLATE',64,120),
     ('HEAVY_WEIGHTED_PRESSURE_PLATE',64,180),('LIGHT_WEIGHTED_PRESSURE_PLATE',64,160),('OBSERVER',64,320),
     ('PISTON',64,260),('STICKY_PISTON',64,320),('SLIME_BLOCK',32,140),('HONEY_BLOCK',32,140),('DISPENSER',64,260),
     ('DROPPER',64,200),('HOPPER',64,320),('TARGET',64,220),('DAYLIGHT_DETECTOR',64,260),('LECTERN',64,220),
@@ -283,7 +297,7 @@ utility_items = [
     ('MINECART',1,260),('SADDLE',1,220),('LEAD',1,180),('NAME_TAG',1,220),('ENDER_CHEST',1,600),
     ('SHULKER_BOX',1,420),('CLOCK',1,250),('COMPASS',1,250),
     ('MAP',1,200),('FILLED_MAP',1,220),('RECOVERY_COMPASS',1,400),('FIREWORK_ROCKET',64,200),
-    ('SPYGLASS',1,300),('GLOW_INK_SAC',32,200),('ENDER_PEARL',16,260),('EYE_OF_ENDER',16,320),
+    ('SPYGLASS',1,300),('GLOW_INK_SAC',32,200),('ENDER_PEARL',16,260),('ENDER_EYE',16,320),
     ('HEART_OF_THE_SEA',1,600),('NAUTILUS_SHELL',16,260)
 ]
 for mat, qty, buy in utility_items:
@@ -323,7 +337,7 @@ mob_drops = [
     ('BONE',64,80),('ARROW',64,120),('ENDER_PEARL',16,260),('GUNPOWDER',64,160),('SLIME_BALL',64,180),
     ('MAGMA_CREAM',64,200),('BLAZE_ROD',64,220),('GHAST_TEAR',16,260),('PHANTOM_MEMBRANE',32,200),
     ('SHULKER_SHELL',16,240),('WITHER_SKELETON_SKULL',8,400),('TURTLE_SCUTE',32,220),('RABBIT_HIDE',64,120),
-    ('RABBIT_FOOT',32,180),('GOAT_HORN',16,240),('LEATHER',64,140),('FEATHER',64,90),('STRING',64,120),
+    ('RABBIT_FOOT',32,180),('LEATHER',64,140),('FEATHER',64,90),('STRING',64,120),
     ('SPIDER_EYE',64,60),('ROTTEN_FLESH',64,40),('GLOW_INK_SAC',32,200),('INK_SAC',64,90),('NAUTILUS_SHELL',16,260),
     ('PRISMARINE_CRYSTALS',64,260),('PRISMARINE_SHARD',64,240),('HEART_OF_THE_SEA',1,600),('TOTEM_OF_UNDYING',1,800),
     ('DRAGON_BREATH',16,300),('WITHER_ROSE',32,150),('DISC_FRAGMENT_5',32,200),('MUSIC_DISC_5',1,220),
@@ -396,18 +410,11 @@ for mat, qty, buy in decor_items:
 # Miscellaneous
 misc_items = [
     ('BOOK',64,120),('WRITABLE_BOOK',16,150),('ENCHANTED_BOOK',1,250),('EXPERIENCE_BOTTLE',32,260),
-    ('SCUTE',32,220),('ECHO_SHARD',16,400),('BRUSH',1,120),('GOAT_HORN',1,240),('SADDLE',1,220),('TOTEM_OF_UNDYING',1,800),
+    ('TURTLE_SCUTE',32,220),('ECHO_SHARD',16,400),('BRUSH',1,120),('SADDLE',1,220),('TOTEM_OF_UNDYING',1,800),
     ('HEART_OF_THE_SEA',1,600),('NAUTILUS_SHELL',16,260),
     ('FIREWORK_ROCKET',64,200),('FIREWORK_STAR',64,140),('LEATHER_HORSE_ARMOR',1,200),('IRON_HORSE_ARMOR',1,300),
     ('GOLDEN_HORSE_ARMOR',1,320),('DIAMOND_HORSE_ARMOR',1,450),('SADDLE',1,220),('LEAD',1,180),('NAME_TAG',1,220),
-    ('CLOCK',1,250),('COMPASS',1,250),('RECOVERY_COMPASS',1,400),('EYE_OF_ENDER',16,320),('ENDER_PEARL',16,260),
-    ('HEARTBREAK_POTTERY_SHERD',16,120),('ANGLER_POTTERY_SHERD',16,120),('ARCHER_POTTERY_SHERD',16,120),
-    ('ARMS_UP_POTTERY_SHERD',16,120),('BLADE_POTTERY_SHERD',16,140),('BREWER_POTTERY_SHERD',16,140),
-    ('BURN_POTTERY_SHERD',16,140),('DANGER_POTTERY_SHERD',16,140),('EXPLORER_POTTERY_SHERD',16,140),
-    ('FRIEND_POTTERY_SHERD',16,140),('HEART_POTTERY_SHERD',16,140),('HOWL_POTTERY_SHERD',16,140),
-    ('MINER_POTTERY_SHERD',16,140),('MOURNER_POTTERY_SHERD',16,140),('PLENTY_POTTERY_SHERD',16,140),
-    ('PRIZE_POTTERY_SHERD',16,140),('SCRAPE_POTTERY_SHERD',16,140),('SHEAF_POTTERY_SHERD',16,140),
-    ('SHAPER_POTTERY_SHERD',16,140),('SNORT_POTTERY_SHERD',16,140)
+    ('CLOCK',1,250),('COMPASS',1,250),('RECOVERY_COMPASS',1,400),('ENDER_EYE',16,320),('ENDER_PEARL',16,260)
 ]
 for mat, qty, buy in misc_items:
     shops['miscellaneous'].add(mat, qty, buy, buy//5)
@@ -429,7 +436,7 @@ def build_yaml(shop: Shop):
     lines.append("      slot: 53")
     lines.append("  items:")
     for index, (material, quantity, buy, sell) in enumerate(shop.items, start=1):
-        slot = slot_order[(index - 1) % len(slot_order)]
+        slot = resolve_slot(index)
         lines.append(f"    {index}:")
         lines.append("      type: item")
         lines.append("      item:")
