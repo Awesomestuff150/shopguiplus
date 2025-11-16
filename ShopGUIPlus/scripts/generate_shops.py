@@ -1,6 +1,9 @@
 from pathlib import Path
 
-base_dir = Path('shops')
+# Always write the generated shop files to the ShopGUIPlus/shops directory even
+# if this script is executed from another working directory.
+base_dir = Path(__file__).resolve().parents[1] / 'shops'
+base_dir.mkdir(parents=True, exist_ok=True)
 
 slot_order = [i for i in range(54) if i not in (45, 49, 53)]
 
