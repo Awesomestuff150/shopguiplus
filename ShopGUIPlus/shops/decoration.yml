@@ -1,5 +1,5 @@
-redstone:
-  name: "&cRedstone (page %page%)"
+decoration:
+  name: "&5Decoration (page %page%)"
   size: 54
   fillItem:
     material: GRAY_STAINED_GLASS_PANE
@@ -17,35 +17,35 @@ redstone:
       page: 1
       slot: 10
       item:
-        material: REDSTONE
-        quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+        material: DANDELION
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
     2:
       type: item
       page: 1
       slot: 11
       item:
-        material: REDSTONE_BLOCK
+        material: POPPY
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 60
+      sellPrice: 12
     3:
       type: item
       page: 1
       slot: 12
       item:
-        material: REDSTONE_TORCH
-        quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+        material: BLUE_ORCHID
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
     4:
       type: item
       page: 1
       slot: 13
       item:
-        material: LEVER
-        quantity: 64
+        material: ALLIUM
+        quantity: 32
       buyPrice: 70
       sellPrice: 14
     5:
@@ -53,8 +53,8 @@ redstone:
       page: 1
       slot: 14
       item:
-        material: STONE_BUTTON
-        quantity: 64
+        material: AZURE_BLUET
+        quantity: 32
       buyPrice: 60
       sellPrice: 12
     6:
@@ -62,8 +62,8 @@ redstone:
       page: 1
       slot: 15
       item:
-        material: OAK_BUTTON
-        quantity: 64
+        material: RED_TULIP
+        quantity: 32
       buyPrice: 60
       sellPrice: 12
     7:
@@ -71,224 +71,224 @@ redstone:
       page: 1
       slot: 16
       item:
-        material: STONE_PRESSURE_PLATE
+        material: ORANGE_TULIP
         quantity: 32
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 60
+      sellPrice: 12
     8:
       type: item
       page: 1
       slot: 19
       item:
-        material: HEAVY_WEIGHTED_PRESSURE_PLATE
+        material: WHITE_TULIP
         quantity: 32
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 60
+      sellPrice: 12
     9:
       type: item
       page: 1
       slot: 20
       item:
-        material: LIGHT_WEIGHTED_PRESSURE_PLATE
+        material: PINK_TULIP
         quantity: 32
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 60
+      sellPrice: 12
     10:
       type: item
       page: 1
       slot: 21
       item:
-        material: REDSTONE_LAMP
+        material: OXEYE_DAISY
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 60
+      sellPrice: 12
     11:
       type: item
       page: 1
       slot: 22
       item:
-        material: REDSTONE_REPEATER
+        material: CORNFLOWER
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 60
+      sellPrice: 12
     12:
       type: item
       page: 1
       slot: 23
       item:
-        material: REDSTONE_COMPARATOR
+        material: LILY_OF_THE_VALLEY
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 70
+      sellPrice: 14
     13:
       type: item
       page: 1
       slot: 24
       item:
-        material: OBSERVER
+        material: WITHER_ROSE
         quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 200
+      sellPrice: 40
     14:
       type: item
       page: 1
       slot: 25
       item:
-        material: DAYLIGHT_DETECTOR
-        quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+        material: SUNFLOWER
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
     15:
       type: item
       page: 1
       slot: 28
       item:
-        material: PISTON
-        quantity: 16
-      buyPrice: 140
-      sellPrice: 28
+        material: ROSE_BUSH
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
     16:
       type: item
       page: 1
       slot: 29
       item:
-        material: STICKY_PISTON
-        quantity: 16
-      buyPrice: 170
-      sellPrice: 34
+        material: PEONY
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
     17:
       type: item
       page: 1
       slot: 30
       item:
-        material: SLIME_BLOCK
-        quantity: 16
-      buyPrice: 220
-      sellPrice: 44
+        material: LILAC
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
     18:
       type: item
       page: 1
       slot: 31
       item:
-        material: HONEY_BLOCK
-        quantity: 16
-      buyPrice: 200
-      sellPrice: 40
+        material: LARGE_FERN
+        quantity: 32
+      buyPrice: 70
+      sellPrice: 14
     19:
       type: item
       page: 1
       slot: 32
       item:
-        material: TARGET
-        quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+        material: TALL_GRASS
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
     20:
       type: item
       page: 1
       slot: 33
       item:
-        material: LIGHTNING_ROD
-        quantity: 16
-      buyPrice: 160
-      sellPrice: 32
+        material: FERN
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
     21:
       type: item
       page: 1
       slot: 34
       item:
-        material: NOTE_BLOCK
-        quantity: 16
-      buyPrice: 120
-      sellPrice: 24
+        material: DEAD_BUSH
+        quantity: 32
+      buyPrice: 60
+      sellPrice: 12
     22:
       type: item
       page: 2
       slot: 10
       item:
-        material: TRIPWIRE_HOOK
+        material: TORCH
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 70
+      sellPrice: 14
     23:
       type: item
       page: 2
       slot: 11
       item:
-        material: STRING
+        material: SOUL_TORCH
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 80
+      sellPrice: 16
     24:
       type: item
       page: 2
       slot: 12
       item:
-        material: SCULK_SENSOR
-        quantity: 16
-      buyPrice: 200
-      sellPrice: 40
+        material: LANTERN
+        quantity: 32
+      buyPrice: 100
+      sellPrice: 20
     25:
       type: item
       page: 2
       slot: 13
       item:
-        material: AMETHYST_BLOCK
+        material: SOUL_LANTERN
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 110
+      sellPrice: 22
     26:
       type: item
       page: 2
       slot: 14
       item:
-        material: COPPER_BLOCK
-        quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+        material: CAMPFIRE
+        quantity: 16
+      buyPrice: 120
+      sellPrice: 24
     27:
       type: item
       page: 2
       slot: 15
       item:
-        material: CALIBRATED_SCULK_SENSOR
+        material: SOUL_CAMPFIRE
         quantity: 16
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 130
+      sellPrice: 26
     28:
       type: item
       page: 2
       slot: 16
       item:
-        material: COMPARATOR
+        material: CANDLE
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 70
+      sellPrice: 14
     29:
       type: item
       page: 2
       slot: 19
       item:
-        material: DISPENSER
-        quantity: 16
-      buyPrice: 110
-      sellPrice: 22
+        material: END_ROD
+        quantity: 32
+      buyPrice: 160
+      sellPrice: 32
     30:
       type: item
       page: 2
       slot: 20
       item:
-        material: DROPPER
-        quantity: 16
-      buyPrice: 100
-      sellPrice: 20
+        material: GLOWSTONE
+        quantity: 64
+      buyPrice: 140
+      sellPrice: 28
     31:
       type: item
       page: 2
       slot: 21
       item:
-        material: HOPPER
-        quantity: 16
+        material: SEA_LANTERN
+        quantity: 32
       buyPrice: 160
       sellPrice: 32
     32:
@@ -296,97 +296,97 @@ redstone:
       page: 2
       slot: 22
       item:
-        material: OBSERVER
+        material: JACK_O_LANTERN
         quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 100
+      sellPrice: 20
     33:
       type: item
       page: 2
       slot: 23
       item:
-        material: REPEATER
-        quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+        material: FLOWER_POT
+        quantity: 16
+      buyPrice: 60
+      sellPrice: 12
     34:
       type: item
       page: 2
       slot: 24
       item:
-        material: COMPARATOR
-        quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+        material: PAINTING
+        quantity: 1
+      buyPrice: 120
+      sellPrice: 24
     35:
       type: item
       page: 2
       slot: 25
       item:
-        material: REDSTONE_BLOCK
-        quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+        material: ITEM_FRAME
+        quantity: 4
+      buyPrice: 80
+      sellPrice: 16
     36:
       type: item
       page: 2
       slot: 28
       item:
-        material: GLOWSTONE
-        quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+        material: GLOW_ITEM_FRAME
+        quantity: 4
+      buyPrice: 100
+      sellPrice: 20
     37:
       type: item
       page: 2
       slot: 29
       item:
-        material: SEA_LANTERN
-        quantity: 16
-      buyPrice: 160
-      sellPrice: 32
+        material: ARMOR_STAND
+        quantity: 4
+      buyPrice: 120
+      sellPrice: 24
     38:
       type: item
       page: 2
       slot: 30
       item:
-        material: SCULK
-        quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+        material: BOOKSHELF
+        quantity: 16
+      buyPrice: 140
+      sellPrice: 28
     39:
       type: item
       page: 2
       slot: 31
       item:
-        material: REDSTONE_ORE
-        quantity: 32
-      buyPrice: 180
-      sellPrice: 36
+        material: LECTERN
+        quantity: 4
+      buyPrice: 160
+      sellPrice: 32
     40:
       type: item
       page: 2
       slot: 32
       item:
-        material: DEEPSLATE_REDSTONE_ORE
+        material: CHAIN
         quantity: 32
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 100
+      sellPrice: 20
     41:
       type: item
       page: 2
       slot: 33
       item:
-        material: TINTED_GLASS
+        material: HANGING_ROOTS
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 80
+      sellPrice: 16
     42:
       type: item
       page: 2
       slot: 34
       item:
-        material: COPPER_BULB
-        quantity: 16
-      buyPrice: 180
-      sellPrice: 36
+        material: BELL
+        quantity: 1
+      buyPrice: 300
+      sellPrice: 60

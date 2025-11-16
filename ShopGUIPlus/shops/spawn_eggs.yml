@@ -1,5 +1,5 @@
-tools:
-  name: "&3Tools & Stations (page %page%)"
+spawn_eggs:
+  name: "&aSpawn Eggs (page %page%)"
   size: 54
   fillItem:
     material: GRAY_STAINED_GLASS_PANE
@@ -17,565 +17,565 @@ tools:
       page: 1
       slot: 10
       item:
-        material: WOODEN_PICKAXE
+        material: COW_SPAWN_EGG
         quantity: 1
-      buyPrice: 50
-      sellPrice: 10
+      buyPrice: 200
+      sellPrice: 40
     2:
       type: item
       page: 1
       slot: 11
       item:
-        material: WOODEN_AXE
+        material: SHEEP_SPAWN_EGG
         quantity: 1
-      buyPrice: 50
-      sellPrice: 10
+      buyPrice: 200
+      sellPrice: 40
     3:
       type: item
       page: 1
       slot: 12
       item:
-        material: WOODEN_SHOVEL
+        material: PIG_SPAWN_EGG
         quantity: 1
-      buyPrice: 40
-      sellPrice: 8
+      buyPrice: 200
+      sellPrice: 40
     4:
       type: item
       page: 1
       slot: 13
       item:
-        material: WOODEN_HOE
+        material: CHICKEN_SPAWN_EGG
         quantity: 1
-      buyPrice: 40
-      sellPrice: 8
+      buyPrice: 180
+      sellPrice: 36
     5:
       type: item
       page: 1
       slot: 14
       item:
-        material: STONE_PICKAXE
+        material: RABBIT_SPAWN_EGG
         quantity: 1
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 200
+      sellPrice: 40
     6:
       type: item
       page: 1
       slot: 15
       item:
-        material: STONE_AXE
+        material: TURTLE_SPAWN_EGG
         quantity: 1
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 220
+      sellPrice: 44
     7:
       type: item
       page: 1
       slot: 16
       item:
-        material: STONE_SHOVEL
+        material: BEE_SPAWN_EGG
         quantity: 1
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 240
+      sellPrice: 48
     8:
       type: item
       page: 1
       slot: 19
       item:
-        material: STONE_HOE
+        material: FOX_SPAWN_EGG
         quantity: 1
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 240
+      sellPrice: 48
     9:
       type: item
       page: 1
       slot: 20
       item:
-        material: IRON_PICKAXE
+        material: FROG_SPAWN_EGG
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 240
+      sellPrice: 48
     10:
       type: item
       page: 1
       slot: 21
       item:
-        material: IRON_AXE
+        material: TADPOLE_SPAWN_EGG
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 220
+      sellPrice: 44
     11:
       type: item
       page: 1
       slot: 22
       item:
-        material: IRON_SHOVEL
+        material: CAMEL_SPAWN_EGG
         quantity: 1
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     12:
       type: item
       page: 1
       slot: 23
       item:
-        material: IRON_HOE
+        material: HORSE_SPAWN_EGG
         quantity: 1
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 220
+      sellPrice: 44
     13:
       type: item
       page: 1
       slot: 24
       item:
-        material: GOLDEN_PICKAXE
+        material: DONKEY_SPAWN_EGG
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 220
+      sellPrice: 44
     14:
       type: item
       page: 1
       slot: 25
       item:
-        material: GOLDEN_AXE
+        material: LLAMA_SPAWN_EGG
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 230
+      sellPrice: 46
     15:
       type: item
       page: 1
       slot: 28
       item:
-        material: GOLDEN_SHOVEL
+        material: GOAT_SPAWN_EGG
         quantity: 1
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 230
+      sellPrice: 46
     16:
       type: item
       page: 1
       slot: 29
       item:
-        material: GOLDEN_HOE
+        material: WOLF_SPAWN_EGG
         quantity: 1
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 240
+      sellPrice: 48
     17:
       type: item
       page: 1
       slot: 30
       item:
-        material: DIAMOND_PICKAXE
+        material: CAT_SPAWN_EGG
         quantity: 1
-      buyPrice: 400
-      sellPrice: 80
+      buyPrice: 240
+      sellPrice: 48
     18:
       type: item
       page: 1
       slot: 31
       item:
-        material: DIAMOND_AXE
+        material: PARROT_SPAWN_EGG
         quantity: 1
-      buyPrice: 380
-      sellPrice: 76
+      buyPrice: 260
+      sellPrice: 52
     19:
       type: item
       page: 1
       slot: 32
       item:
-        material: DIAMOND_SHOVEL
+        material: AXOLOTL_SPAWN_EGG
         quantity: 1
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 260
+      sellPrice: 52
     20:
       type: item
       page: 1
       slot: 33
       item:
-        material: DIAMOND_HOE
+        material: MOOSHROOM_SPAWN_EGG
         quantity: 1
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 260
+      sellPrice: 52
     21:
       type: item
       page: 1
       slot: 34
       item:
-        material: NETHERITE_PICKAXE
+        material: VILLAGER_SPAWN_EGG
         quantity: 1
-      buyPrice: 650
-      sellPrice: 130
+      buyPrice: 300
+      sellPrice: 60
     22:
       type: item
       page: 2
       slot: 10
       item:
-        material: NETHERITE_AXE
+        material: ZOMBIE_SPAWN_EGG
         quantity: 1
-      buyPrice: 630
-      sellPrice: 126
+      buyPrice: 260
+      sellPrice: 52
     23:
       type: item
       page: 2
       slot: 11
       item:
-        material: NETHERITE_SHOVEL
+        material: SKELETON_SPAWN_EGG
         quantity: 1
-      buyPrice: 600
-      sellPrice: 120
+      buyPrice: 260
+      sellPrice: 52
     24:
       type: item
       page: 2
       slot: 12
       item:
-        material: NETHERITE_HOE
+        material: SPIDER_SPAWN_EGG
         quantity: 1
-      buyPrice: 600
-      sellPrice: 120
+      buyPrice: 240
+      sellPrice: 48
     25:
       type: item
       page: 2
       slot: 13
       item:
-        material: FISHING_ROD
+        material: CREEPER_SPAWN_EGG
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 280
+      sellPrice: 56
     26:
       type: item
       page: 2
       slot: 14
       item:
-        material: CARROT_ON_A_STICK
+        material: ENDERMAN_SPAWN_EGG
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     27:
       type: item
       page: 2
       slot: 15
       item:
-        material: WARPED_FUNGUS_ON_A_STICK
+        material: WITCH_SPAWN_EGG
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 280
+      sellPrice: 56
     28:
       type: item
       page: 2
       slot: 16
       item:
-        material: BRUSH
+        material: SLIME_SPAWN_EGG
         quantity: 1
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 260
+      sellPrice: 52
     29:
       type: item
       page: 2
       slot: 19
       item:
-        material: SPYGLASS
+        material: MAGMA_CUBE_SPAWN_EGG
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 280
+      sellPrice: 56
     30:
       type: item
       page: 2
       slot: 20
       item:
-        material: FLINT_AND_STEEL
+        material: BLAZE_SPAWN_EGG
         quantity: 1
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 320
+      sellPrice: 64
     31:
       type: item
       page: 2
       slot: 21
       item:
-        material: SHEARS
+        material: GHAST_SPAWN_EGG
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 340
+      sellPrice: 68
     32:
       type: item
       page: 2
       slot: 22
       item:
-        material: COMPASS
+        material: GUARDIAN_SPAWN_EGG
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 300
+      sellPrice: 60
     33:
       type: item
       page: 2
       slot: 23
       item:
-        material: CLOCK
+        material: DROWNED_SPAWN_EGG
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 280
+      sellPrice: 56
     34:
       type: item
       page: 2
       slot: 24
       item:
-        material: RECOVERY_COMPASS
+        material: PHANTOM_SPAWN_EGG
         quantity: 1
-      buyPrice: 280
-      sellPrice: 56
+      buyPrice: 300
+      sellPrice: 60
     35:
       type: item
       page: 2
       slot: 25
       item:
-        material: EMPTY_MAP
+        material: RAVAGER_SPAWN_EGG
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 360
+      sellPrice: 72
     36:
       type: item
       page: 2
       slot: 28
       item:
-        material: BUCKET
+        material: PILLAGER_SPAWN_EGG
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 280
+      sellPrice: 56
     37:
       type: item
       page: 2
       slot: 29
       item:
-        material: WATER_BUCKET
+        material: VINDICATOR_SPAWN_EGG
         quantity: 1
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 300
+      sellPrice: 60
     38:
       type: item
       page: 2
       slot: 30
       item:
-        material: LAVA_BUCKET
+        material: EVOKER_SPAWN_EGG
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 320
+      sellPrice: 64
     39:
       type: item
       page: 2
       slot: 31
       item:
-        material: MILK_BUCKET
+        material: HOGLIN_SPAWN_EGG
         quantity: 1
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 300
+      sellPrice: 60
     40:
       type: item
       page: 2
       slot: 32
       item:
-        material: POWDER_SNOW_BUCKET
+        material: STRIDER_SPAWN_EGG
         quantity: 1
-      buyPrice: 210
-      sellPrice: 42
+      buyPrice: 280
+      sellPrice: 56
     41:
       type: item
       page: 2
       slot: 33
       item:
-        material: HONEY_BOTTLE
-        quantity: 16
-      buyPrice: 120
-      sellPrice: 24
+        material: PIGLIN_SPAWN_EGG
+        quantity: 1
+      buyPrice: 300
+      sellPrice: 60
     42:
       type: item
       page: 2
       slot: 34
       item:
-        material: FIREWORK_ROCKET
-        quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+        material: ZOMBIFIED_PIGLIN_SPAWN_EGG
+        quantity: 1
+      buyPrice: 280
+      sellPrice: 56
     43:
       type: item
       page: 3
       slot: 10
       item:
-        material: CRAFTING_TABLE
-        quantity: 4
-      buyPrice: 80
-      sellPrice: 16
+        material: SHULKER_SPAWN_EGG
+        quantity: 1
+      buyPrice: 360
+      sellPrice: 72
     44:
       type: item
       page: 3
       slot: 11
       item:
-        material: SMITHING_TABLE
-        quantity: 2
-      buyPrice: 220
-      sellPrice: 44
+        material: SILVERFISH_SPAWN_EGG
+        quantity: 1
+      buyPrice: 260
+      sellPrice: 52
     45:
       type: item
       page: 3
       slot: 12
       item:
-        material: STONECUTTER
-        quantity: 2
-      buyPrice: 200
-      sellPrice: 40
+        material: STRAY_SPAWN_EGG
+        quantity: 1
+      buyPrice: 280
+      sellPrice: 56
     46:
       type: item
       page: 3
       slot: 13
       item:
-        material: GRINDSTONE
-        quantity: 2
-      buyPrice: 160
-      sellPrice: 32
+        material: HUSK_SPAWN_EGG
+        quantity: 1
+      buyPrice: 260
+      sellPrice: 52
     47:
       type: item
       page: 3
       slot: 14
       item:
-        material: LOOM
-        quantity: 2
-      buyPrice: 140
-      sellPrice: 28
+        material: WITHER_SKELETON_SPAWN_EGG
+        quantity: 1
+      buyPrice: 360
+      sellPrice: 72
     48:
       type: item
       page: 3
       slot: 15
       item:
-        material: CARTOGRAPHY_TABLE
-        quantity: 2
-      buyPrice: 160
-      sellPrice: 32
+        material: GLOW_SQUID_SPAWN_EGG
+        quantity: 1
+      buyPrice: 240
+      sellPrice: 48
     49:
       type: item
       page: 3
       slot: 16
       item:
-        material: FLETCHING_TABLE
-        quantity: 2
-      buyPrice: 170
-      sellPrice: 34
+        material: SQUID_SPAWN_EGG
+        quantity: 1
+      buyPrice: 220
+      sellPrice: 44
     50:
       type: item
       page: 3
       slot: 19
       item:
-        material: BREWING_STAND
+        material: DOLPHIN_SPAWN_EGG
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 260
+      sellPrice: 52
     51:
       type: item
       page: 3
       slot: 20
       item:
-        material: BLAST_FURNACE
+        material: POLAR_BEAR_SPAWN_EGG
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 260
+      sellPrice: 52
     52:
       type: item
       page: 3
       slot: 21
       item:
-        material: SMOKER
+        material: PANDA_SPAWN_EGG
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 260
+      sellPrice: 52
     53:
       type: item
       page: 3
       slot: 22
       item:
-        material: FURNACE
+        material: OCELOT_SPAWN_EGG
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     54:
       type: item
       page: 3
       slot: 23
       item:
-        material: CAMPFIRE
-        quantity: 4
-      buyPrice: 150
-      sellPrice: 30
+        material: BAT_SPAWN_EGG
+        quantity: 1
+      buyPrice: 200
+      sellPrice: 40
     55:
       type: item
       page: 3
       slot: 24
       item:
-        material: ENCHANTING_TABLE
+        material: ALLAY_SPAWN_EGG
         quantity: 1
-      buyPrice: 400
-      sellPrice: 80
+      buyPrice: 320
+      sellPrice: 64
     56:
       type: item
       page: 3
       slot: 25
       item:
-        material: SMITHING_TEMPLATE_NETHERITE_UPGRADE
+        material: SNIFFER_SPAWN_EGG
         quantity: 1
-      buyPrice: 800
-      sellPrice: 160
+      buyPrice: 320
+      sellPrice: 64
     57:
       type: item
       page: 3
       slot: 28
       item:
-        material: ANVIL
+        material: WANDERING_TRADER_SPAWN_EGG
         quantity: 1
-      buyPrice: 350
-      sellPrice: 70
+      buyPrice: 320
+      sellPrice: 64
     58:
       type: item
       page: 3
       slot: 29
       item:
-        material: CHIPPED_ANVIL
+        material: IRON_GOLEM_SPAWN_EGG
         quantity: 1
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 340
+      sellPrice: 68
     59:
       type: item
       page: 3
       slot: 30
       item:
-        material: DAMAGED_ANVIL
+        material: SNOW_GOLEM_SPAWN_EGG
         quantity: 1
-      buyPrice: 300
-      sellPrice: 60
+      buyPrice: 260
+      sellPrice: 52
     60:
       type: item
       page: 3
       slot: 31
       item:
-        material: SHULKER_BOX
+        material: TROPICAL_FISH_SPAWN_EGG
         quantity: 1
-      buyPrice: 500
-      sellPrice: 100
+      buyPrice: 220
+      sellPrice: 44
     61:
       type: item
       page: 3
       slot: 32
       item:
-        material: ENDER_CHEST
+        material: PUFFERFISH_SPAWN_EGG
         quantity: 1
-      buyPrice: 450
-      sellPrice: 90
+      buyPrice: 220
+      sellPrice: 44
     62:
       type: item
       page: 3
       slot: 33
       item:
-        material: BARREL
-        quantity: 4
-      buyPrice: 140
-      sellPrice: 28
+        material: SALMON_SPAWN_EGG
+        quantity: 1
+      buyPrice: 220
+      sellPrice: 44
     63:
       type: item
       page: 3
       slot: 34
       item:
-        material: CHEST
-        quantity: 4
-      buyPrice: 80
-      sellPrice: 16
+        material: COD_SPAWN_EGG
+        quantity: 1
+      buyPrice: 220
+      sellPrice: 44

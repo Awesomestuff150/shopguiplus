@@ -1,0 +1,434 @@
+spawners:
+  name: "&6Spawners (page %page%)"
+  size: 54
+  fillItem:
+    material: GRAY_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 45
+    nextPage:
+      slot: 53
+  items:
+    1:
+      type: item
+      page: 1
+      slot: 10
+      item:
+        material: SPAWNER
+        spawnerType: ZOMBIE
+        quantity: 1
+      buyPrice: 2000
+      sellPrice: 400
+    2:
+      type: item
+      page: 1
+      slot: 11
+      item:
+        material: SPAWNER
+        spawnerType: SKELETON
+        quantity: 1
+      buyPrice: 2100
+      sellPrice: 420
+    3:
+      type: item
+      page: 1
+      slot: 12
+      item:
+        material: SPAWNER
+        spawnerType: SPIDER
+        quantity: 1
+      buyPrice: 1900
+      sellPrice: 380
+    4:
+      type: item
+      page: 1
+      slot: 13
+      item:
+        material: SPAWNER
+        spawnerType: CREEPER
+        quantity: 1
+      buyPrice: 2300
+      sellPrice: 460
+    5:
+      type: item
+      page: 1
+      slot: 14
+      item:
+        material: SPAWNER
+        spawnerType: ENDERMAN
+        quantity: 1
+      buyPrice: 2600
+      sellPrice: 520
+    6:
+      type: item
+      page: 1
+      slot: 15
+      item:
+        material: SPAWNER
+        spawnerType: BLAZE
+        quantity: 1
+      buyPrice: 2500
+      sellPrice: 500
+    7:
+      type: item
+      page: 1
+      slot: 16
+      item:
+        material: SPAWNER
+        spawnerType: MAGMA_CUBE
+        quantity: 1
+      buyPrice: 2400
+      sellPrice: 480
+    8:
+      type: item
+      page: 1
+      slot: 19
+      item:
+        material: SPAWNER
+        spawnerType: GHAST
+        quantity: 1
+      buyPrice: 2800
+      sellPrice: 560
+    9:
+      type: item
+      page: 1
+      slot: 20
+      item:
+        material: SPAWNER
+        spawnerType: WITHER_SKELETON
+        quantity: 1
+      buyPrice: 3000
+      sellPrice: 600
+    10:
+      type: item
+      page: 1
+      slot: 21
+      item:
+        material: SPAWNER
+        spawnerType: PIGLIN
+        quantity: 1
+      buyPrice: 2400
+      sellPrice: 480
+    11:
+      type: item
+      page: 1
+      slot: 22
+      item:
+        material: SPAWNER
+        spawnerType: ZOMBIFIED_PIGLIN
+        quantity: 1
+      buyPrice: 2300
+      sellPrice: 460
+    12:
+      type: item
+      page: 1
+      slot: 23
+      item:
+        material: SPAWNER
+        spawnerType: HUSK
+        quantity: 1
+      buyPrice: 2100
+      sellPrice: 420
+    13:
+      type: item
+      page: 1
+      slot: 24
+      item:
+        material: SPAWNER
+        spawnerType: STRAY
+        quantity: 1
+      buyPrice: 2100
+      sellPrice: 420
+    14:
+      type: item
+      page: 1
+      slot: 25
+      item:
+        material: SPAWNER
+        spawnerType: SLIME
+        quantity: 1
+      buyPrice: 2300
+      sellPrice: 460
+    15:
+      type: item
+      page: 1
+      slot: 28
+      item:
+        material: SPAWNER
+        spawnerType: GUARDIAN
+        quantity: 1
+      buyPrice: 2600
+      sellPrice: 520
+    16:
+      type: item
+      page: 1
+      slot: 29
+      item:
+        material: SPAWNER
+        spawnerType: DROWNED
+        quantity: 1
+      buyPrice: 2300
+      sellPrice: 460
+    17:
+      type: item
+      page: 1
+      slot: 30
+      item:
+        material: SPAWNER
+        spawnerType: PHANTOM
+        quantity: 1
+      buyPrice: 2500
+      sellPrice: 500
+    18:
+      type: item
+      page: 1
+      slot: 31
+      item:
+        material: SPAWNER
+        spawnerType: WITCH
+        quantity: 1
+      buyPrice: 2500
+      sellPrice: 500
+    19:
+      type: item
+      page: 1
+      slot: 32
+      item:
+        material: SPAWNER
+        spawnerType: VINDICATOR
+        quantity: 1
+      buyPrice: 2600
+      sellPrice: 520
+    20:
+      type: item
+      page: 1
+      slot: 33
+      item:
+        material: SPAWNER
+        spawnerType: EVOKER
+        quantity: 1
+      buyPrice: 2700
+      sellPrice: 540
+    21:
+      type: item
+      page: 1
+      slot: 34
+      item:
+        material: SPAWNER
+        spawnerType: PILLAGER
+        quantity: 1
+      buyPrice: 2400
+      sellPrice: 480
+    22:
+      type: item
+      page: 2
+      slot: 10
+      item:
+        material: SPAWNER
+        spawnerType: COW
+        quantity: 1
+      buyPrice: 1800
+      sellPrice: 360
+    23:
+      type: item
+      page: 2
+      slot: 11
+      item:
+        material: SPAWNER
+        spawnerType: SHEEP
+        quantity: 1
+      buyPrice: 1800
+      sellPrice: 360
+    24:
+      type: item
+      page: 2
+      slot: 12
+      item:
+        material: SPAWNER
+        spawnerType: PIG
+        quantity: 1
+      buyPrice: 1800
+      sellPrice: 360
+    25:
+      type: item
+      page: 2
+      slot: 13
+      item:
+        material: SPAWNER
+        spawnerType: CHICKEN
+        quantity: 1
+      buyPrice: 1800
+      sellPrice: 360
+    26:
+      type: item
+      page: 2
+      slot: 14
+      item:
+        material: SPAWNER
+        spawnerType: VILLAGER
+        quantity: 1
+      buyPrice: 2800
+      sellPrice: 560
+    27:
+      type: item
+      page: 2
+      slot: 15
+      item:
+        material: SPAWNER
+        spawnerType: IRON_GOLEM
+        quantity: 1
+      buyPrice: 3000
+      sellPrice: 600
+    28:
+      type: item
+      page: 2
+      slot: 16
+      item:
+        material: SPAWNER
+        spawnerType: SNOW_GOLEM
+        quantity: 1
+      buyPrice: 2200
+      sellPrice: 440
+    29:
+      type: item
+      page: 2
+      slot: 19
+      item:
+        material: SPAWNER
+        spawnerType: WOLF
+        quantity: 1
+      buyPrice: 2200
+      sellPrice: 440
+    30:
+      type: item
+      page: 2
+      slot: 20
+      item:
+        material: SPAWNER
+        spawnerType: CAT
+        quantity: 1
+      buyPrice: 2200
+      sellPrice: 440
+    31:
+      type: item
+      page: 2
+      slot: 21
+      item:
+        material: SPAWNER
+        spawnerType: HORSE
+        quantity: 1
+      buyPrice: 2300
+      sellPrice: 460
+    32:
+      type: item
+      page: 2
+      slot: 22
+      item:
+        material: SPAWNER
+        spawnerType: AXOLOTL
+        quantity: 1
+      buyPrice: 2400
+      sellPrice: 480
+    33:
+      type: item
+      page: 2
+      slot: 23
+      item:
+        material: SPAWNER
+        spawnerType: FROG
+        quantity: 1
+      buyPrice: 2400
+      sellPrice: 480
+    34:
+      type: item
+      page: 2
+      slot: 24
+      item:
+        material: SPAWNER
+        spawnerType: CAMEL
+        quantity: 1
+      buyPrice: 2600
+      sellPrice: 520
+    35:
+      type: item
+      page: 2
+      slot: 25
+      item:
+        material: SPAWNER
+        spawnerType: SNIFFER
+        quantity: 1
+      buyPrice: 2600
+      sellPrice: 520
+    36:
+      type: item
+      page: 2
+      slot: 28
+      item:
+        material: SPAWNER
+        spawnerType: PANDA
+        quantity: 1
+      buyPrice: 2400
+      sellPrice: 480
+    37:
+      type: item
+      page: 2
+      slot: 29
+      item:
+        material: SPAWNER
+        spawnerType: FOX
+        quantity: 1
+      buyPrice: 2300
+      sellPrice: 460
+    38:
+      type: item
+      page: 2
+      slot: 30
+      item:
+        material: SPAWNER
+        spawnerType: BEE
+        quantity: 1
+      buyPrice: 2300
+      sellPrice: 460
+    39:
+      type: item
+      page: 2
+      slot: 31
+      item:
+        material: SPAWNER
+        spawnerType: TURTLE
+        quantity: 1
+      buyPrice: 2300
+      sellPrice: 460
+    40:
+      type: item
+      page: 2
+      slot: 32
+      item:
+        material: SPAWNER
+        spawnerType: PARROT
+        quantity: 1
+      buyPrice: 2300
+      sellPrice: 460
+    41:
+      type: item
+      page: 2
+      slot: 33
+      item:
+        material: SPAWNER
+        spawnerType: DOLPHIN
+        quantity: 1
+      buyPrice: 2500
+      sellPrice: 500
+    42:
+      type: item
+      page: 2
+      slot: 34
+      item:
+        material: SPAWNER
+        spawnerType: GLOW_SQUID
+        quantity: 1
+      buyPrice: 2200
+      sellPrice: 440
