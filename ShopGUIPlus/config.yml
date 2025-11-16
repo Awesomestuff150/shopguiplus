@@ -600,75 +600,105 @@ shopMenuItems:
   # Has to be unique, value doesn't matter
   1:
     item:
-      # The same rules apply for material, amount, damage and lore as for goBackButton
-      material: GRASS_BLOCK
+      material: BRICKS
       quantity: 1
-      name: "&9&lBlocks"
-    # Shop ID from shops yaml
-    shop: "blocks"
-    # Slot in shops menu, counting from 0 to 53
-    slot: 11
-  2:
-    item:
-      material: COOKED_CHICKEN
-      quantity: 1
-      damage: 0
-      name: "&2&lFood"
+      name: "&9&lBuilding Blocks"
       lore:
-        - "&7Get some yummy food here!"
-    shop: "food"
-    slot: 12
-  3:
-    item:
-      material: GOLD_INGOT
-      quantity: 1
-      damage: 0
-      name: "&3&lOres"
-    shop: "ores"
-    slot: 13
-  4:
+        - "&7Grab every block style here."
+    shop: "blocks"
+    slot: 10
+  2:
     item:
       material: IRON_PICKAXE
       quantity: 1
       name: "&8&lTools"
+      lore:
+        - "&7Pickaxes, axes, workstations."
     shop: "tools"
-    slot: 14
-  5:
+    slot: 11
+  3:
+    item:
+      material: DIAMOND_SWORD
+      quantity: 1
+      name: "&4&lWeapons"
+      lore:
+        - "&7Keep yourself combat-ready."
+    shop: "weapons"
+    slot: 12
+  4:
     item:
       material: DIAMOND_CHESTPLATE
       quantity: 1
-      name: "&4&lArmor"
+      name: "&c&lArmor"
     shop: "armor"
-    slot: 15
-  6:
+    slot: 13
+  5:
     item:
       material: WHEAT
       quantity: 1
-      name: "&5&lFarming"
+      name: "&2&lFarming"
+      lore:
+        - "&7Seeds, saplings, bee gear."
     shop: "farming"
-    slot: 21
+    slot: 14
+  6:
+    item:
+      material: DIAMOND_ORE
+      quantity: 1
+      name: "&3&lMining"
+      lore:
+        - "&7Raw ores and cave finds."
+    shop: "mining"
+    slot: 15
   7:
+    item:
+      material: REDSTONE_TORCH
+      quantity: 1
+      name: "&c&lRedstone"
+      lore:
+        - "&7Components for contraptions."
+    shop: "redstone"
+    slot: 16
+  8:
+    item:
+      material: BUCKET
+      quantity: 1
+      name: "&b&lUtility"
+      lore:
+        - "&7Buckets, travel gear, gadgets."
+    shop: "utility"
+    slot: 19
+  9:
+    item:
+      material: COOKED_CHICKEN
+      quantity: 1
+      name: "&6&lFood"
+      lore:
+        - "&7Stock up on meals."
+    shop: "food"
+    slot: 20
+  10:
     item:
       material: SPIDER_EYE
       quantity: 1
-      name: "&9&lMob drops"
+      name: "&9&lMob Drops"
     shop: "drops"
-    slot: 22
-  8:
+    slot: 21
+  11:
     item:
       material: LIGHT_BLUE_DYE
       quantity: 1
-      name: "&2&lDyes"
+      name: "&d&lDyes"
     shop: "dyes"
-    slot: 23
-  9:
+    slot: 22
+  12:
     item:
-      material: SADDLE
+      material: CHEST_MINECART
       quantity: 1
-      name: "&3&lMiscellaneous"
+      name: "&6&lMiscellaneous"
     shop: "miscellaneous"
-    slot: 31
-  10:
+    slot: 23
+  13:
     type: special
     special: balance
     slot: 34

@@ -1,0 +1,278 @@
+weapons:
+  name: "&4&lWeapons (page %page%)"
+  size: 54
+  fillItem:
+    material: GRAY_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 45
+    nextPage:
+      slot: 53
+  items:
+    1:
+      type: item
+      item:
+        material: WOODEN_SWORD
+        quantity: 1
+        name: "&6Wooden Sword"
+        lore:
+          - "&7Basic melee defense."
+      buyPrice: 30
+      sellPrice: 6
+      slot: 10
+    2:
+      type: item
+      item:
+        material: STONE_SWORD
+        quantity: 1
+        name: "&7Stone Sword"
+        lore:
+          - "&7Reliable adventurer blade."
+      buyPrice: 60
+      sellPrice: 12
+      slot: 11
+    3:
+      type: item
+      item:
+        material: IRON_SWORD
+        quantity: 1
+        name: "&fIron Sword"
+        lore:
+          - "&7Balanced offense."
+      buyPrice: 180
+      sellPrice: 36
+      slot: 12
+    4:
+      type: item
+      item:
+        material: GOLDEN_SWORD
+        quantity: 1
+        name: "&eGolden Sword"
+        lore:
+          - "&7High enchant potential."
+      buyPrice: 120
+      sellPrice: 24
+      slot: 13
+    5:
+      type: item
+      item:
+        material: DIAMOND_SWORD
+        quantity: 1
+        name: "&bDiamond Sword"
+        lore:
+          - "&7Top-tier melee weapon."
+      buyPrice: 700
+      sellPrice: 140
+      slot: 14
+    6:
+      type: item
+      item:
+        material: SHIELD
+        quantity: 1
+        name: "&fShield"
+        lore:
+          - "&7Block incoming attacks."
+      buyPrice: 200
+      sellPrice: 40
+      slot: 15
+    7:
+      type: item
+      item:
+        material: STONE_AXE
+        quantity: 1
+        name: "&7Stone Axe"
+        lore:
+          - "&7Heavy-hitting backup."
+      buyPrice: 70
+      sellPrice: 14
+      slot: 16
+    8:
+      type: item
+      item:
+        material: IRON_AXE
+        quantity: 1
+        name: "&fIron Axe"
+        lore:
+          - "&7Critical hit favorite."
+      buyPrice: 200
+      sellPrice: 40
+      slot: 17
+    9:
+      type: item
+      item:
+        material: DIAMOND_AXE
+        quantity: 1
+        name: "&bDiamond Axe"
+        lore:
+          - "&7High damage option."
+      buyPrice: 750
+      sellPrice: 150
+      slot: 19
+    10:
+      type: item
+      item:
+        material: BOW
+        quantity: 1
+        name: "&6Bow"
+        lore:
+          - "&7Reliable ranged weapon."
+      buyPrice: 220
+      sellPrice: 44
+      slot: 20
+    11:
+      type: item
+      item:
+        material: CROSSBOW
+        quantity: 1
+        name: "&6Crossbow"
+        lore:
+          - "&7Piercing bolt launcher."
+      buyPrice: 260
+      sellPrice: 52
+      slot: 21
+    12:
+      type: item
+      item:
+        material: ARROW
+        quantity: 32
+        name: "&fArrow Bundle"
+        lore:
+          - "&7Standard ammo."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 22
+    13:
+      type: item
+      item:
+        material: SPECTRAL_ARROW
+        quantity: 32
+        name: "&fSpectral Arrows"
+        lore:
+          - "&7Outline your targets."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 23
+    14:
+      type: item
+      item:
+        material: FIREWORK_ROCKET
+        quantity: 16
+        name: "&cFirework Rocket"
+        lore:
+          - "&7Explosive crossbow shots."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 24
+    15:
+      type: item
+      item:
+        material: FIRE_CHARGE
+        quantity: 16
+        name: "&6Fire Charge"
+        lore:
+          - "&7Throwable flame burst."
+      buyPrice: 110
+      sellPrice: 11
+      slot: 25
+    16:
+      type: item
+      item:
+        material: TNT
+        quantity: 8
+        name: "&cTNT"
+        lore:
+          - "&7Controlled demolitions."
+      buyPrice: 200
+      sellPrice: 20
+      slot: 28
+    17:
+      type: item
+      item:
+        material: SNOWBALL
+        quantity: 32
+        name: "&fSnowball"
+        lore:
+          - "&7Knock mobs from ledges."
+      buyPrice: 40
+      sellPrice: 4
+      slot: 29
+    18:
+      type: item
+      item:
+        material: EGG
+        quantity: 16
+        name: "&fEgg"
+        lore:
+          - "&7Distract & trigger pressure plates."
+      buyPrice: 30
+      sellPrice: 3
+      slot: 30
+    19:
+      type: item
+      item:
+        material: TRIPWIRE_HOOK
+        quantity: 16
+        name: "&7Tripwire Trap Kit"
+        lore:
+          - "&7Create defensive traps."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 31
+    20:
+      type: item
+      item:
+        material: STRING
+        quantity: 32
+        name: "&fTripwire String"
+        lore:
+          - "&7Pair with hooks."
+      buyPrice: 50
+      sellPrice: 5
+      slot: 32
+    21:
+      type: item
+      item:
+        material: LEATHER_HORSE_ARMOR
+        quantity: 1
+        name: "&6Leather Horse Armor"
+        lore:
+          - "&7Protect mounts."
+      buyPrice: 160
+      sellPrice: 32
+      slot: 33
+    22:
+      type: item
+      item:
+        material: IRON_HORSE_ARMOR
+        quantity: 1
+        name: "&fIron Horse Armor"
+        lore:
+          - "&7Bulkier mount armor."
+      buyPrice: 320
+      sellPrice: 64
+      slot: 34
+    23:
+      type: item
+      item:
+        material: DIAMOND_HORSE_ARMOR
+        quantity: 1
+        name: "&bDiamond Horse Armor"
+        lore:
+          - "&7Max mount defense."
+      buyPrice: 520
+      sellPrice: 104
+      slot: 35
+    24:
+      type: item
+      item:
+        material: TRIDENT
+        quantity: 1
+        name: "&3Trident"
+        lore:
+          - "&7Versatile melee & ranged."
+      buyPrice: 900
+      sellPrice: 180
+      slot: 37

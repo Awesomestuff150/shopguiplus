@@ -1,0 +1,388 @@
+mining:
+  name: "&3&lMining Materials (page %page%)"
+  size: 54
+  fillItem:
+    material: GRAY_STAINED_GLASS_PANE
+    name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 45
+    nextPage:
+      slot: 53
+  items:
+    1:
+      type: item
+      item:
+        material: COAL
+        quantity: 32
+        name: "&8Coal"
+        lore:
+          - "&7Smelt fuel and torches."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 0
+    2:
+      type: item
+      item:
+        material: COAL_BLOCK
+        quantity: 16
+        name: "&8Block of Coal"
+        lore:
+          - "&7Long burning fuel block."
+      buyPrice: 180
+      sellPrice: 18
+      slot: 1
+    3:
+      type: item
+      item:
+        material: RAW_IRON
+        quantity: 32
+        name: "&fRaw Iron"
+        lore:
+          - "&7Smelt for ingots."
+      buyPrice: 160
+      sellPrice: 16
+      slot: 2
+    4:
+      type: item
+      item:
+        material: RAW_IRON_BLOCK
+        quantity: 8
+        name: "&fRaw Iron Block"
+        lore:
+          - "&7Bulk storage for miners."
+      buyPrice: 420
+      sellPrice: 42
+      slot: 3
+    5:
+      type: item
+      item:
+        material: RAW_COPPER
+        quantity: 32
+        name: "&6Raw Copper"
+        lore:
+          - "&7Perfect for oxidized builds."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 4
+    6:
+      type: item
+      item:
+        material: RAW_COPPER_BLOCK
+        quantity: 8
+        name: "&6Raw Copper Block"
+        lore:
+          - "&7Compact copper stash."
+      buyPrice: 360
+      sellPrice: 36
+      slot: 5
+    7:
+      type: item
+      item:
+        material: RAW_GOLD
+        quantity: 32
+        name: "&eRaw Gold"
+        lore:
+          - "&7Smelt into trade bars."
+      buyPrice: 200
+      sellPrice: 20
+      slot: 6
+    8:
+      type: item
+      item:
+        material: RAW_GOLD_BLOCK
+        quantity: 8
+        name: "&eRaw Gold Block"
+        lore:
+          - "&7Golden fortune chunk."
+      buyPrice: 500
+      sellPrice: 50
+      slot: 7
+    9:
+      type: item
+      item:
+        material: COAL_ORE
+        quantity: 32
+        name: "&8Coal Ore"
+        lore:
+          - "&7Silk touch collectors item."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 8
+    10:
+      type: item
+      item:
+        material: IRON_ORE
+        quantity: 32
+        name: "&fIron Ore"
+        lore:
+          - "&7Decorate mineshafts."
+      buyPrice: 220
+      sellPrice: 22
+      slot: 9
+    11:
+      type: item
+      item:
+        material: COPPER_ORE
+        quantity: 32
+        name: "&6Copper Ore"
+        lore:
+          - "&7Great for displays."
+      buyPrice: 200
+      sellPrice: 20
+      slot: 10
+    12:
+      type: item
+      item:
+        material: GOLD_ORE
+        quantity: 32
+        name: "&eGold Ore"
+        lore:
+          - "&7Bring the mine home."
+      buyPrice: 260
+      sellPrice: 26
+      slot: 11
+    13:
+      type: item
+      item:
+        material: REDSTONE
+        quantity: 64
+        name: "&cRedstone Dust"
+        lore:
+          - "&7Power every contraption."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 12
+    14:
+      type: item
+      item:
+        material: LAPIS_LAZULI
+        quantity: 64
+        name: "&9Lapis Lazuli"
+        lore:
+          - "&7Enchanting & dyes."
+      buyPrice: 110
+      sellPrice: 11
+      slot: 13
+    15:
+      type: item
+      item:
+        material: DIAMOND
+        quantity: 8
+        name: "&bDiamond"
+        lore:
+          - "&7High-value gem."
+      buyPrice: 900
+      sellPrice: 90
+      slot: 14
+    16:
+      type: item
+      item:
+        material: EMERALD
+        quantity: 8
+        name: "&aEmerald"
+        lore:
+          - "&7Villager currency."
+      buyPrice: 400
+      sellPrice: 40
+      slot: 15
+    17:
+      type: item
+      item:
+        material: AMETHYST_SHARD
+        quantity: 32
+        name: "&dAmethyst Shard"
+        lore:
+          - "&7Spyglass crafting shard."
+      buyPrice: 160
+      sellPrice: 16
+      slot: 16
+    18:
+      type: item
+      item:
+        material: AMETHYST_BLOCK
+        quantity: 16
+        name: "&dBlock of Amethyst"
+        lore:
+          - "&7Chime-filled accent."
+      buyPrice: 260
+      sellPrice: 26
+      slot: 17
+    19:
+      type: item
+      item:
+        material: QUARTZ
+        quantity: 64
+        name: "&fNether Quartz"
+        lore:
+          - "&7Fuel quartz builds."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 18
+    20:
+      type: item
+      item:
+        material: NETHER_QUARTZ_ORE
+        quantity: 32
+        name: "&fQuartz Ore"
+        lore:
+          - "&7Decorative ore block."
+      buyPrice: 200
+      sellPrice: 20
+      slot: 19
+    21:
+      type: item
+      item:
+        material: DEEPSLATE
+        quantity: 64
+        name: "&8Deepslate"
+        lore:
+          - "&7Harvest from deep layers."
+      buyPrice: 100
+      sellPrice: 10
+      slot: 20
+    22:
+      type: item
+      item:
+        material: COBBLED_DEEPSLATE
+        quantity: 64
+        name: "&8Cobbled Deepslate"
+        lore:
+          - "&7Rugged mining texture."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 21
+    23:
+      type: item
+      item:
+        material: TUFF
+        quantity: 64
+        name: "&7Tuff"
+        lore:
+          - "&7Soft stone for detailing."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 22
+    24:
+      type: item
+      item:
+        material: CALCITE
+        quantity: 64
+        name: "&fCalcite"
+        lore:
+          - "&7Geo find for bright halls."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 23
+    25:
+      type: item
+      item:
+        material: DRIPSTONE_BLOCK
+        quantity: 32
+        name: "&6Dripstone Block"
+        lore:
+          - "&7Sharp cave accent."
+      buyPrice: 130
+      sellPrice: 13
+      slot: 24
+    26:
+      type: item
+      item:
+        material: POINTED_DRIPSTONE
+        quantity: 16
+        name: "&6Pointed Dripstone"
+        lore:
+          - "&7Hazard traps & farms."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 25
+    27:
+      type: item
+      item:
+        material: BLACKSTONE
+        quantity: 64
+        name: "&8Blackstone"
+        lore:
+          - "&7Basalt delta favorite."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 26
+    28:
+      type: item
+      item:
+        material: BASALT
+        quantity: 64
+        name: "&8Basalt"
+        lore:
+          - "&7Vertical striped block."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 27
+    29:
+      type: item
+      item:
+        material: NETHERRACK
+        quantity: 64
+        name: "&cNetherrack"
+        lore:
+          - "&7Infernal filler block."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 28
+    30:
+      type: item
+      item:
+        material: OBSIDIAN
+        quantity: 16
+        name: "&5Obsidian"
+        lore:
+          - "&7Portal-grade stone."
+      buyPrice: 320
+      sellPrice: 32
+      slot: 29
+    31:
+      type: item
+      item:
+        material: GLOWSTONE_DUST
+        quantity: 64
+        name: "&eGlowstone Dust"
+        lore:
+          - "&7Craft lighting blocks."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 30
+    32:
+      type: item
+      item:
+        material: PRISMARINE_CRYSTALS
+        quantity: 32
+        name: "&bPrismarine Crystals"
+        lore:
+          - "&7Sea temple loot."
+      buyPrice: 160
+      sellPrice: 16
+      slot: 31
+    33:
+      type: item
+      item:
+        material: SCULK
+        quantity: 32
+        name: "&9Sculk"
+        lore:
+          - "&7Decor from the Deep Dark."
+      buyPrice: 180
+      sellPrice: 18
+      slot: 32
+    34:
+      type: item
+      item:
+        material: SCULK_SENSOR
+        quantity: 8
+        name: "&9Sculk Sensor"
+        lore:
+          - "&7Wireless redstone trigger."
+      buyPrice: 260
+      sellPrice: 26
+      slot: 33

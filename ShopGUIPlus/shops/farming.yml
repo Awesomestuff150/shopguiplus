@@ -2,150 +2,431 @@ farming:
   name: "&5&lFarming (page %page%)"
   size: 54
   fillItem:
-    material: BLACK_STAINED_GLASS_PANE
+    material: GRAY_STAINED_GLASS_PANE
     name: " "
+  buttons:
+    goBack:
+      slot: 49
+    previousPage:
+      slot: 45
+    nextPage:
+      slot: 53
   items:
     1:
       type: item
       item:
         material: WHEAT_SEEDS
-        quantity: 16
-      buyPrice: 20
-      sellPrice: 2
+        quantity: 32
+        name: "&aWheat Seeds"
+        lore:
+          - "&7Starter grain crop."
+      buyPrice: 25
+      sellPrice: 3
       slot: 10
     2:
       type: item
       item:
-        material: PUMPKIN_SEEDS
-        quantity: 16
-      buyPrice: 50
-      sellPrice: 5
+        material: BEETROOT_SEEDS
+        quantity: 32
+        name: "&aBeetroot Seeds"
+        lore:
+          - "&7Colorful root harvest."
+      buyPrice: 25
+      sellPrice: 3
       slot: 11
     3:
       type: item
       item:
-        material: MELON_SEEDS
-        quantity: 16
+        material: CARROT
+        quantity: 32
+        name: "&aCarrot"
+        lore:
+          - "&7Perfect villager trade crop."
       buyPrice: 50
       sellPrice: 5
       slot: 12
     4:
       type: item
       item:
-        material: BONE_MEAL
-        quantity: 16
+        material: POTATO
+        quantity: 32
+        name: "&aPotato"
+        lore:
+          - "&7Bake for hearty meals."
       buyPrice: 50
       sellPrice: 5
       slot: 13
     5:
       type: item
       item:
-        material: NETHER_WART
-        quantity: 16
-      buyPrice: 50
-      sellPrice: 5
+        material: SWEET_BERRIES
+        quantity: 32
+        name: "&aSweet Berries"
+        lore:
+          - "&7Great for hedge rows."
+      buyPrice: 60
+      sellPrice: 6
       slot: 14
     6:
       type: item
       item:
-        material: SUGAR_CANE
+        material: GLOW_BERRIES
         quantity: 16
-      buyPrice: 50
-      sellPrice: 5
+        name: "&aGlow Berries"
+        lore:
+          - "&7Light up cave farms."
+      buyPrice: 90
+      sellPrice: 9
       slot: 15
     7:
       type: item
       item:
-        material: WHEAT
-        quantity: 16
-      buyPrice: 50
-      sellPrice: 5
+        material: SUGAR_CANE
+        quantity: 32
+        name: "&aSugar Cane"
+        lore:
+          - "&7Paper & rockets fuel."
+      buyPrice: 60
+      sellPrice: 6
       slot: 16
     8:
       type: item
       item:
-        material: PUMPKIN
-        quantity: 16
-      buyPrice: 50
-      sellPrice: 5
-      slot: 19
+        material: BAMBOO
+        quantity: 32
+        name: "&aBamboo"
+        lore:
+          - "&7Scaffolding supply."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 17
     9:
       type: item
       item:
-        material: MELON_SLICE
-        quantity: 16
-      buyPrice: 50
-      sellPrice: 5
-      slot: 20
+        material: PUMPKIN_SEEDS
+        quantity: 32
+        name: "&aPumpkin Seeds"
+        lore:
+          - "&7Grow jack o'lantern stock."
+      buyPrice: 40
+      sellPrice: 4
+      slot: 19
     10:
       type: item
       item:
-        material: CACTUS
-        quantity: 16
-      buyPrice: 20
-      sellPrice: 2
-      slot: 21
+        material: MELON_SEEDS
+        quantity: 32
+        name: "&aMelon Seeds"
+        lore:
+          - "&7Juicy melon farms."
+      buyPrice: 40
+      sellPrice: 4
+      slot: 20
     11:
+      type: item
+      item:
+        material: COCOA_BEANS
+        quantity: 32
+        name: "&aCocoa Beans"
+        lore:
+          - "&7Bake cookies & dye."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 21
+    12:
+      type: item
+      item:
+        material: NETHER_WART
+        quantity: 32
+        name: "&cNether Wart"
+        lore:
+          - "&7Brewing essential."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 22
+    13:
+      type: item
+      item:
+        material: CACTUS
+        quantity: 32
+        name: "&aCactus"
+        lore:
+          - "&7Smelt for green dye."
+      buyPrice: 35
+      sellPrice: 4
+      slot: 23
+    14:
+      type: item
+      item:
+        material: KELP
+        quantity: 32
+        name: "&aKelp"
+        lore:
+          - "&7Composter fuel & XP farms."
+      buyPrice: 40
+      sellPrice: 4
+      slot: 24
+    15:
+      type: item
+      item:
+        material: SEA_PICKLE
+        quantity: 16
+        name: "&aSea Pickle"
+        lore:
+          - "&7Underwater lighting crop."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 25
+    16:
       type: item
       item:
         material: OAK_SAPLING
         quantity: 16
-      buyPrice: 20
-      sellPrice: 2
-      slot: 22
-    12:
+        name: "&aOak Sapling"
+        lore:
+          - "&7Replant sustainable wood."
+      buyPrice: 25
+      sellPrice: 3
+      slot: 28
+    17:
       type: item
       item:
         material: SPRUCE_SAPLING
         quantity: 16
-      buyPrice: 20
-      sellPrice: 2
-      slot: 23
-    13:
+        name: "&aSpruce Sapling"
+        lore:
+          - "&7Tall tree farms."
+      buyPrice: 25
+      sellPrice: 3
+      slot: 29
+    18:
       type: item
       item:
         material: BIRCH_SAPLING
         quantity: 16
-      buyPrice: 20
-      sellPrice: 2
-      slot: 24
-    14:
+        name: "&aBirch Sapling"
+        lore:
+          - "&7Straight trunk supply."
+      buyPrice: 25
+      sellPrice: 3
+      slot: 30
+    19:
       type: item
       item:
         material: JUNGLE_SAPLING
         quantity: 16
-      buyPrice: 20
-      sellPrice: 2
-      slot: 25
-    15:
+        name: "&aJungle Sapling"
+        lore:
+          - "&72x2 mega trees."
+      buyPrice: 35
+      sellPrice: 4
+      slot: 31
+    20:
       type: item
       item:
         material: ACACIA_SAPLING
         quantity: 16
-      buyPrice: 20
-      sellPrice: 2
-      slot: 29
-    16:
+        name: "&aAcacia Sapling"
+        lore:
+          - "&7Savanna orchards."
+      buyPrice: 35
+      sellPrice: 4
+      slot: 32
+    21:
       type: item
       item:
         material: DARK_OAK_SAPLING
         quantity: 16
+        name: "&aDark Oak Sapling"
+        lore:
+          - "&74-sapling giants."
       buyPrice: 50
       sellPrice: 5
-      slot: 30
-    17:
+      slot: 33
+    22:
+      type: item
+      item:
+        material: MANGROVE_PROPAGULE
+        quantity: 16
+        name: "&aMangrove Propagule"
+        lore:
+          - "&7Rooted swamp farms."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 34
+    23:
+      type: item
+      item:
+        material: CHERRY_SAPLING
+        quantity: 16
+        name: "&dCherry Sapling"
+        lore:
+          - "&7Blossom canopy farms."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 35
+    24:
+      type: item
+      item:
+        material: BONE_MEAL
+        quantity: 32
+        name: "&fBone Meal"
+        lore:
+          - "&7Instantly grow crops."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 36
+    25:
+      type: item
+      item:
+        material: COMPOSTER
+        quantity: 1
+        name: "&fComposter"
+        lore:
+          - "&7Recycle seeds into meal."
+      buyPrice: 120
+      sellPrice: 24
+      slot: 37
+    26:
+      type: item
+      item:
+        material: HAY_BLOCK
+        quantity: 16
+        name: "&eHay Bale"
+        lore:
+          - "&7Compact wheat storage."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 38
+    27:
+      type: item
+      item:
+        material: HONEYCOMB
+        quantity: 16
+        name: "&eHoneycomb"
+        lore:
+          - "&7Wax builds & make candles."
+      buyPrice: 120
+      sellPrice: 12
+      slot: 39
+    28:
+      type: item
+      item:
+        material: HONEY_BOTTLE
+        quantity: 8
+        name: "&eHoney Bottle"
+        lore:
+          - "&7Food & cure poison."
+      buyPrice: 140
+      sellPrice: 14
+      slot: 40
+    29:
+      type: item
+      item:
+        material: BEEHIVE
+        quantity: 1
+        name: "&6Beehive"
+        lore:
+          - "&7Harvest honey safely."
+      buyPrice: 250
+      sellPrice: 50
+      slot: 41
+    30:
+      type: item
+      item:
+        material: FLOWERING_AZALEA
+        quantity: 16
+        name: "&aFlowering Azalea"
+        lore:
+          - "&7Decorate lush farms."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 42
+    31:
+      type: item
+      item:
+        material: MOSS_BLOCK
+        quantity: 32
+        name: "&aMoss Block"
+        lore:
+          - "&7Instant green carpets."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 43
+    32:
+      type: item
+      item:
+        material: MUD
+        quantity: 32
+        name: "&7Mud"
+        lore:
+          - "&7Great for rice paddies."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 44
+    33:
       type: item
       item:
         material: BROWN_MUSHROOM
-        quantity: 8
-      buyPrice: 50
-      sellPrice: 5
-      slot: 31
-    18:
+        quantity: 16
+        name: "&aBrown Mushroom"
+        lore:
+          - "&7Shroom farms & stew."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 46
+    34:
       type: item
       item:
         material: RED_MUSHROOM
-        quantity: 8
-      buyPrice: 50
-      sellPrice: 5
-      slot: 32
+        quantity: 16
+        name: "&cRed Mushroom"
+        lore:
+          - "&7Pair for mushroom stew."
+      buyPrice: 70
+      sellPrice: 7
+      slot: 47
+    35:
+      type: item
+      item:
+        material: LILY_PAD
+        quantity: 16
+        name: "&aLily Pad"
+        lore:
+          - "&7Cover irrigation water."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 48
+    36:
+      type: item
+      item:
+        material: SCAFFOLDING
+        quantity: 32
+        name: "&eScaffolding"
+        lore:
+          - "&7Climb tall crop towers."
+      buyPrice: 90
+      sellPrice: 9
+      slot: 50
+    37:
+      type: item
+      item:
+        material: FLOWER_POT
+        quantity: 16
+        name: "&fFlower Pot"
+        lore:
+          - "&7Display seedlings."
+      buyPrice: 60
+      sellPrice: 6
+      slot: 51
+    38:
+      type: item
+      item:
+        material: PUMPKIN
+        quantity: 16
+        name: "&ePumpkin"
+        lore:
+          - "&7Sell surplus harvest."
+      buyPrice: 80
+      sellPrice: 8
+      slot: 52
