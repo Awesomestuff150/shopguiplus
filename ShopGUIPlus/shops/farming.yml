@@ -238,7 +238,7 @@ farming:
     29:
       type: item
       item:
-        material: MANGROVE_SAPLING
+        material: MANGROVE_PROPAGULE
         quantity: 32
       buyPrice: 120
       sellPrice: 24
@@ -254,7 +254,7 @@ farming:
     31:
       type: item
       item:
-        material: BAMBOO_SAPLING
+        material: BAMBOO
         quantity: 32
       buyPrice: 120
       sellPrice: 24
@@ -262,34 +262,34 @@ farming:
     32:
       type: item
       item:
-        material: CRIMSON_SAPLING
+        material: CRIMSON_NYLIUM
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 140
+      sellPrice: 28
       slot: 31
     33:
       type: item
       item:
-        material: WARPED_SAPLING
+        material: WARPED_NYLIUM
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 140
+      sellPrice: 28
       slot: 32
     34:
       type: item
       item:
         material: CRIMSON_FUNGUS
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 120
+      sellPrice: 24
       slot: 33
     35:
       type: item
       item:
         material: WARPED_FUNGUS
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 120
+      sellPrice: 24
       slot: 34
     36:
       type: item

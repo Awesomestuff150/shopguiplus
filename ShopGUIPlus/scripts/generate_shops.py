@@ -199,9 +199,18 @@ for mat, qty, buy in crops:
     shops['farming'].add(mat, qty, buy, buy//5)
 
 for wood in wood_types:
-    sapling = 'BAMBOO_SAPLING' if wood=='BAMBOO' else f'{wood}_SAPLING'
-    qty = 32 if wood not in ('BAMBOO','CRIMSON','WARPED') else 32
-    buy = 120
+    if wood == 'MANGROVE':
+        sapling = 'MANGROVE_PROPAGULE'
+    elif wood == 'BAMBOO':
+        sapling = 'BAMBOO'
+    elif wood == 'CRIMSON':
+        sapling = 'CRIMSON_NYLIUM'
+    elif wood == 'WARPED':
+        sapling = 'WARPED_NYLIUM'
+    else:
+        sapling = f'{wood}_SAPLING'
+    qty = 32
+    buy = 140 if wood in {'CRIMSON','WARPED'} else 120
     shops['farming'].add(sapling, qty, buy, buy//5)
 fungi = [('CRIMSON_FUNGUS',32,140),('WARPED_FUNGUS',32,140),('NETHER_SPROUTS',64,80),('WARPED_ROOTS',64,80),('CRIMSON_ROOTS',64,80)]
 for mat, qty, buy in fungi:

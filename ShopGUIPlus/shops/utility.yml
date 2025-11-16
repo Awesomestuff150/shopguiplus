@@ -426,7 +426,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 0
+      slot: 54
     53:
       type: item
       item:
@@ -434,7 +434,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 1
+      slot: 55
     54:
       type: item
       item:
@@ -442,7 +442,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 2
+      slot: 56
     55:
       type: item
       item:
@@ -450,7 +450,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 3
+      slot: 57
     56:
       type: item
       item:
@@ -458,7 +458,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 4
+      slot: 58
     57:
       type: item
       item:
@@ -466,7 +466,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 5
+      slot: 59
     58:
       type: item
       item:
@@ -474,7 +474,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 6
+      slot: 60
     59:
       type: item
       item:
@@ -482,7 +482,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 7
+      slot: 61
     60:
       type: item
       item:
@@ -490,7 +490,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 8
+      slot: 62
     61:
       type: item
       item:
@@ -498,7 +498,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 9
+      slot: 63
     62:
       type: item
       item:
@@ -506,7 +506,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 10
+      slot: 64
     63:
       type: item
       item:
@@ -514,7 +514,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 11
+      slot: 65
     64:
       type: item
       item:
@@ -522,7 +522,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 12
+      slot: 66
     65:
       type: item
       item:
@@ -530,7 +530,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 13
+      slot: 67
     66:
       type: item
       item:
@@ -538,7 +538,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 14
+      slot: 68
     67:
       type: item
       item:
@@ -546,7 +546,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 15
+      slot: 69
     68:
       type: item
       item:
@@ -554,7 +554,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 16
+      slot: 70
     69:
       type: item
       item:
@@ -562,7 +562,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 17
+      slot: 71
     70:
       type: item
       item:
@@ -570,7 +570,7 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 18
+      slot: 72
     71:
       type: item
       item:
@@ -578,7 +578,7 @@ utility:
         quantity: 1
       buyPrice: 160
       sellPrice: 32
-      slot: 19
+      slot: 73
     72:
       type: item
       item:
@@ -586,4 +586,4 @@ utility:
         quantity: 1
       buyPrice: 420
       sellPrice: 84
-      slot: 20
+      slot: 74
