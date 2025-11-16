@@ -602,103 +602,87 @@ shopMenuItems:
     item:
       material: BRICKS
       quantity: 1
-      name: "&9&lBuilding Blocks"
-      lore:
-        - "&7Grab every block style here."
     shop: "blocks"
     slot: 10
   2:
     item:
       material: IRON_PICKAXE
       quantity: 1
-      name: "&8&lTools"
-      lore:
-        - "&7Pickaxes, axes, workstations."
     shop: "tools"
     slot: 11
   3:
     item:
       material: DIAMOND_SWORD
       quantity: 1
-      name: "&4&lWeapons"
-      lore:
-        - "&7Keep yourself combat-ready."
     shop: "weapons"
     slot: 12
   4:
     item:
       material: DIAMOND_CHESTPLATE
       quantity: 1
-      name: "&c&lArmor"
     shop: "armor"
     slot: 13
   5:
     item:
       material: WHEAT
       quantity: 1
-      name: "&2&lFarming"
-      lore:
-        - "&7Seeds, saplings, bee gear."
     shop: "farming"
     slot: 14
   6:
     item:
       material: DIAMOND_ORE
       quantity: 1
-      name: "&3&lMining"
-      lore:
-        - "&7Raw ores and cave finds."
     shop: "mining"
     slot: 15
   7:
     item:
       material: REDSTONE_TORCH
       quantity: 1
-      name: "&c&lRedstone"
-      lore:
-        - "&7Components for contraptions."
     shop: "redstone"
     slot: 16
   8:
     item:
       material: BUCKET
       quantity: 1
-      name: "&b&lUtility"
-      lore:
-        - "&7Buckets, travel gear, gadgets."
     shop: "utility"
     slot: 19
   9:
     item:
       material: COOKED_CHICKEN
       quantity: 1
-      name: "&6&lFood"
-      lore:
-        - "&7Stock up on meals."
     shop: "food"
     slot: 20
   10:
     item:
       material: SPIDER_EYE
       quantity: 1
-      name: "&9&lMob Drops"
     shop: "drops"
     slot: 21
   11:
     item:
       material: LIGHT_BLUE_DYE
       quantity: 1
-      name: "&d&lDyes"
     shop: "dyes"
     slot: 22
   12:
     item:
       material: CHEST_MINECART
       quantity: 1
-      name: "&6&lMiscellaneous"
     shop: "miscellaneous"
     slot: 23
   13:
+    item:
+      material: BREWING_STAND
+      quantity: 1
+    shop: "brewing"
+    slot: 24
+  14:
+    item:
+      material: PAINTING
+      quantity: 1
+    shop: "decorations"
+    slot: 25
+  99:
     type: special
     special: balance
     slot: 34

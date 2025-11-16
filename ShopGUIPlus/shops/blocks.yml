@@ -1,9 +1,8 @@
 blocks:
-  name: "&9&lBuilding Blocks (page %page%)"
+  name: "Building Blocks (page %page%)"
   size: 54
   fillItem:
     material: GRAY_STAINED_GLASS_PANE
-    name: " "
   buttons:
     goBack:
       slot: 49
@@ -15,561 +14,2200 @@ blocks:
     1:
       type: item
       item:
-        material: COBBLESTONE
+        material: STONE
         quantity: 64
-        name: "&7Cobblestone"
-        lore:
-          - "&7Baseline block for every build."
-      buyPrice: 40
-      sellPrice: 4
+      buyPrice: 50
+      sellPrice: 10
       slot: 0
     2:
       type: item
       item:
-        material: STONE
+        material: COBBLESTONE
         quantity: 64
-        name: "&7Stone"
-        lore:
-          - "&7Smooth mining-floor staple."
-      buyPrice: 50
-      sellPrice: 5
+      buyPrice: 40
+      sellPrice: 8
       slot: 1
     3:
       type: item
       item:
-        material: SMOOTH_STONE
+        material: MOSSY_COBBLESTONE
         quantity: 64
-        name: "&7Smooth Stone"
-        lore:
-          - "&7Clean slabs and floors."
       buyPrice: 60
-      sellPrice: 6
+      sellPrice: 12
       slot: 2
     4:
       type: item
       item:
-        material: STONE_BRICKS
+        material: SMOOTH_STONE
         quantity: 64
-        name: "&7Stone Bricks"
-        lore:
-          - "&7Classic fortification look."
-      buyPrice: 70
-      sellPrice: 7
+      buyPrice: 60
+      sellPrice: 12
       slot: 3
     5:
       type: item
       item:
-        material: MOSSY_STONE_BRICKS
+        material: STONE_BRICKS
         quantity: 64
-        name: "&7Mossy Stone Bricks"
-        lore:
-          - "&7Perfect for ruins."
-      buyPrice: 80
-      sellPrice: 8
+      buyPrice: 70
+      sellPrice: 14
       slot: 4
     6:
       type: item
       item:
-        material: DEEPSLATE
+        material: MOSSY_STONE_BRICKS
         quantity: 64
-        name: "&8Deepslate"
-        lore:
-          - "&7Dark-toned stone variant."
-      buyPrice: 60
-      sellPrice: 6
+      buyPrice: 80
+      sellPrice: 16
       slot: 5
     7:
       type: item
       item:
-        material: POLISHED_DEEPSLATE
+        material: CRACKED_STONE_BRICKS
         quantity: 64
-        name: "&8Polished Deepslate"
-        lore:
-          - "&7Sharp contrast block."
-      buyPrice: 80
-      sellPrice: 8
+      buyPrice: 70
+      sellPrice: 14
       slot: 6
     8:
       type: item
       item:
-        material: TUFF
+        material: CHISELED_STONE_BRICKS
         quantity: 64
-        name: "&7Tuff"
-        lore:
-          - "&7Subtle accent texture."
-      buyPrice: 50
-      sellPrice: 5
+      buyPrice: 70
+      sellPrice: 14
       slot: 7
     9:
       type: item
       item:
-        material: CALCITE
+        material: ANDESITE
         quantity: 64
-        name: "&fCalcite"
-        lore:
-          - "&7Bright marble-like block."
-      buyPrice: 90
-      sellPrice: 9
+      buyPrice: 50
+      sellPrice: 10
       slot: 8
     10:
       type: item
       item:
-        material: OAK_LOG
-        quantity: 32
-        name: "&6Oak Log"
-        lore:
-          - "&7Versatile, rustic wood."
-      buyPrice: 120
+        material: POLISHED_ANDESITE
+        quantity: 64
+      buyPrice: 60
       sellPrice: 12
       slot: 9
     11:
       type: item
       item:
-        material: SPRUCE_LOG
-        quantity: 32
-        name: "&6Spruce Log"
-        lore:
-          - "&7Perfect for cabins."
-      buyPrice: 120
-      sellPrice: 12
+        material: DIORITE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
       slot: 10
     12:
       type: item
       item:
-        material: BIRCH_LOG
-        quantity: 32
-        name: "&6Birch Log"
-        lore:
-          - "&7Light colored trim."
-      buyPrice: 120
+        material: POLISHED_DIORITE
+        quantity: 64
+      buyPrice: 60
       sellPrice: 12
       slot: 11
     13:
       type: item
       item:
-        material: JUNGLE_LOG
-        quantity: 32
-        name: "&6Jungle Log"
-        lore:
-          - "&7Great for treehouses."
-      buyPrice: 120
-      sellPrice: 12
+        material: GRANITE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
       slot: 12
     14:
       type: item
       item:
-        material: ACACIA_LOG
-        quantity: 32
-        name: "&6Acacia Log"
-        lore:
-          - "&7Orange-toned highlights."
-      buyPrice: 120
+        material: POLISHED_GRANITE
+        quantity: 64
+      buyPrice: 60
       sellPrice: 12
       slot: 13
     15:
       type: item
       item:
-        material: DARK_OAK_LOG
-        quantity: 32
-        name: "&6Dark Oak Log"
-        lore:
-          - "&7Bold beams and trims."
-      buyPrice: 140
-      sellPrice: 14
+        material: TUFF
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
       slot: 14
     16:
       type: item
       item:
-        material: CRIMSON_STEM
-        quantity: 32
-        name: "&5Crimson Stem"
-        lore:
-          - "&7Nether-themed builds."
-      buyPrice: 150
-      sellPrice: 15
+        material: CALCITE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
       slot: 15
     17:
       type: item
       item:
-        material: WARPED_STEM
-        quantity: 32
-        name: "&3Warped Stem"
-        lore:
-          - "&7Cool-toned nether wood."
-      buyPrice: 150
-      sellPrice: 15
+        material: DEEPSLATE
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
       slot: 16
     18:
       type: item
       item:
-        material: MANGROVE_LOG
-        quantity: 32
-        name: "&cMangrove Log"
-        lore:
-          - "&7Great for roots & arches."
-      buyPrice: 140
+        material: POLISHED_DEEPSLATE
+        quantity: 64
+      buyPrice: 70
       sellPrice: 14
       slot: 17
     19:
       type: item
       item:
-        material: OAK_PLANKS
+        material: DEEPSLATE_BRICKS
         quantity: 64
-        name: "&6Oak Planks"
-        lore:
-          - "&7Essential building block."
-      buyPrice: 90
-      sellPrice: 9
+      buyPrice: 75
+      sellPrice: 15
       slot: 18
     20:
       type: item
       item:
-        material: SPRUCE_PLANKS
+        material: DEEPSLATE_TILES
         quantity: 64
-        name: "&6Spruce Planks"
-        lore:
-          - "&7Deep wood texture."
-      buyPrice: 90
-      sellPrice: 9
+      buyPrice: 80
+      sellPrice: 16
       slot: 19
     21:
       type: item
       item:
-        material: BIRCH_PLANKS
+        material: BASALT
         quantity: 64
-        name: "&6Birch Planks"
-        lore:
-          - "&7Light interior option."
-      buyPrice: 90
-      sellPrice: 9
+      buyPrice: 60
+      sellPrice: 12
       slot: 20
     22:
       type: item
       item:
-        material: JUNGLE_PLANKS
+        material: POLISHED_BASALT
         quantity: 64
-        name: "&6Jungle Planks"
-        lore:
-          - "&7Vibrant wood flooring."
-      buyPrice: 90
-      sellPrice: 9
+      buyPrice: 70
+      sellPrice: 14
       slot: 21
     23:
       type: item
       item:
-        material: ACACIA_PLANKS
+        material: BLACKSTONE
         quantity: 64
-        name: "&6Acacia Planks"
-        lore:
-          - "&7Modern orange planks."
-      buyPrice: 90
-      sellPrice: 9
+      buyPrice: 80
+      sellPrice: 16
       slot: 22
     24:
       type: item
       item:
-        material: DARK_OAK_PLANKS
+        material: POLISHED_BLACKSTONE
         quantity: 64
-        name: "&6Dark Oak Planks"
-        lore:
-          - "&7Contrast-heavy trim."
-      buyPrice: 110
-      sellPrice: 11
+      buyPrice: 90
+      sellPrice: 18
       slot: 23
     25:
       type: item
       item:
-        material: CRIMSON_PLANKS
+        material: POLISHED_BLACKSTONE_BRICKS
         quantity: 64
-        name: "&5Crimson Planks"
-        lore:
-          - "&7Nether palette base."
-      buyPrice: 120
-      sellPrice: 12
+      buyPrice: 95
+      sellPrice: 19
       slot: 24
     26:
       type: item
       item:
-        material: WARPED_PLANKS
-        quantity: 64
-        name: "&3Warped Planks"
-        lore:
-          - "&7Cool nether palette."
-      buyPrice: 120
-      sellPrice: 12
+        material: GILDED_BLACKSTONE
+        quantity: 32
+      buyPrice: 200
+      sellPrice: 40
       slot: 25
     27:
       type: item
       item:
-        material: MANGROVE_PLANKS
+        material: OAK_PLANKS
         quantity: 64
-        name: "&cMangrove Planks"
-        lore:
-          - "&7Rich red planks."
-      buyPrice: 110
-      sellPrice: 11
+      buyPrice: 70
+      sellPrice: 14
       slot: 26
     28:
       type: item
       item:
-        material: BOOKSHELF
-        quantity: 16
-        name: "&eBookshelf"
-        lore:
-          - "&7Libraries & enchanting."
-      buyPrice: 180
-      sellPrice: 36
+        material: OAK_STAIRS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
       slot: 27
     29:
       type: item
       item:
-        material: GRANITE
+        material: OAK_SLAB
         quantity: 64
-        name: "&7Granite"
-        lore:
-          - "&7Warm-toned accent."
       buyPrice: 60
-      sellPrice: 6
+      sellPrice: 12
       slot: 28
     30:
       type: item
       item:
-        material: POLISHED_GRANITE
-        quantity: 64
-        name: "&7Polished Granite"
-        lore:
-          - "&7Refined granite finish."
-      buyPrice: 70
-      sellPrice: 7
+        material: OAK_LOG
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
       slot: 29
     31:
       type: item
       item:
-        material: DIORITE
-        quantity: 64
-        name: "&7Diorite"
-        lore:
-          - "&7Speckled white block."
-      buyPrice: 60
-      sellPrice: 6
+        material: STRIPPED_OAK_LOG
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
       slot: 30
     32:
       type: item
       item:
-        material: POLISHED_DIORITE
+        material: OAK_FENCE
         quantity: 64
-        name: "&7Polished Diorite"
-        lore:
-          - "&7Clean white panels."
-      buyPrice: 70
-      sellPrice: 7
+      buyPrice: 65
+      sellPrice: 13
       slot: 31
     33:
       type: item
       item:
-        material: ANDESITE
-        quantity: 64
-        name: "&7Andesite"
-        lore:
-          - "&7Neutral building stone."
-      buyPrice: 60
-      sellPrice: 6
+        material: OAK_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
       slot: 32
     34:
       type: item
       item:
-        material: POLISHED_ANDESITE
+        material: SPRUCE_PLANKS
         quantity: 64
-        name: "&7Polished Andesite"
-        lore:
-          - "&7Smooth gray tiles."
       buyPrice: 70
-      sellPrice: 7
+      sellPrice: 14
       slot: 33
     35:
       type: item
       item:
-        material: QUARTZ_BLOCK
-        quantity: 32
-        name: "&fQuartz Block"
-        lore:
-          - "&7Modern white block."
-      buyPrice: 200
-      sellPrice: 20
+        material: SPRUCE_STAIRS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
       slot: 34
     36:
       type: item
       item:
-        material: SMOOTH_QUARTZ
-        quantity: 32
-        name: "&fSmooth Quartz"
-        lore:
-          - "&7Polished quartz finish."
-      buyPrice: 220
-      sellPrice: 22
+        material: SPRUCE_SLAB
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
       slot: 35
     37:
       type: item
       item:
-        material: BRICKS
-        quantity: 64
-        name: "&cBricks"
-        lore:
-          - "&7Townhouse favorite."
-      buyPrice: 150
-      sellPrice: 15
+        material: SPRUCE_LOG
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
       slot: 36
     38:
       type: item
       item:
-        material: PRISMARINE_BRICKS
+        material: STRIPPED_SPRUCE_LOG
         quantity: 32
-        name: "&bPrismarine Bricks"
-        lore:
-          - "&7Underwater palette."
-      buyPrice: 180
-      sellPrice: 18
+      buyPrice: 130
+      sellPrice: 26
       slot: 37
     39:
       type: item
       item:
-        material: DARK_PRISMARINE
-        quantity: 32
-        name: "&3Dark Prismarine"
-        lore:
-          - "&7Deep teal contrast."
-      buyPrice: 200
-      sellPrice: 20
+        material: SPRUCE_FENCE
+        quantity: 64
+      buyPrice: 65
+      sellPrice: 13
       slot: 38
     40:
       type: item
       item:
-        material: SANDSTONE
-        quantity: 64
-        name: "&eSandstone"
-        lore:
-          - "&7Desert-friendly block."
-      buyPrice: 80
-      sellPrice: 8
+        material: SPRUCE_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
       slot: 39
     41:
       type: item
       item:
-        material: CUT_SANDSTONE
+        material: BIRCH_PLANKS
         quantity: 64
-        name: "&eCut Sandstone"
-        lore:
-          - "&7Detailed sandstone faces."
-      buyPrice: 90
-      sellPrice: 9
+      buyPrice: 70
+      sellPrice: 14
       slot: 40
     42:
       type: item
       item:
-        material: RED_SANDSTONE
+        material: BIRCH_STAIRS
         quantity: 64
-        name: "&6Red Sandstone"
-        lore:
-          - "&7Mesa-inspired block."
-      buyPrice: 90
-      sellPrice: 9
+      buyPrice: 70
+      sellPrice: 14
       slot: 41
     43:
       type: item
       item:
-        material: CUT_RED_SANDSTONE
+        material: BIRCH_SLAB
         quantity: 64
-        name: "&6Cut Red Sandstone"
-        lore:
-          - "&7Decorative red slabs."
-      buyPrice: 100
-      sellPrice: 10
+      buyPrice: 60
+      sellPrice: 12
       slot: 42
     44:
       type: item
       item:
-        material: TERRACOTTA
-        quantity: 64
-        name: "&7Terracotta"
-        lore:
-          - "&7Solid clay palette."
-      buyPrice: 80
-      sellPrice: 8
+        material: BIRCH_LOG
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
       slot: 43
     45:
       type: item
       item:
-        material: SEA_LANTERN
-        quantity: 16
-        name: "&bSea Lantern"
-        lore:
-          - "&7Soft aqua lighting."
-      buyPrice: 220
-      sellPrice: 44
+        material: STRIPPED_BIRCH_LOG
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
       slot: 44
     46:
       type: item
       item:
-        material: WHITE_CONCRETE
+        material: BIRCH_FENCE
         quantity: 64
-        name: "&fWhite Concrete"
-        lore:
-          - "&7Clean modern walls."
-      buyPrice: 120
-      sellPrice: 12
+      buyPrice: 65
+      sellPrice: 13
       slot: 46
     47:
       type: item
       item:
-        material: LIGHT_GRAY_CONCRETE
-        quantity: 64
-        name: "&7Light Gray Concrete"
-        lore:
-          - "&7Neutral tone filler."
-      buyPrice: 120
-      sellPrice: 12
+        material: BIRCH_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
       slot: 47
     48:
       type: item
       item:
-        material: BLACK_CONCRETE
+        material: JUNGLE_PLANKS
         quantity: 64
-        name: "&0Black Concrete"
-        lore:
-          - "&7Bold accent block."
-      buyPrice: 130
-      sellPrice: 13
+      buyPrice: 70
+      sellPrice: 14
       slot: 48
     49:
       type: item
       item:
-        material: GLASS
+        material: JUNGLE_STAIRS
         quantity: 64
-        name: "&fGlass"
-        lore:
-          - "&7Clear panes and skylights."
-      buyPrice: 90
-      sellPrice: 9
+      buyPrice: 70
+      sellPrice: 14
       slot: 50
     50:
       type: item
       item:
-        material: WHITE_STAINED_GLASS
+        material: JUNGLE_SLAB
         quantity: 64
-        name: "&fWhite Stained Glass"
-        lore:
-          - "&7Soft frosted windows."
-      buyPrice: 100
-      sellPrice: 10
+      buyPrice: 60
+      sellPrice: 12
       slot: 51
     51:
       type: item
       item:
-        material: GLOWSTONE
+        material: JUNGLE_LOG
         quantity: 32
-        name: "&eGlowstone"
-        lore:
-          - "&7Bright ambient light."
-      buyPrice: 150
-      sellPrice: 15
+      buyPrice: 120
+      sellPrice: 24
       slot: 52
+    52:
+      type: item
+      item:
+        material: STRIPPED_JUNGLE_LOG
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+      slot: 0
+    53:
+      type: item
+      item:
+        material: JUNGLE_FENCE
+        quantity: 64
+      buyPrice: 65
+      sellPrice: 13
+      slot: 1
+    54:
+      type: item
+      item:
+        material: JUNGLE_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
+      slot: 2
+    55:
+      type: item
+      item:
+        material: ACACIA_PLANKS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 3
+    56:
+      type: item
+      item:
+        material: ACACIA_STAIRS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 4
+    57:
+      type: item
+      item:
+        material: ACACIA_SLAB
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 5
+    58:
+      type: item
+      item:
+        material: ACACIA_LOG
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+      slot: 6
+    59:
+      type: item
+      item:
+        material: STRIPPED_ACACIA_LOG
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+      slot: 7
+    60:
+      type: item
+      item:
+        material: ACACIA_FENCE
+        quantity: 64
+      buyPrice: 65
+      sellPrice: 13
+      slot: 8
+    61:
+      type: item
+      item:
+        material: ACACIA_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
+      slot: 9
+    62:
+      type: item
+      item:
+        material: DARK_OAK_PLANKS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 10
+    63:
+      type: item
+      item:
+        material: DARK_OAK_STAIRS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 11
+    64:
+      type: item
+      item:
+        material: DARK_OAK_SLAB
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 12
+    65:
+      type: item
+      item:
+        material: DARK_OAK_LOG
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+      slot: 13
+    66:
+      type: item
+      item:
+        material: STRIPPED_DARK_OAK_LOG
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+      slot: 14
+    67:
+      type: item
+      item:
+        material: DARK_OAK_FENCE
+        quantity: 64
+      buyPrice: 65
+      sellPrice: 13
+      slot: 15
+    68:
+      type: item
+      item:
+        material: DARK_OAK_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
+      slot: 16
+    69:
+      type: item
+      item:
+        material: MANGROVE_PLANKS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 17
+    70:
+      type: item
+      item:
+        material: MANGROVE_STAIRS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 18
+    71:
+      type: item
+      item:
+        material: MANGROVE_SLAB
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 19
+    72:
+      type: item
+      item:
+        material: MANGROVE_LOG
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+      slot: 20
+    73:
+      type: item
+      item:
+        material: STRIPPED_MANGROVE_LOG
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+      slot: 21
+    74:
+      type: item
+      item:
+        material: MANGROVE_FENCE
+        quantity: 64
+      buyPrice: 65
+      sellPrice: 13
+      slot: 22
+    75:
+      type: item
+      item:
+        material: MANGROVE_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
+      slot: 23
+    76:
+      type: item
+      item:
+        material: CHERRY_PLANKS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 24
+    77:
+      type: item
+      item:
+        material: CHERRY_STAIRS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 25
+    78:
+      type: item
+      item:
+        material: CHERRY_SLAB
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 26
+    79:
+      type: item
+      item:
+        material: CHERRY_LOG
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+      slot: 27
+    80:
+      type: item
+      item:
+        material: STRIPPED_CHERRY_LOG
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+      slot: 28
+    81:
+      type: item
+      item:
+        material: CHERRY_FENCE
+        quantity: 64
+      buyPrice: 65
+      sellPrice: 13
+      slot: 29
+    82:
+      type: item
+      item:
+        material: CHERRY_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
+      slot: 30
+    83:
+      type: item
+      item:
+        material: BAMBOO_PLANKS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 31
+    84:
+      type: item
+      item:
+        material: BAMBOO_STAIRS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 32
+    85:
+      type: item
+      item:
+        material: BAMBOO_SLAB
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 33
+    86:
+      type: item
+      item:
+        material: BAMBOO_BLOCK
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+      slot: 34
+    87:
+      type: item
+      item:
+        material: STRIPPED_BAMBOO_BLOCK
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+      slot: 35
+    88:
+      type: item
+      item:
+        material: BAMBOO_FENCE
+        quantity: 64
+      buyPrice: 65
+      sellPrice: 13
+      slot: 36
+    89:
+      type: item
+      item:
+        material: BAMBOO_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
+      slot: 37
+    90:
+      type: item
+      item:
+        material: CRIMSON_PLANKS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 38
+    91:
+      type: item
+      item:
+        material: CRIMSON_STAIRS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 39
+    92:
+      type: item
+      item:
+        material: CRIMSON_SLAB
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 40
+    93:
+      type: item
+      item:
+        material: CRIMSON_LOG
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+      slot: 41
+    94:
+      type: item
+      item:
+        material: STRIPPED_CRIMSON_LOG
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+      slot: 42
+    95:
+      type: item
+      item:
+        material: CRIMSON_FENCE
+        quantity: 64
+      buyPrice: 65
+      sellPrice: 13
+      slot: 43
+    96:
+      type: item
+      item:
+        material: CRIMSON_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
+      slot: 44
+    97:
+      type: item
+      item:
+        material: WARPED_PLANKS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 46
+    98:
+      type: item
+      item:
+        material: WARPED_STAIRS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 47
+    99:
+      type: item
+      item:
+        material: WARPED_SLAB
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 48
+    100:
+      type: item
+      item:
+        material: WARPED_LOG
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 24
+      slot: 50
+    101:
+      type: item
+      item:
+        material: STRIPPED_WARPED_LOG
+        quantity: 32
+      buyPrice: 130
+      sellPrice: 26
+      slot: 51
+    102:
+      type: item
+      item:
+        material: WARPED_FENCE
+        quantity: 64
+      buyPrice: 65
+      sellPrice: 13
+      slot: 52
+    103:
+      type: item
+      item:
+        material: WARPED_DOOR
+        quantity: 16
+      buyPrice: 50
+      sellPrice: 10
+      slot: 0
+    104:
+      type: item
+      item:
+        material: SAND
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 1
+    105:
+      type: item
+      item:
+        material: RED_SAND
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 2
+    106:
+      type: item
+      item:
+        material: SANDSTONE
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 3
+    107:
+      type: item
+      item:
+        material: CUT_SANDSTONE
+        quantity: 64
+      buyPrice: 75
+      sellPrice: 15
+      slot: 4
+    108:
+      type: item
+      item:
+        material: SMOOTH_SANDSTONE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 5
+    109:
+      type: item
+      item:
+        material: RED_SANDSTONE
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 6
+    110:
+      type: item
+      item:
+        material: CUT_RED_SANDSTONE
+        quantity: 64
+      buyPrice: 75
+      sellPrice: 15
+      slot: 7
+    111:
+      type: item
+      item:
+        material: SMOOTH_RED_SANDSTONE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 8
+    112:
+      type: item
+      item:
+        material: GLASS
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 9
+    113:
+      type: item
+      item:
+        material: TINTED_GLASS
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 10
+    114:
+      type: item
+      item:
+        material: GLASS_PANE
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 11
+    115:
+      type: item
+      item:
+        material: SEA_LANTERN
+        quantity: 32
+      buyPrice: 160
+      sellPrice: 32
+      slot: 12
+    116:
+      type: item
+      item:
+        material: PRISMARINE
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 13
+    117:
+      type: item
+      item:
+        material: PRISMARINE_BRICKS
+        quantity: 64
+      buyPrice: 95
+      sellPrice: 19
+      slot: 14
+    118:
+      type: item
+      item:
+        material: DARK_PRISMARINE
+        quantity: 64
+      buyPrice: 110
+      sellPrice: 22
+      slot: 15
+    119:
+      type: item
+      item:
+        material: WHITE_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 16
+    120:
+      type: item
+      item:
+        material: WHITE_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 17
+    121:
+      type: item
+      item:
+        material: WHITE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 18
+    122:
+      type: item
+      item:
+        material: WHITE_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 19
+    123:
+      type: item
+      item:
+        material: WHITE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 20
+    124:
+      type: item
+      item:
+        material: WHITE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 21
+    125:
+      type: item
+      item:
+        material: WHITE_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 22
+    126:
+      type: item
+      item:
+        material: WHITE_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 23
+    127:
+      type: item
+      item:
+        material: ORANGE_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 24
+    128:
+      type: item
+      item:
+        material: ORANGE_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 25
+    129:
+      type: item
+      item:
+        material: ORANGE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 26
+    130:
+      type: item
+      item:
+        material: ORANGE_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 27
+    131:
+      type: item
+      item:
+        material: ORANGE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 28
+    132:
+      type: item
+      item:
+        material: ORANGE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 29
+    133:
+      type: item
+      item:
+        material: ORANGE_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 30
+    134:
+      type: item
+      item:
+        material: ORANGE_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 31
+    135:
+      type: item
+      item:
+        material: MAGENTA_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 32
+    136:
+      type: item
+      item:
+        material: MAGENTA_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 33
+    137:
+      type: item
+      item:
+        material: MAGENTA_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 34
+    138:
+      type: item
+      item:
+        material: MAGENTA_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 35
+    139:
+      type: item
+      item:
+        material: MAGENTA_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 36
+    140:
+      type: item
+      item:
+        material: MAGENTA_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 37
+    141:
+      type: item
+      item:
+        material: MAGENTA_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 38
+    142:
+      type: item
+      item:
+        material: MAGENTA_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 39
+    143:
+      type: item
+      item:
+        material: LIGHT_BLUE_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 40
+    144:
+      type: item
+      item:
+        material: LIGHT_BLUE_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 41
+    145:
+      type: item
+      item:
+        material: LIGHT_BLUE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 42
+    146:
+      type: item
+      item:
+        material: LIGHT_BLUE_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 43
+    147:
+      type: item
+      item:
+        material: LIGHT_BLUE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 44
+    148:
+      type: item
+      item:
+        material: LIGHT_BLUE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 46
+    149:
+      type: item
+      item:
+        material: LIGHT_BLUE_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 47
+    150:
+      type: item
+      item:
+        material: LIGHT_BLUE_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 48
+    151:
+      type: item
+      item:
+        material: YELLOW_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 50
+    152:
+      type: item
+      item:
+        material: YELLOW_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 51
+    153:
+      type: item
+      item:
+        material: YELLOW_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 52
+    154:
+      type: item
+      item:
+        material: YELLOW_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 0
+    155:
+      type: item
+      item:
+        material: YELLOW_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 1
+    156:
+      type: item
+      item:
+        material: YELLOW_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 2
+    157:
+      type: item
+      item:
+        material: YELLOW_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 3
+    158:
+      type: item
+      item:
+        material: YELLOW_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 4
+    159:
+      type: item
+      item:
+        material: LIME_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 5
+    160:
+      type: item
+      item:
+        material: LIME_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 6
+    161:
+      type: item
+      item:
+        material: LIME_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 7
+    162:
+      type: item
+      item:
+        material: LIME_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 8
+    163:
+      type: item
+      item:
+        material: LIME_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 9
+    164:
+      type: item
+      item:
+        material: LIME_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 10
+    165:
+      type: item
+      item:
+        material: LIME_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 11
+    166:
+      type: item
+      item:
+        material: LIME_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 12
+    167:
+      type: item
+      item:
+        material: PINK_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 13
+    168:
+      type: item
+      item:
+        material: PINK_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 14
+    169:
+      type: item
+      item:
+        material: PINK_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 15
+    170:
+      type: item
+      item:
+        material: PINK_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 16
+    171:
+      type: item
+      item:
+        material: PINK_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 17
+    172:
+      type: item
+      item:
+        material: PINK_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 18
+    173:
+      type: item
+      item:
+        material: PINK_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 19
+    174:
+      type: item
+      item:
+        material: PINK_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 20
+    175:
+      type: item
+      item:
+        material: GRAY_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 21
+    176:
+      type: item
+      item:
+        material: GRAY_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 22
+    177:
+      type: item
+      item:
+        material: GRAY_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 23
+    178:
+      type: item
+      item:
+        material: GRAY_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 24
+    179:
+      type: item
+      item:
+        material: GRAY_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 25
+    180:
+      type: item
+      item:
+        material: GRAY_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 26
+    181:
+      type: item
+      item:
+        material: GRAY_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 27
+    182:
+      type: item
+      item:
+        material: GRAY_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 28
+    183:
+      type: item
+      item:
+        material: LIGHT_GRAY_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 29
+    184:
+      type: item
+      item:
+        material: LIGHT_GRAY_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 30
+    185:
+      type: item
+      item:
+        material: LIGHT_GRAY_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 31
+    186:
+      type: item
+      item:
+        material: LIGHT_GRAY_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 32
+    187:
+      type: item
+      item:
+        material: LIGHT_GRAY_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 33
+    188:
+      type: item
+      item:
+        material: LIGHT_GRAY_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 34
+    189:
+      type: item
+      item:
+        material: LIGHT_GRAY_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 35
+    190:
+      type: item
+      item:
+        material: LIGHT_GRAY_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 36
+    191:
+      type: item
+      item:
+        material: CYAN_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 37
+    192:
+      type: item
+      item:
+        material: CYAN_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 38
+    193:
+      type: item
+      item:
+        material: CYAN_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 39
+    194:
+      type: item
+      item:
+        material: CYAN_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 40
+    195:
+      type: item
+      item:
+        material: CYAN_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 41
+    196:
+      type: item
+      item:
+        material: CYAN_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 42
+    197:
+      type: item
+      item:
+        material: CYAN_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 43
+    198:
+      type: item
+      item:
+        material: CYAN_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 44
+    199:
+      type: item
+      item:
+        material: PURPLE_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 46
+    200:
+      type: item
+      item:
+        material: PURPLE_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 47
+    201:
+      type: item
+      item:
+        material: PURPLE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 48
+    202:
+      type: item
+      item:
+        material: PURPLE_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 50
+    203:
+      type: item
+      item:
+        material: PURPLE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 51
+    204:
+      type: item
+      item:
+        material: PURPLE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 52
+    205:
+      type: item
+      item:
+        material: PURPLE_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 0
+    206:
+      type: item
+      item:
+        material: PURPLE_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 1
+    207:
+      type: item
+      item:
+        material: BLUE_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 2
+    208:
+      type: item
+      item:
+        material: BLUE_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 3
+    209:
+      type: item
+      item:
+        material: BLUE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 4
+    210:
+      type: item
+      item:
+        material: BLUE_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 5
+    211:
+      type: item
+      item:
+        material: BLUE_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 6
+    212:
+      type: item
+      item:
+        material: BLUE_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 7
+    213:
+      type: item
+      item:
+        material: BLUE_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 8
+    214:
+      type: item
+      item:
+        material: BLUE_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 9
+    215:
+      type: item
+      item:
+        material: BROWN_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 10
+    216:
+      type: item
+      item:
+        material: BROWN_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 11
+    217:
+      type: item
+      item:
+        material: BROWN_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 12
+    218:
+      type: item
+      item:
+        material: BROWN_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 13
+    219:
+      type: item
+      item:
+        material: BROWN_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 14
+    220:
+      type: item
+      item:
+        material: BROWN_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 15
+    221:
+      type: item
+      item:
+        material: BROWN_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 16
+    222:
+      type: item
+      item:
+        material: BROWN_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 17
+    223:
+      type: item
+      item:
+        material: GREEN_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 18
+    224:
+      type: item
+      item:
+        material: GREEN_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 19
+    225:
+      type: item
+      item:
+        material: GREEN_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 20
+    226:
+      type: item
+      item:
+        material: GREEN_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 21
+    227:
+      type: item
+      item:
+        material: GREEN_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 22
+    228:
+      type: item
+      item:
+        material: GREEN_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 23
+    229:
+      type: item
+      item:
+        material: GREEN_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 24
+    230:
+      type: item
+      item:
+        material: GREEN_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 25
+    231:
+      type: item
+      item:
+        material: RED_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 26
+    232:
+      type: item
+      item:
+        material: RED_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 27
+    233:
+      type: item
+      item:
+        material: RED_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 28
+    234:
+      type: item
+      item:
+        material: RED_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 29
+    235:
+      type: item
+      item:
+        material: RED_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 30
+    236:
+      type: item
+      item:
+        material: RED_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 31
+    237:
+      type: item
+      item:
+        material: RED_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 32
+    238:
+      type: item
+      item:
+        material: RED_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 33
+    239:
+      type: item
+      item:
+        material: BLACK_WOOL
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 34
+    240:
+      type: item
+      item:
+        material: BLACK_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 35
+    241:
+      type: item
+      item:
+        material: BLACK_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 36
+    242:
+      type: item
+      item:
+        material: BLACK_TERRACOTTA
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 37
+    243:
+      type: item
+      item:
+        material: BLACK_GLAZED_TERRACOTTA
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 38
+    244:
+      type: item
+      item:
+        material: BLACK_STAINED_GLASS
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 39
+    245:
+      type: item
+      item:
+        material: BLACK_STAINED_GLASS_PANE
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 40
+    246:
+      type: item
+      item:
+        material: BLACK_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 41
+    247:
+      type: item
+      item:
+        material: BRICKS
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 42
+    248:
+      type: item
+      item:
+        material: NETHER_BRICKS
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 43
+    249:
+      type: item
+      item:
+        material: RED_NETHER_BRICKS
+        quantity: 64
+      buyPrice: 110
+      sellPrice: 22
+      slot: 44
+    250:
+      type: item
+      item:
+        material: QUARTZ_BLOCK
+        quantity: 64
+      buyPrice: 110
+      sellPrice: 22
+      slot: 46
+    251:
+      type: item
+      item:
+        material: CHISELED_QUARTZ_BLOCK
+        quantity: 64
+      buyPrice: 115
+      sellPrice: 23
+      slot: 47
+    252:
+      type: item
+      item:
+        material: QUARTZ_BRICKS
+        quantity: 64
+      buyPrice: 115
+      sellPrice: 23
+      slot: 48
+    253:
+      type: item
+      item:
+        material: SMOOTH_QUARTZ
+        quantity: 64
+      buyPrice: 120
+      sellPrice: 24
+      slot: 50
+    254:
+      type: item
+      item:
+        material: PURPUR_BLOCK
+        quantity: 64
+      buyPrice: 130
+      sellPrice: 26
+      slot: 51
+    255:
+      type: item
+      item:
+        material: PURPUR_PILLAR
+        quantity: 64
+      buyPrice: 135
+      sellPrice: 27
+      slot: 52
+    256:
+      type: item
+      item:
+        material: END_STONE
+        quantity: 64
+      buyPrice: 90
+      sellPrice: 18
+      slot: 0
+    257:
+      type: item
+      item:
+        material: END_STONE_BRICKS
+        quantity: 64
+      buyPrice: 95
+      sellPrice: 19
+      slot: 1
+    258:
+      type: item
+      item:
+        material: WHITE_CONCRETE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 2
+    259:
+      type: item
+      item:
+        material: GLOWSTONE
+        quantity: 64
+      buyPrice: 110
+      sellPrice: 22
+      slot: 3
+    260:
+      type: item
+      item:
+        material: BLUE_ICE
+        quantity: 32
+      buyPrice: 200
+      sellPrice: 40
+      slot: 4
+    261:
+      type: item
+      item:
+        material: PACKED_ICE
+        quantity: 64
+      buyPrice: 120
+      sellPrice: 24
+      slot: 5
+    262:
+      type: item
+      item:
+        material: ICE
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 6
+    263:
+      type: item
+      item:
+        material: OBSIDIAN
+        quantity: 32
+      buyPrice: 180
+      sellPrice: 36
+      slot: 7
+    264:
+      type: item
+      item:
+        material: CRYING_OBSIDIAN
+        quantity: 32
+      buyPrice: 200
+      sellPrice: 40
+      slot: 8
+    265:
+      type: item
+      item:
+        material: HONEY_BLOCK
+        quantity: 32
+      buyPrice: 140
+      sellPrice: 28
+      slot: 9
+    266:
+      type: item
+      item:
+        material: SLIME_BLOCK
+        quantity: 32
+      buyPrice: 140
+      sellPrice: 28
+      slot: 10
+    267:
+      type: item
+      item:
+        material: AMETHYST_BLOCK
+        quantity: 32
+      buyPrice: 150
+      sellPrice: 30
+      slot: 11
+    268:
+      type: item
+      item:
+        material: BUDDING_AMETHYST
+        quantity: 1
+      buyPrice: 500
+      sellPrice: 100
+      slot: 12
+    269:
+      type: item
+      item:
+        material: MUD_BRICKS
+        quantity: 64
+      buyPrice: 80
+      sellPrice: 16
+      slot: 13
+    270:
+      type: item
+      item:
+        material: MUD
+        quantity: 64
+      buyPrice: 50
+      sellPrice: 10
+      slot: 14
+    271:
+      type: item
+      item:
+        material: MANGROVE_ROOTS
+        quantity: 64
+      buyPrice: 60
+      sellPrice: 12
+      slot: 15
+    272:
+      type: item
+      item:
+        material: MOSS_BLOCK
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 16
+    273:
+      type: item
+      item:
+        material: MOSS_CARPET
+        quantity: 64
+      buyPrice: 40
+      sellPrice: 8
+      slot: 17
+    274:
+      type: item
+      item:
+        material: DRIPSTONE_BLOCK
+        quantity: 64
+      buyPrice: 70
+      sellPrice: 14
+      slot: 18
+    275:
+      type: item
+      item:
+        material: POINTED_DRIPSTONE
+        quantity: 32
+      buyPrice: 80
+      sellPrice: 16
+      slot: 19
