@@ -230,7 +230,7 @@ mining:
     28:
       type: item
       item:
-        material: QUARTZ_ORE
+        material: NETHER_QUARTZ_ORE
         quantity: 32
       buyPrice: 260
       sellPrice: 52

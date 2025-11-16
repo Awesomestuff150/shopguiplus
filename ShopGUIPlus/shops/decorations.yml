@@ -426,7 +426,7 @@ decorations:
         quantity: 32
       buyPrice: 150
       sellPrice: 30
-      slot: 0
+      slot: 54
     53:
       type: item
       item:
@@ -434,7 +434,7 @@ decorations:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 1
+      slot: 55
     54:
       type: item
       item:
@@ -442,7 +442,7 @@ decorations:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 2
+      slot: 56
     55:
       type: item
       item:
@@ -450,7 +450,7 @@ decorations:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 3
+      slot: 57
     56:
       type: item
       item:
@@ -458,7 +458,7 @@ decorations:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 4
+      slot: 58
     57:
       type: item
       item:
@@ -466,7 +466,7 @@ decorations:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 5
+      slot: 59
     58:
       type: item
       item:
@@ -474,7 +474,7 @@ decorations:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 6
+      slot: 60
     59:
       type: item
       item:
@@ -482,7 +482,7 @@ decorations:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 7
+      slot: 61
     60:
       type: item
       item:
@@ -490,7 +490,7 @@ decorations:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 8
+      slot: 62
     61:
       type: item
       item:
@@ -498,4 +498,4 @@ decorations:
         quantity: 64
       buyPrice: 70
       sellPrice: 14
-      slot: 9
+      slot: 63

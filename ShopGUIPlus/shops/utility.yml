@@ -166,7 +166,7 @@ utility:
     20:
       type: item
       item:
-        material: EYE_OF_ENDER
+        material: ENDER_EYE
         quantity: 16
       buyPrice: 320
       sellPrice: 64
