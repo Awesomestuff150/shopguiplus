@@ -693,18 +693,6 @@ shopMenuItems:
       quantity: 1
     shop: "utility"
     slot: 29
-  17:
-    item:
-      material: SPAWNER
-      quantity: 1
-    shop: "spawners"
-    slot: 30
-  18:
-    item:
-      material: ZOMBIE_SPAWN_EGG
-      quantity: 1
-    shop: "spawn_eggs"
-    slot: 31
   99:
     type: special
     special: balance
