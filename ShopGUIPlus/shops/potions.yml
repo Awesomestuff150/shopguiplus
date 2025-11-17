@@ -20,8 +20,8 @@ potions:
         material: POTION
         potion: SPEED
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     2:
       type: item
       page: 1
@@ -30,8 +30,8 @@ potions:
         material: POTION
         potion: STRONG_STRENGTH
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     3:
       type: item
       page: 1
@@ -40,8 +40,8 @@ potions:
         material: POTION
         potion: REGEN
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     4:
       type: item
       page: 1
@@ -50,8 +50,8 @@ potions:
         material: POTION
         potion: INSTANT_HEAL
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     5:
       type: item
       page: 1
@@ -60,8 +60,8 @@ potions:
         material: POTION
         potion: FIRE_RESISTANCE
         quantity: 1
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 68
     6:
       type: item
       page: 1
@@ -70,8 +70,8 @@ potions:
         material: POTION
         potion: WATER_BREATHING
         quantity: 1
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 72
     7:
       type: item
       page: 1
@@ -80,8 +80,8 @@ potions:
         material: POTION
         potion: NIGHT_VISION
         quantity: 1
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 68
     8:
       type: item
       page: 1
@@ -90,8 +90,8 @@ potions:
         material: POTION
         potion: INVISIBILITY
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     9:
       type: item
       page: 1
@@ -100,8 +100,8 @@ potions:
         material: POTION
         potion: SLOW_FALLING
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     10:
       type: item
       page: 1
@@ -110,8 +110,8 @@ potions:
         material: POTION
         potion: TURTLE_MASTER
         quantity: 1
-      buyPrice: 210
-      sellPrice: 42
+      buyPrice: 420
+      sellPrice: 84
     11:
       type: item
       page: 1
@@ -120,8 +120,8 @@ potions:
         material: POTION
         potion: POISON
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     12:
       type: item
       page: 1
@@ -130,8 +130,8 @@ potions:
         material: POTION
         potion: WEAKNESS
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     13:
       type: item
       page: 1
@@ -140,8 +140,8 @@ potions:
         material: POTION
         potion: SLOWNESS
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     14:
       type: item
       page: 1
@@ -150,8 +150,8 @@ potions:
         material: POTION
         potion: HARMING
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     15:
       type: item
       page: 1
@@ -160,8 +160,8 @@ potions:
         material: POTION
         potion: STRENGTH
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     16:
       type: item
       page: 1
@@ -170,8 +170,8 @@ potions:
         material: POTION
         potion: LONG_SWIFTNESS
         quantity: 1
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 68
     17:
       type: item
       page: 1
@@ -180,8 +180,8 @@ potions:
         material: POTION
         potion: LONG_FIRE_RESISTANCE
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     18:
       type: item
       page: 1
@@ -190,8 +190,8 @@ potions:
         material: POTION
         potion: LONG_WATER_BREATHING
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     19:
       type: item
       page: 1
@@ -200,8 +200,8 @@ potions:
         material: POTION
         potion: LONG_NIGHT_VISION
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     20:
       type: item
       page: 1
@@ -210,8 +210,8 @@ potions:
         material: POTION
         potion: LONG_INVISIBILITY
         quantity: 1
-      buyPrice: 210
-      sellPrice: 42
+      buyPrice: 420
+      sellPrice: 84
     21:
       type: item
       page: 1
@@ -220,8 +220,8 @@ potions:
         material: POTION
         potion: LONG_SLOW_FALLING
         quantity: 1
-      buyPrice: 210
-      sellPrice: 42
+      buyPrice: 420
+      sellPrice: 84
     22:
       type: item
       page: 2
@@ -230,8 +230,8 @@ potions:
         material: SPLASH_POTION
         potion: SPEED
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     23:
       type: item
       page: 2
@@ -240,8 +240,8 @@ potions:
         material: SPLASH_POTION
         potion: STRENGTH
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     24:
       type: item
       page: 2
@@ -250,8 +250,8 @@ potions:
         material: SPLASH_POTION
         potion: HEALING
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     25:
       type: item
       page: 2
@@ -260,8 +260,8 @@ potions:
         material: SPLASH_POTION
         potion: FIRE_RESISTANCE
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     26:
       type: item
       page: 2
@@ -270,8 +270,8 @@ potions:
         material: SPLASH_POTION
         potion: POISON
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     27:
       type: item
       page: 2
@@ -280,8 +280,8 @@ potions:
         material: SPLASH_POTION
         potion: WEAKNESS
         quantity: 1
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 72
     28:
       type: item
       page: 2
@@ -290,8 +290,8 @@ potions:
         material: SPLASH_POTION
         potion: HARMING
         quantity: 1
-      buyPrice: 210
-      sellPrice: 42
+      buyPrice: 420
+      sellPrice: 84
     29:
       type: item
       page: 2
@@ -300,8 +300,8 @@ potions:
         material: SPLASH_POTION
         potion: SLOWNESS
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     30:
       type: item
       page: 2
@@ -310,8 +310,8 @@ potions:
         material: SPLASH_POTION
         potion: SLOW_FALLING
         quantity: 1
-      buyPrice: 210
-      sellPrice: 42
+      buyPrice: 420
+      sellPrice: 84
     31:
       type: item
       page: 2
@@ -320,8 +320,8 @@ potions:
         material: SPLASH_POTION
         potion: TURTLE_MASTER
         quantity: 1
-      buyPrice: 230
-      sellPrice: 46
+      buyPrice: 460
+      sellPrice: 92
     32:
       type: item
       page: 2
@@ -330,8 +330,8 @@ potions:
         material: SPLASH_POTION
         potion: REGEN
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     33:
       type: item
       page: 2
@@ -340,8 +340,8 @@ potions:
         material: SPLASH_POTION
         potion: STRENGTH
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     34:
       type: item
       page: 2
@@ -350,8 +350,8 @@ potions:
         material: SPLASH_POTION
         potion: SPEED
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     35:
       type: item
       page: 2
@@ -360,8 +360,8 @@ potions:
         material: SPLASH_POTION
         potion: INVISIBILITY
         quantity: 1
-      buyPrice: 230
-      sellPrice: 46
+      buyPrice: 460
+      sellPrice: 92
     36:
       type: item
       page: 2
@@ -370,8 +370,8 @@ potions:
         material: SPLASH_POTION
         potion: WATER_BREATHING
         quantity: 1
-      buyPrice: 210
-      sellPrice: 42
+      buyPrice: 420
+      sellPrice: 84
     37:
       type: item
       page: 2
@@ -380,8 +380,8 @@ potions:
         material: SPLASH_POTION
         potion: NIGHT_VISION
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     38:
       type: item
       page: 2
@@ -390,8 +390,8 @@ potions:
         material: SPLASH_POTION
         potion: SLOWNESS
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     39:
       type: item
       page: 2
@@ -400,8 +400,8 @@ potions:
         material: SPLASH_POTION
         potion: POISON
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     40:
       type: item
       page: 2
@@ -410,8 +410,8 @@ potions:
         material: SPLASH_POTION
         potion: WEAKNESS
         quantity: 1
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 72
     41:
       type: item
       page: 2
@@ -420,8 +420,8 @@ potions:
         material: SPLASH_POTION
         potion: FIRE_RESISTANCE
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     42:
       type: item
       page: 2
@@ -430,8 +430,8 @@ potions:
         material: SPLASH_POTION
         potion: HEALING
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     43:
       type: item
       page: 3
@@ -440,8 +440,8 @@ potions:
         material: LINGERING_POTION
         potion: SPEED
         quantity: 1
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 96
     44:
       type: item
       page: 3
@@ -450,8 +450,8 @@ potions:
         material: LINGERING_POTION
         potion: STRENGTH
         quantity: 1
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 104
     45:
       type: item
       page: 3
@@ -460,8 +460,8 @@ potions:
         material: LINGERING_POTION
         potion: HEALING
         quantity: 1
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 104
     46:
       type: item
       page: 3
@@ -470,8 +470,8 @@ potions:
         material: LINGERING_POTION
         potion: FIRE_RESISTANCE
         quantity: 1
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 96
     47:
       type: item
       page: 3
@@ -480,8 +480,8 @@ potions:
         material: LINGERING_POTION
         potion: POISON
         quantity: 1
-      buyPrice: 230
-      sellPrice: 46
+      buyPrice: 460
+      sellPrice: 92
     48:
       type: item
       page: 3
@@ -490,8 +490,8 @@ potions:
         material: LINGERING_POTION
         potion: WEAKNESS
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     49:
       type: item
       page: 3
@@ -500,8 +500,8 @@ potions:
         material: LINGERING_POTION
         potion: HARMING
         quantity: 1
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 104
     50:
       type: item
       page: 3
@@ -510,8 +510,8 @@ potions:
         material: LINGERING_POTION
         potion: TURTLE_MASTER
         quantity: 1
-      buyPrice: 280
-      sellPrice: 56
+      buyPrice: 560
+      sellPrice: 112
     51:
       type: item
       page: 3
@@ -520,8 +520,8 @@ potions:
         material: LINGERING_POTION
         potion: SLOW_FALLING
         quantity: 1
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 104
     52:
       type: item
       page: 3
@@ -530,8 +530,8 @@ potions:
         material: LINGERING_POTION
         potion: WATER_BREATHING
         quantity: 1
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 96
     53:
       type: item
       page: 3
@@ -540,8 +540,8 @@ potions:
         material: LINGERING_POTION
         potion: INVISIBILITY
         quantity: 1
-      buyPrice: 270
-      sellPrice: 54
+      buyPrice: 540
+      sellPrice: 108
     54:
       type: item
       page: 3
@@ -550,8 +550,8 @@ potions:
         material: LINGERING_POTION
         potion: NIGHT_VISION
         quantity: 1
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 96
     55:
       type: item
       page: 3
@@ -560,8 +560,8 @@ potions:
         material: LINGERING_POTION
         potion: SLOWNESS
         quantity: 1
-      buyPrice: 230
-      sellPrice: 46
+      buyPrice: 460
+      sellPrice: 92
     56:
       type: item
       page: 3
@@ -570,8 +570,8 @@ potions:
         material: LINGERING_POTION
         potion: POISON
         quantity: 1
-      buyPrice: 230
-      sellPrice: 46
+      buyPrice: 460
+      sellPrice: 92
     57:
       type: item
       page: 3
@@ -580,8 +580,8 @@ potions:
         material: POTION
         potion: AWKWARD
         quantity: 1
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     58:
       type: item
       page: 3
@@ -590,8 +590,8 @@ potions:
         material: POTION
         potion: MUNDANE
         quantity: 1
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     59:
       type: item
       page: 3
@@ -600,8 +600,8 @@ potions:
         material: POTION
         potion: THICK
         quantity: 1
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     60:
       type: item
       page: 3
@@ -610,8 +610,8 @@ potions:
         material: SPLASH_POTION
         potion: AWKWARD
         quantity: 1
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     61:
       type: item
       page: 3
@@ -620,8 +620,8 @@ potions:
         material: SPLASH_POTION
         potion: MUNDANE
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     62:
       type: item
       page: 3
@@ -630,8 +630,8 @@ potions:
         material: SPLASH_POTION
         potion: THICK
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     63:
       type: item
       page: 3
@@ -640,5 +640,5 @@ potions:
         material: LINGERING_POTION
         potion: AWKWARD
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64

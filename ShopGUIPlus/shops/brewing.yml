@@ -19,8 +19,8 @@ brewing:
       item:
         material: BREWING_STAND
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ brewing:
       item:
         material: CAULDRON
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ brewing:
       item:
         material: GLASS_BOTTLE
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ brewing:
       item:
         material: WATER_BUCKET
         quantity: 1
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 68
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ brewing:
       item:
         material: BLAZE_ROD
         quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ brewing:
       item:
         material: BLAZE_POWDER
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ brewing:
       item:
         material: NETHER_WART
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ brewing:
       item:
         material: FERMENTED_SPIDER_EYE
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ brewing:
       item:
         material: SUGAR
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ brewing:
       item:
         material: RABBIT_FOOT
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ brewing:
       item:
         material: GLISTERING_MELON_SLICE
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ brewing:
       item:
         material: MAGMA_CREAM
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ brewing:
       item:
         material: GHAST_TEAR
         quantity: 16
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ brewing:
       item:
         material: PHANTOM_MEMBRANE
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ brewing:
       item:
         material: PUFFERFISH
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ brewing:
       item:
         material: GOLDEN_CARROT
         quantity: 32
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ brewing:
       item:
         material: TURTLE_SCUTE
         quantity: 32
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 72
     18:
       type: item
       page: 1
@@ -172,8 +172,8 @@ brewing:
       item:
         material: DRAGON_BREATH
         quantity: 16
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 104
     19:
       type: item
       page: 1
@@ -181,8 +181,8 @@ brewing:
       item:
         material: GLOWSTONE_DUST
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     20:
       type: item
       page: 1
@@ -190,8 +190,8 @@ brewing:
       item:
         material: REDSTONE
         quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     21:
       type: item
       page: 1
@@ -199,8 +199,8 @@ brewing:
       item:
         material: GUNPOWDER
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     22:
       type: item
       page: 2
@@ -208,8 +208,8 @@ brewing:
       item:
         material: SPIDER_EYE
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     23:
       type: item
       page: 2
@@ -217,8 +217,8 @@ brewing:
       item:
         material: ROTTEN_FLESH
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     24:
       type: item
       page: 2
@@ -226,8 +226,8 @@ brewing:
       item:
         material: GHAST_TEAR
         quantity: 16
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     25:
       type: item
       page: 2
@@ -235,8 +235,8 @@ brewing:
       item:
         material: BONE_MEAL
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     26:
       type: item
       page: 2
@@ -244,8 +244,8 @@ brewing:
       item:
         material: DRAGON_HEAD
         quantity: 1
-      buyPrice: 700
-      sellPrice: 140
+      buyPrice: 1400
+      sellPrice: 280
     27:
       type: item
       page: 2
@@ -253,8 +253,8 @@ brewing:
       item:
         material: BLAZE_POWDER
         quantity: 64
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     28:
       type: item
       page: 2
@@ -262,17 +262,8 @@ brewing:
       item:
         material: FERMENTED_SPIDER_EYE
         quantity: 64
-      buyPrice: 160
-      sellPrice: 32
-    29:
-      type: item
-      page: 2
-      slot: 19
-      item:
-        material: NETHERITE_SCRAP
-        quantity: 8
-      buyPrice: 400
-      sellPrice: 80
+      buyPrice: 320
+      sellPrice: 64
     30:
       type: item
       page: 2
@@ -280,8 +271,8 @@ brewing:
       item:
         material: GOLD_INGOT
         quantity: 64
-      buyPrice: 300
-      sellPrice: 60
+      buyPrice: 600
+      sellPrice: 120
     31:
       type: item
       page: 2
@@ -289,8 +280,8 @@ brewing:
       item:
         material: GLOW_INK_SAC
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     32:
       type: item
       page: 2
@@ -298,8 +289,8 @@ brewing:
       item:
         material: HONEY_BOTTLE
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     33:
       type: item
       page: 2
@@ -307,8 +298,8 @@ brewing:
       item:
         material: SPONGE
         quantity: 16
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 104
     34:
       type: item
       page: 2
@@ -316,8 +307,8 @@ brewing:
       item:
         material: TROPICAL_FISH
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     35:
       type: item
       page: 2
@@ -325,8 +316,8 @@ brewing:
       item:
         material: GLOW_BERRIES
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     36:
       type: item
       page: 2
@@ -334,8 +325,8 @@ brewing:
       item:
         material: SWEET_BERRIES
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     37:
       type: item
       page: 2
@@ -343,8 +334,8 @@ brewing:
       item:
         material: MELON_SLICE
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     38:
       type: item
       page: 2
@@ -352,8 +343,8 @@ brewing:
       item:
         material: CARROT
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     39:
       type: item
       page: 2
@@ -361,8 +352,8 @@ brewing:
       item:
         material: POTATO
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     40:
       type: item
       page: 2
@@ -370,8 +361,8 @@ brewing:
       item:
         material: WHEAT
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     41:
       type: item
       page: 2
@@ -379,8 +370,8 @@ brewing:
       item:
         material: WATER_BUCKET
         quantity: 1
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 68
     42:
       type: item
       page: 2
@@ -388,5 +379,5 @@ brewing:
       item:
         material: CAULDRON
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
