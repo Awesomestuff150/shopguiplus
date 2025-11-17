@@ -19,8 +19,8 @@ building_blocks:
       item:
         material: OAK_STAIRS
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ building_blocks:
       item:
         material: STONE_STAIRS
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ building_blocks:
       item:
         material: COBBLESTONE_STAIRS
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ building_blocks:
       item:
         material: BRICK_STAIRS
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ building_blocks:
       item:
         material: STONE_BRICK_STAIRS
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 15
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ building_blocks:
       item:
         material: MOSSY_STONE_BRICK_STAIRS
         quantity: 32
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 17
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ building_blocks:
       item:
         material: ANDESITE_STAIRS
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ building_blocks:
       item:
         material: POLISHED_ANDESITE_STAIRS
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ building_blocks:
       item:
         material: GRANITE_STAIRS
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ building_blocks:
       item:
         material: POLISHED_GRANITE_STAIRS
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ building_blocks:
       item:
         material: DIORITE_STAIRS
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ building_blocks:
       item:
         material: POLISHED_DIORITE_STAIRS
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ building_blocks:
       item:
         material: BLACKSTONE_STAIRS
         quantity: 32
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 17
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ building_blocks:
       item:
         material: POLISHED_BLACKSTONE_STAIRS
         quantity: 32
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ building_blocks:
       item:
         material: POLISHED_BLACKSTONE_BRICK_STAIRS
         quantity: 32
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 19
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ building_blocks:
       item:
         material: DEEPSLATE_BRICK_STAIRS
         quantity: 32
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ building_blocks:
       item:
         material: DEEPSLATE_TILE_STAIRS
         quantity: 32
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 19
     18:
       type: item
       page: 1
@@ -172,8 +172,8 @@ building_blocks:
       item:
         material: MUD_BRICK_STAIRS
         quantity: 32
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 17
     19:
       type: item
       page: 1
@@ -181,8 +181,8 @@ building_blocks:
       item:
         material: NETHER_BRICK_STAIRS
         quantity: 32
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 17
     20:
       type: item
       page: 1
@@ -190,8 +190,8 @@ building_blocks:
       item:
         material: QUARTZ_STAIRS
         quantity: 32
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 22
     21:
       type: item
       page: 1
@@ -199,8 +199,8 @@ building_blocks:
       item:
         material: PRISMARINE_STAIRS
         quantity: 32
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     22:
       type: item
       page: 2
@@ -208,8 +208,8 @@ building_blocks:
       item:
         material: STONE_SLAB
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     23:
       type: item
       page: 2
@@ -217,8 +217,8 @@ building_blocks:
       item:
         material: SMOOTH_STONE_SLAB
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     24:
       type: item
       page: 2
@@ -226,8 +226,8 @@ building_blocks:
       item:
         material: COBBLESTONE_SLAB
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     25:
       type: item
       page: 2
@@ -235,8 +235,8 @@ building_blocks:
       item:
         material: BRICK_SLAB
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     26:
       type: item
       page: 2
@@ -244,8 +244,8 @@ building_blocks:
       item:
         material: STONE_BRICK_SLAB
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     27:
       type: item
       page: 2
@@ -253,8 +253,8 @@ building_blocks:
       item:
         material: BLACKSTONE_SLAB
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 15
     28:
       type: item
       page: 2
@@ -262,8 +262,8 @@ building_blocks:
       item:
         material: POLISHED_BLACKSTONE_BRICK_SLAB
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     29:
       type: item
       page: 2
@@ -271,8 +271,8 @@ building_blocks:
       item:
         material: DEEPSLATE_BRICK_SLAB
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 15
     30:
       type: item
       page: 2
@@ -280,8 +280,8 @@ building_blocks:
       item:
         material: DEEPSLATE_TILE_SLAB
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     31:
       type: item
       page: 2
@@ -289,8 +289,8 @@ building_blocks:
       item:
         material: MUD_BRICK_SLAB
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     32:
       type: item
       page: 2
@@ -298,8 +298,8 @@ building_blocks:
       item:
         material: OAK_SLAB
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     33:
       type: item
       page: 2
@@ -307,8 +307,8 @@ building_blocks:
       item:
         material: SPRUCE_SLAB
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     34:
       type: item
       page: 2
@@ -316,8 +316,8 @@ building_blocks:
       item:
         material: BIRCH_SLAB
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     35:
       type: item
       page: 2
@@ -325,8 +325,8 @@ building_blocks:
       item:
         material: JUNGLE_SLAB
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     36:
       type: item
       page: 2
@@ -334,8 +334,8 @@ building_blocks:
       item:
         material: ACACIA_SLAB
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     37:
       type: item
       page: 2
@@ -343,8 +343,8 @@ building_blocks:
       item:
         material: DARK_OAK_SLAB
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     38:
       type: item
       page: 2
@@ -352,8 +352,8 @@ building_blocks:
       item:
         material: MANGROVE_SLAB
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     39:
       type: item
       page: 2
@@ -361,8 +361,8 @@ building_blocks:
       item:
         material: CHERRY_SLAB
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     40:
       type: item
       page: 2
@@ -370,8 +370,8 @@ building_blocks:
       item:
         material: BAMBOO_SLAB
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     41:
       type: item
       page: 2
@@ -379,8 +379,8 @@ building_blocks:
       item:
         material: CRIMSON_SLAB
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     42:
       type: item
       page: 2
@@ -388,8 +388,8 @@ building_blocks:
       item:
         material: WARPED_SLAB
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     43:
       type: item
       page: 3
@@ -397,8 +397,8 @@ building_blocks:
       item:
         material: COBBLESTONE_WALL
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     44:
       type: item
       page: 3
@@ -406,8 +406,8 @@ building_blocks:
       item:
         material: MOSSY_COBBLESTONE_WALL
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 15
     45:
       type: item
       page: 3
@@ -415,8 +415,8 @@ building_blocks:
       item:
         material: STONE_BRICK_WALL
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     46:
       type: item
       page: 3
@@ -424,8 +424,8 @@ building_blocks:
       item:
         material: BLACKSTONE_WALL
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     47:
       type: item
       page: 3
@@ -433,8 +433,8 @@ building_blocks:
       item:
         material: POLISHED_BLACKSTONE_WALL
         quantity: 32
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 17
     48:
       type: item
       page: 3
@@ -442,8 +442,8 @@ building_blocks:
       item:
         material: DEEPSLATE_BRICK_WALL
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     49:
       type: item
       page: 3
@@ -451,8 +451,8 @@ building_blocks:
       item:
         material: DEEPSLATE_TILE_WALL
         quantity: 32
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 17
     50:
       type: item
       page: 3
@@ -460,8 +460,8 @@ building_blocks:
       item:
         material: MUD_BRICK_WALL
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 15
     51:
       type: item
       page: 3
@@ -469,8 +469,8 @@ building_blocks:
       item:
         material: NETHER_BRICK_FENCE
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 15
     52:
       type: item
       page: 3
@@ -478,8 +478,8 @@ building_blocks:
       item:
         material: OAK_FENCE
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     53:
       type: item
       page: 3
@@ -487,8 +487,8 @@ building_blocks:
       item:
         material: SPRUCE_FENCE
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     54:
       type: item
       page: 3
@@ -496,8 +496,8 @@ building_blocks:
       item:
         material: BIRCH_FENCE
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     55:
       type: item
       page: 3
@@ -505,8 +505,8 @@ building_blocks:
       item:
         material: JUNGLE_FENCE
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     56:
       type: item
       page: 3
@@ -514,8 +514,8 @@ building_blocks:
       item:
         material: ACACIA_FENCE
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     57:
       type: item
       page: 3
@@ -523,8 +523,8 @@ building_blocks:
       item:
         material: DARK_OAK_FENCE
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     58:
       type: item
       page: 3
@@ -532,8 +532,8 @@ building_blocks:
       item:
         material: MANGROVE_FENCE
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     59:
       type: item
       page: 3
@@ -541,8 +541,8 @@ building_blocks:
       item:
         material: CHERRY_FENCE
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     60:
       type: item
       page: 3
@@ -550,8 +550,8 @@ building_blocks:
       item:
         material: BAMBOO_FENCE
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     61:
       type: item
       page: 3
@@ -559,8 +559,8 @@ building_blocks:
       item:
         material: CRIMSON_FENCE
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     62:
       type: item
       page: 3
@@ -568,8 +568,8 @@ building_blocks:
       item:
         material: WARPED_FENCE
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     63:
       type: item
       page: 3
@@ -577,8 +577,8 @@ building_blocks:
       item:
         material: OAK_DOOR
         quantity: 16
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 9
     64:
       type: item
       page: 3
@@ -586,8 +586,8 @@ building_blocks:
       item:
         material: IRON_DOOR
         quantity: 16
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     65:
       type: item
       page: 3
@@ -595,8 +595,8 @@ building_blocks:
       item:
         material: OAK_TRAPDOOR
         quantity: 16
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 8
     66:
       type: item
       page: 3
@@ -604,8 +604,8 @@ building_blocks:
       item:
         material: IRON_TRAPDOOR
         quantity: 16
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     67:
       type: item
       page: 3
@@ -613,8 +613,8 @@ building_blocks:
       item:
         material: GLASS_PANE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     68:
       type: item
       page: 3
@@ -622,8 +622,8 @@ building_blocks:
       item:
         material: CHAIN
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     69:
       type: item
       page: 3
@@ -631,8 +631,8 @@ building_blocks:
       item:
         material: CAMPFIRE
         quantity: 8
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 15
     70:
       type: item
       page: 3
@@ -640,5 +640,5 @@ building_blocks:
       item:
         material: SOUL_CAMPFIRE
         quantity: 8
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 17
