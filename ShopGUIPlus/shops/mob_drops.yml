@@ -255,15 +255,6 @@ mob_drops:
         quantity: 16
       buyPrice: 800
       sellPrice: 40
-    28:
-      type: item
-      page: 2
-      slot: 16
-      item:
-        material: ELYTRA
-        quantity: 1
-      buyPrice: 4000
-      sellPrice: 200
     29:
       type: item
       page: 2
