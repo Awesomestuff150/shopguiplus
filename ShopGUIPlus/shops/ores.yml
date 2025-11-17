@@ -19,8 +19,8 @@ ores:
       item:
         material: COAL_ORE
         quantity: 32
-      buyPrice: 300
-      sellPrice: 60
+      buyPrice: 600
+      sellPrice: 30
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ ores:
       item:
         material: DEEPSLATE_COAL_ORE
         quantity: 32
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 32
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ ores:
       item:
         material: IRON_ORE
         quantity: 32
-      buyPrice: 360
-      sellPrice: 72
+      buyPrice: 720
+      sellPrice: 36
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ ores:
       item:
         material: DEEPSLATE_IRON_ORE
         quantity: 32
-      buyPrice: 380
-      sellPrice: 76
+      buyPrice: 760
+      sellPrice: 38
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ ores:
       item:
         material: COPPER_ORE
         quantity: 32
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 32
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ ores:
       item:
         material: DEEPSLATE_COPPER_ORE
         quantity: 32
-      buyPrice: 340
-      sellPrice: 68
+      buyPrice: 680
+      sellPrice: 34
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ ores:
       item:
         material: GOLD_ORE
         quantity: 32
-      buyPrice: 400
-      sellPrice: 80
+      buyPrice: 800
+      sellPrice: 40
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ ores:
       item:
         material: DEEPSLATE_GOLD_ORE
         quantity: 32
-      buyPrice: 420
-      sellPrice: 84
+      buyPrice: 840
+      sellPrice: 42
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ ores:
       item:
         material: LAPIS_ORE
         quantity: 32
-      buyPrice: 340
-      sellPrice: 68
+      buyPrice: 680
+      sellPrice: 34
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ ores:
       item:
         material: DEEPSLATE_LAPIS_ORE
         quantity: 32
-      buyPrice: 360
-      sellPrice: 72
+      buyPrice: 720
+      sellPrice: 36
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ ores:
       item:
         material: REDSTONE_ORE
         quantity: 32
-      buyPrice: 360
-      sellPrice: 72
+      buyPrice: 720
+      sellPrice: 36
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ ores:
       item:
         material: DEEPSLATE_REDSTONE_ORE
         quantity: 32
-      buyPrice: 380
-      sellPrice: 76
+      buyPrice: 760
+      sellPrice: 38
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ ores:
       item:
         material: DIAMOND_ORE
         quantity: 16
-      buyPrice: 600
-      sellPrice: 120
+      buyPrice: 1200
+      sellPrice: 60
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ ores:
       item:
         material: DEEPSLATE_DIAMOND_ORE
         quantity: 16
-      buyPrice: 640
-      sellPrice: 128
+      buyPrice: 1280
+      sellPrice: 64
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ ores:
       item:
         material: EMERALD_ORE
         quantity: 16
-      buyPrice: 520
-      sellPrice: 104
+      buyPrice: 1040
+      sellPrice: 52
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ ores:
       item:
         material: DEEPSLATE_EMERALD_ORE
         quantity: 16
-      buyPrice: 560
-      sellPrice: 112
+      buyPrice: 1120
+      sellPrice: 56
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ ores:
       item:
         material: NETHER_GOLD_ORE
         quantity: 32
-      buyPrice: 380
-      sellPrice: 76
+      buyPrice: 760
+      sellPrice: 38
     18:
       type: item
       page: 1
@@ -172,17 +172,8 @@ ores:
       item:
         material: NETHER_QUARTZ_ORE
         quantity: 32
-      buyPrice: 360
-      sellPrice: 72
-    19:
-      type: item
-      page: 1
-      slot: 32
-      item:
-        material: ANCIENT_DEBRIS
-        quantity: 8
-      buyPrice: 1200
-      sellPrice: 240
+      buyPrice: 720
+      sellPrice: 36
     20:
       type: item
       page: 1
@@ -190,8 +181,8 @@ ores:
       item:
         material: AMETHYST_BLOCK
         quantity: 16
-      buyPrice: 400
-      sellPrice: 80
+      buyPrice: 800
+      sellPrice: 40
     21:
       type: item
       page: 1
@@ -199,8 +190,8 @@ ores:
       item:
         material: GILDED_BLACKSTONE
         quantity: 16
-      buyPrice: 480
-      sellPrice: 96
+      buyPrice: 960
+      sellPrice: 48
     22:
       type: item
       page: 2
@@ -208,8 +199,8 @@ ores:
       item:
         material: COAL
         quantity: 64
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 24
     23:
       type: item
       page: 2
@@ -217,8 +208,8 @@ ores:
       item:
         material: CHARCOAL
         quantity: 64
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 24
     24:
       type: item
       page: 2
@@ -226,8 +217,8 @@ ores:
       item:
         material: RAW_IRON
         quantity: 64
-      buyPrice: 400
-      sellPrice: 80
+      buyPrice: 800
+      sellPrice: 40
     25:
       type: item
       page: 2
@@ -235,8 +226,8 @@ ores:
       item:
         material: IRON_INGOT
         quantity: 64
-      buyPrice: 520
-      sellPrice: 104
+      buyPrice: 1040
+      sellPrice: 52
     26:
       type: item
       page: 2
@@ -244,8 +235,8 @@ ores:
       item:
         material: RAW_COPPER
         quantity: 64
-      buyPrice: 360
-      sellPrice: 72
+      buyPrice: 720
+      sellPrice: 36
     27:
       type: item
       page: 2
@@ -253,8 +244,8 @@ ores:
       item:
         material: COPPER_INGOT
         quantity: 64
-      buyPrice: 440
-      sellPrice: 88
+      buyPrice: 880
+      sellPrice: 44
     28:
       type: item
       page: 2
@@ -262,8 +253,8 @@ ores:
       item:
         material: RAW_GOLD
         quantity: 64
-      buyPrice: 480
-      sellPrice: 96
+      buyPrice: 960
+      sellPrice: 48
     29:
       type: item
       page: 2
@@ -271,8 +262,8 @@ ores:
       item:
         material: GOLD_INGOT
         quantity: 64
-      buyPrice: 600
-      sellPrice: 120
+      buyPrice: 1200
+      sellPrice: 60
     30:
       type: item
       page: 2
@@ -280,8 +271,8 @@ ores:
       item:
         material: LAPIS_LAZULI
         quantity: 64
-      buyPrice: 300
-      sellPrice: 60
+      buyPrice: 600
+      sellPrice: 30
     31:
       type: item
       page: 2
@@ -289,8 +280,8 @@ ores:
       item:
         material: REDSTONE
         quantity: 64
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 24
     32:
       type: item
       page: 2
@@ -298,8 +289,8 @@ ores:
       item:
         material: DIAMOND
         quantity: 32
-      buyPrice: 800
-      sellPrice: 160
+      buyPrice: 1600
+      sellPrice: 80
     33:
       type: item
       page: 2
@@ -307,8 +298,8 @@ ores:
       item:
         material: EMERALD
         quantity: 32
-      buyPrice: 640
-      sellPrice: 128
+      buyPrice: 1280
+      sellPrice: 64
     34:
       type: item
       page: 2
@@ -316,8 +307,8 @@ ores:
       item:
         material: QUARTZ
         quantity: 64
-      buyPrice: 360
-      sellPrice: 72
+      buyPrice: 720
+      sellPrice: 36
     35:
       type: item
       page: 2
@@ -325,8 +316,8 @@ ores:
       item:
         material: PRISMARINE_CRYSTALS
         quantity: 64
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 32
     36:
       type: item
       page: 2
@@ -334,8 +325,8 @@ ores:
       item:
         material: PRISMARINE_SHARD
         quantity: 64
-      buyPrice: 300
-      sellPrice: 60
+      buyPrice: 600
+      sellPrice: 30
     37:
       type: item
       page: 2
@@ -343,8 +334,8 @@ ores:
       item:
         material: AMETHYST_SHARD
         quantity: 64
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 32
     38:
       type: item
       page: 2
@@ -352,8 +343,8 @@ ores:
       item:
         material: RAW_IRON_BLOCK
         quantity: 16
-      buyPrice: 560
-      sellPrice: 112
+      buyPrice: 1120
+      sellPrice: 56
     39:
       type: item
       page: 2
@@ -361,8 +352,8 @@ ores:
       item:
         material: RAW_GOLD_BLOCK
         quantity: 16
-      buyPrice: 640
-      sellPrice: 128
+      buyPrice: 1280
+      sellPrice: 64
     40:
       type: item
       page: 2
@@ -370,5 +361,5 @@ ores:
       item:
         material: RAW_COPPER_BLOCK
         quantity: 16
-      buyPrice: 440
-      sellPrice: 88
+      buyPrice: 880
+      sellPrice: 44

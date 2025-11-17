@@ -19,8 +19,8 @@ farming:
       item:
         material: WHEAT_SEEDS
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 8
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ farming:
       item:
         material: BEETROOT_SEEDS
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 9
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ farming:
       item:
         material: PUMPKIN_SEEDS
         quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 10
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ farming:
       item:
         material: MELON_SEEDS
         quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 10
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ farming:
       item:
         material: TORCHFLOWER_SEEDS
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ farming:
       item:
         material: PITCHER_POD
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ farming:
       item:
         material: COCOA_BEANS
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ farming:
       item:
         material: CARROT
         quantity: 64
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ farming:
       item:
         material: POTATO
         quantity: 64
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ farming:
       item:
         material: SWEET_BERRIES
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ farming:
       item:
         material: GLOW_BERRIES
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ farming:
       item:
         material: SUGAR_CANE
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 9
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ farming:
       item:
         material: BAMBOO
         quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 10
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ farming:
       item:
         material: CACTUS
         quantity: 64
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 11
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ farming:
       item:
         material: KELP
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 8
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ farming:
       item:
         material: SEA_PICKLE
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ farming:
       item:
         material: GLOW_LICHEN
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     18:
       type: item
       page: 1
@@ -172,8 +172,8 @@ farming:
       item:
         material: VINE
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     19:
       type: item
       page: 1
@@ -181,8 +181,8 @@ farming:
       item:
         material: NETHER_WART
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     20:
       type: item
       page: 1
@@ -190,8 +190,8 @@ farming:
       item:
         material: BONE_MEAL
         quantity: 64
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     21:
       type: item
       page: 1
@@ -199,8 +199,8 @@ farming:
       item:
         material: BONE_BLOCK
         quantity: 32
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 24
     22:
       type: item
       page: 2
@@ -208,8 +208,8 @@ farming:
       item:
         material: OAK_SAPLING
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     23:
       type: item
       page: 2
@@ -217,8 +217,8 @@ farming:
       item:
         material: SPRUCE_SAPLING
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     24:
       type: item
       page: 2
@@ -226,8 +226,8 @@ farming:
       item:
         material: BIRCH_SAPLING
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     25:
       type: item
       page: 2
@@ -235,8 +235,8 @@ farming:
       item:
         material: JUNGLE_SAPLING
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     26:
       type: item
       page: 2
@@ -244,8 +244,8 @@ farming:
       item:
         material: ACACIA_SAPLING
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 13
     27:
       type: item
       page: 2
@@ -253,8 +253,8 @@ farming:
       item:
         material: DARK_OAK_SAPLING
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     28:
       type: item
       page: 2
@@ -262,8 +262,8 @@ farming:
       item:
         material: MANGROVE_PROPAGULE
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 15
     29:
       type: item
       page: 2
@@ -271,8 +271,8 @@ farming:
       item:
         material: CHERRY_SAPLING
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 15
     30:
       type: item
       page: 2
@@ -280,8 +280,8 @@ farming:
       item:
         material: AZALEA
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     31:
       type: item
       page: 2
@@ -289,8 +289,8 @@ farming:
       item:
         material: FLOWERING_AZALEA
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     32:
       type: item
       page: 2
@@ -298,8 +298,8 @@ farming:
       item:
         material: MOSS_BLOCK
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     33:
       type: item
       page: 2
@@ -307,8 +307,8 @@ farming:
       item:
         material: MOSS_CARPET
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     34:
       type: item
       page: 2
@@ -316,8 +316,8 @@ farming:
       item:
         material: LILY_PAD
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     35:
       type: item
       page: 2
@@ -325,8 +325,8 @@ farming:
       item:
         material: BIG_DRIPLEAF
         quantity: 16
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     36:
       type: item
       page: 2
@@ -334,8 +334,8 @@ farming:
       item:
         material: SMALL_DRIPLEAF
         quantity: 16
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     37:
       type: item
       page: 2
@@ -343,8 +343,8 @@ farming:
       item:
         material: MANGROVE_ROOTS
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     38:
       type: item
       page: 2
@@ -352,8 +352,8 @@ farming:
       item:
         material: MUD
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     39:
       type: item
       page: 2
@@ -361,8 +361,8 @@ farming:
       item:
         material: DIRT_PATH
         quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 10
     40:
       type: item
       page: 2
@@ -370,8 +370,8 @@ farming:
       item:
         material: FARMLAND
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     41:
       type: item
       page: 2
@@ -379,8 +379,8 @@ farming:
       item:
         material: COMPOSTER
         quantity: 4
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     42:
       type: item
       page: 2
@@ -388,5 +388,5 @@ farming:
       item:
         material: BEEHIVE
         quantity: 1
-      buyPrice: 520
-      sellPrice: 104
+      buyPrice: 1040
+      sellPrice: 52

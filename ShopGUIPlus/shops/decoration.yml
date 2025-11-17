@@ -19,8 +19,8 @@ decoration:
       item:
         material: DANDELION
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ decoration:
       item:
         material: POPPY
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ decoration:
       item:
         material: BLUE_ORCHID
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ decoration:
       item:
         material: ALLIUM
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ decoration:
       item:
         material: AZURE_BLUET
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ decoration:
       item:
         material: RED_TULIP
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ decoration:
       item:
         material: ORANGE_TULIP
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ decoration:
       item:
         material: WHITE_TULIP
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ decoration:
       item:
         material: PINK_TULIP
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ decoration:
       item:
         material: OXEYE_DAISY
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ decoration:
       item:
         material: CORNFLOWER
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ decoration:
       item:
         material: LILY_OF_THE_VALLEY
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ decoration:
       item:
         material: WITHER_ROSE
         quantity: 16
-      buyPrice: 400
-      sellPrice: 80
+      buyPrice: 800
+      sellPrice: 40
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ decoration:
       item:
         material: SUNFLOWER
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ decoration:
       item:
         material: ROSE_BUSH
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ decoration:
       item:
         material: PEONY
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ decoration:
       item:
         material: LILAC
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     18:
       type: item
       page: 1
@@ -172,8 +172,8 @@ decoration:
       item:
         material: LARGE_FERN
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     19:
       type: item
       page: 1
@@ -181,8 +181,8 @@ decoration:
       item:
         material: TALL_GRASS
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     20:
       type: item
       page: 1
@@ -190,8 +190,8 @@ decoration:
       item:
         material: FERN
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     21:
       type: item
       page: 1
@@ -199,8 +199,8 @@ decoration:
       item:
         material: DEAD_BUSH
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     22:
       type: item
       page: 2
@@ -208,8 +208,8 @@ decoration:
       item:
         material: TORCH
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     23:
       type: item
       page: 2
@@ -217,8 +217,8 @@ decoration:
       item:
         material: SOUL_TORCH
         quantity: 64
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     24:
       type: item
       page: 2
@@ -226,8 +226,8 @@ decoration:
       item:
         material: LANTERN
         quantity: 32
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     25:
       type: item
       page: 2
@@ -235,8 +235,8 @@ decoration:
       item:
         material: SOUL_LANTERN
         quantity: 32
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 22
     26:
       type: item
       page: 2
@@ -244,8 +244,8 @@ decoration:
       item:
         material: CAMPFIRE
         quantity: 16
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 24
     27:
       type: item
       page: 2
@@ -253,8 +253,8 @@ decoration:
       item:
         material: SOUL_CAMPFIRE
         quantity: 16
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 26
     28:
       type: item
       page: 2
@@ -262,8 +262,8 @@ decoration:
       item:
         material: CANDLE
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     29:
       type: item
       page: 2
@@ -271,8 +271,8 @@ decoration:
       item:
         material: END_ROD
         quantity: 32
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 32
     30:
       type: item
       page: 2
@@ -280,8 +280,8 @@ decoration:
       item:
         material: GLOWSTONE
         quantity: 64
-      buyPrice: 280
-      sellPrice: 56
+      buyPrice: 560
+      sellPrice: 28
     31:
       type: item
       page: 2
@@ -289,8 +289,8 @@ decoration:
       item:
         material: SEA_LANTERN
         quantity: 32
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 32
     32:
       type: item
       page: 2
@@ -298,8 +298,8 @@ decoration:
       item:
         material: JACK_O_LANTERN
         quantity: 16
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     33:
       type: item
       page: 2
@@ -307,8 +307,8 @@ decoration:
       item:
         material: FLOWER_POT
         quantity: 16
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     34:
       type: item
       page: 2
@@ -316,8 +316,8 @@ decoration:
       item:
         material: PAINTING
         quantity: 1
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 24
     35:
       type: item
       page: 2
@@ -325,8 +325,8 @@ decoration:
       item:
         material: ITEM_FRAME
         quantity: 4
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     36:
       type: item
       page: 2
@@ -334,8 +334,8 @@ decoration:
       item:
         material: GLOW_ITEM_FRAME
         quantity: 4
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     37:
       type: item
       page: 2
@@ -343,8 +343,8 @@ decoration:
       item:
         material: ARMOR_STAND
         quantity: 4
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 24
     38:
       type: item
       page: 2
@@ -352,8 +352,8 @@ decoration:
       item:
         material: BOOKSHELF
         quantity: 16
-      buyPrice: 280
-      sellPrice: 56
+      buyPrice: 560
+      sellPrice: 28
     39:
       type: item
       page: 2
@@ -361,8 +361,8 @@ decoration:
       item:
         material: LECTERN
         quantity: 4
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 32
     40:
       type: item
       page: 2
@@ -370,8 +370,8 @@ decoration:
       item:
         material: CHAIN
         quantity: 32
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     41:
       type: item
       page: 2
@@ -379,8 +379,8 @@ decoration:
       item:
         material: HANGING_ROOTS
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     42:
       type: item
       page: 2
@@ -388,5 +388,5 @@ decoration:
       item:
         material: BELL
         quantity: 1
-      buyPrice: 600
-      sellPrice: 120
+      buyPrice: 1200
+      sellPrice: 60

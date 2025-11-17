@@ -19,8 +19,8 @@ dyes:
       item:
         material: WHITE_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ dyes:
       item:
         material: LIGHT_GRAY_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ dyes:
       item:
         material: GRAY_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ dyes:
       item:
         material: BLACK_DYE
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ dyes:
       item:
         material: BROWN_DYE
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ dyes:
       item:
         material: RED_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ dyes:
       item:
         material: ORANGE_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ dyes:
       item:
         material: YELLOW_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ dyes:
       item:
         material: LIME_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ dyes:
       item:
         material: GREEN_DYE
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ dyes:
       item:
         material: CYAN_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ dyes:
       item:
         material: LIGHT_BLUE_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ dyes:
       item:
         material: BLUE_DYE
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ dyes:
       item:
         material: PURPLE_DYE
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ dyes:
       item:
         material: MAGENTA_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ dyes:
       item:
         material: PINK_DYE
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ dyes:
       item:
         material: BONE_MEAL
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     18:
       type: item
       page: 1
@@ -172,8 +172,8 @@ dyes:
       item:
         material: INK_SAC
         quantity: 64
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
     19:
       type: item
       page: 1
@@ -181,8 +181,8 @@ dyes:
       item:
         material: GLOW_INK_SAC
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     20:
       type: item
       page: 1
@@ -190,8 +190,8 @@ dyes:
       item:
         material: LAPIS_LAZULI
         quantity: 64
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     21:
       type: item
       page: 1
@@ -199,8 +199,8 @@ dyes:
       item:
         material: COCOA_BEANS
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 12
     22:
       type: item
       page: 2
@@ -208,8 +208,8 @@ dyes:
       item:
         material: WHITE_WOOL
         quantity: 64
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     23:
       type: item
       page: 2
@@ -217,8 +217,8 @@ dyes:
       item:
         material: LIGHT_GRAY_WOOL
         quantity: 64
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     24:
       type: item
       page: 2
@@ -226,8 +226,8 @@ dyes:
       item:
         material: BLACK_WOOL
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     25:
       type: item
       page: 2
@@ -235,8 +235,8 @@ dyes:
       item:
         material: RED_WOOL
         quantity: 64
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 16
     26:
       type: item
       page: 2
@@ -244,8 +244,8 @@ dyes:
       item:
         material: GREEN_WOOL
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     27:
       type: item
       page: 2
@@ -253,8 +253,8 @@ dyes:
       item:
         material: BLUE_WOOL
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     28:
       type: item
       page: 2
@@ -262,8 +262,8 @@ dyes:
       item:
         material: PURPLE_WOOL
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     29:
       type: item
       page: 2
@@ -271,8 +271,8 @@ dyes:
       item:
         material: WHITE_STAINED_GLASS
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     30:
       type: item
       page: 2
@@ -280,8 +280,8 @@ dyes:
       item:
         material: BLACK_STAINED_GLASS
         quantity: 64
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     31:
       type: item
       page: 2
@@ -289,8 +289,8 @@ dyes:
       item:
         material: RED_STAINED_GLASS
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     32:
       type: item
       page: 2
@@ -298,8 +298,8 @@ dyes:
       item:
         material: GREEN_STAINED_GLASS
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     33:
       type: item
       page: 2
@@ -307,8 +307,8 @@ dyes:
       item:
         material: BLUE_STAINED_GLASS
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     34:
       type: item
       page: 2
@@ -316,8 +316,8 @@ dyes:
       item:
         material: PURPLE_STAINED_GLASS
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     35:
       type: item
       page: 2
@@ -325,8 +325,8 @@ dyes:
       item:
         material: PINK_STAINED_GLASS
         quantity: 64
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 18
     36:
       type: item
       page: 2
@@ -334,8 +334,8 @@ dyes:
       item:
         material: WHITE_CONCRETE
         quantity: 64
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     37:
       type: item
       page: 2
@@ -343,8 +343,8 @@ dyes:
       item:
         material: BLACK_CONCRETE
         quantity: 64
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 22
     38:
       type: item
       page: 2
@@ -352,8 +352,8 @@ dyes:
       item:
         material: RED_CONCRETE
         quantity: 64
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     39:
       type: item
       page: 2
@@ -361,8 +361,8 @@ dyes:
       item:
         material: GREEN_CONCRETE
         quantity: 64
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     40:
       type: item
       page: 2
@@ -370,8 +370,8 @@ dyes:
       item:
         material: BLUE_CONCRETE
         quantity: 64
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     41:
       type: item
       page: 2
@@ -379,8 +379,8 @@ dyes:
       item:
         material: PURPLE_CONCRETE
         quantity: 64
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 20
     42:
       type: item
       page: 2
@@ -388,5 +388,5 @@ dyes:
       item:
         material: CANDLE
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 14
