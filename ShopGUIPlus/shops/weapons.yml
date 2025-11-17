@@ -345,15 +345,6 @@ weapons:
         quantity: 1
       buyPrice: 1200
       sellPrice: 60
-    40:
-      type: item
-      page: 2
-      slot: 32
-      item:
-        material: ELYTRA
-        quantity: 1
-      buyPrice: 4000
-      sellPrice: 200
     41:
       type: item
       page: 2

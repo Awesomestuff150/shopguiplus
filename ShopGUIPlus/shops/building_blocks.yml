@@ -642,3 +642,913 @@ building_blocks:
         quantity: 8
       buyPrice: 340
       sellPrice: 17
+
+    71:
+      type: item
+      page: 4
+      slot: 10
+      item:
+        material: STONE
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    72:
+      type: item
+      page: 4
+      slot: 11
+      item:
+        material: SMOOTH_STONE
+        quantity: 64
+      buyPrice: 340
+      sellPrice: 17
+    73:
+      type: item
+      page: 4
+      slot: 12
+      item:
+        material: STONE_BRICKS
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    74:
+      type: item
+      page: 4
+      slot: 13
+      item:
+        material: CHISELED_STONE_BRICKS
+        quantity: 64
+      buyPrice: 380
+      sellPrice: 19
+    75:
+      type: item
+      page: 4
+      slot: 14
+      item:
+        material: CRACKED_STONE_BRICKS
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    76:
+      type: item
+      page: 4
+      slot: 15
+      item:
+        material: POLISHED_ANDESITE
+        quantity: 64
+      buyPrice: 340
+      sellPrice: 17
+    77:
+      type: item
+      page: 4
+      slot: 16
+      item:
+        material: POLISHED_DIORITE
+        quantity: 64
+      buyPrice: 340
+      sellPrice: 17
+    78:
+      type: item
+      page: 4
+      slot: 19
+      item:
+        material: POLISHED_GRANITE
+        quantity: 64
+      buyPrice: 340
+      sellPrice: 17
+    79:
+      type: item
+      page: 4
+      slot: 20
+      item:
+        material: BLACKSTONE
+        quantity: 64
+      buyPrice: 380
+      sellPrice: 19
+    80:
+      type: item
+      page: 4
+      slot: 21
+      item:
+        material: POLISHED_BLACKSTONE
+        quantity: 64
+      buyPrice: 400
+      sellPrice: 20
+    81:
+      type: item
+      page: 4
+      slot: 22
+      item:
+        material: POLISHED_BLACKSTONE_BRICKS
+        quantity: 64
+      buyPrice: 420
+      sellPrice: 21
+    82:
+      type: item
+      page: 4
+      slot: 23
+      item:
+        material: DEEPSLATE_BRICKS
+        quantity: 64
+      buyPrice: 400
+      sellPrice: 20
+    83:
+      type: item
+      page: 4
+      slot: 24
+      item:
+        material: DEEPSLATE_TILES
+        quantity: 64
+      buyPrice: 420
+      sellPrice: 21
+    84:
+      type: item
+      page: 4
+      slot: 25
+      item:
+        material: MUD_BRICKS
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    85:
+      type: item
+      page: 4
+      slot: 28
+      item:
+        material: PRISMARINE_BRICKS
+        quantity: 64
+      buyPrice: 420
+      sellPrice: 21
+    86:
+      type: item
+      page: 4
+      slot: 29
+      item:
+        material: DARK_PRISMARINE
+        quantity: 64
+      buyPrice: 440
+      sellPrice: 22
+    87:
+      type: item
+      page: 5
+      slot: 10
+      item:
+        material: BRICKS
+        quantity: 64
+      buyPrice: 440
+      sellPrice: 22
+    88:
+      type: item
+      page: 5
+      slot: 11
+      item:
+        material: NETHER_BRICKS
+        quantity: 64
+      buyPrice: 380
+      sellPrice: 19
+    89:
+      type: item
+      page: 5
+      slot: 12
+      item:
+        material: RED_NETHER_BRICKS
+        quantity: 64
+      buyPrice: 420
+      sellPrice: 21
+    90:
+      type: item
+      page: 5
+      slot: 13
+      item:
+        material: END_STONE_BRICKS
+        quantity: 64
+      buyPrice: 380
+      sellPrice: 19
+    91:
+      type: item
+      page: 5
+      slot: 14
+      item:
+        material: PURPUR_BLOCK
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    92:
+      type: item
+      page: 5
+      slot: 15
+      item:
+        material: PURPUR_PILLAR
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    93:
+      type: item
+      page: 5
+      slot: 16
+      item:
+        material: QUARTZ_BLOCK
+        quantity: 64
+      buyPrice: 480
+      sellPrice: 24
+    94:
+      type: item
+      page: 5
+      slot: 19
+      item:
+        material: CHISELED_QUARTZ_BLOCK
+        quantity: 64
+      buyPrice: 480
+      sellPrice: 24
+    95:
+      type: item
+      page: 5
+      slot: 20
+      item:
+        material: QUARTZ_PILLAR
+        quantity: 64
+      buyPrice: 480
+      sellPrice: 24
+    96:
+      type: item
+      page: 5
+      slot: 21
+      item:
+        material: SMOOTH_QUARTZ
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 25
+    97:
+      type: item
+      page: 5
+      slot: 22
+      item:
+        material: QUARTZ_BRICKS
+        quantity: 64
+      buyPrice: 500
+      sellPrice: 25
+    98:
+      type: item
+      page: 5
+      slot: 23
+      item:
+        material: CUT_SANDSTONE
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    99:
+      type: item
+      page: 5
+      slot: 24
+      item:
+        material: SMOOTH_SANDSTONE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    100:
+      type: item
+      page: 5
+      slot: 25
+      item:
+        material: CUT_RED_SANDSTONE
+        quantity: 64
+      buyPrice: 340
+      sellPrice: 17
+    101:
+      type: item
+      page: 5
+      slot: 28
+      item:
+        material: SMOOTH_RED_SANDSTONE
+        quantity: 64
+      buyPrice: 380
+      sellPrice: 19
+    102:
+      type: item
+      page: 5
+      slot: 29
+      item:
+        material: POLISHED_BASALT
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    103:
+      type: item
+      page: 5
+      slot: 30
+      item:
+        material: SMOOTH_BASALT
+        quantity: 64
+      buyPrice: 380
+      sellPrice: 19
+    104:
+      type: item
+      page: 5
+      slot: 31
+      item:
+        material: CALCITE
+        quantity: 64
+      buyPrice: 420
+      sellPrice: 21
+    105:
+      type: item
+      page: 5
+      slot: 32
+      item:
+        material: TUFF
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    106:
+      type: item
+      page: 5
+      slot: 33
+      item:
+        material: PACKED_MUD
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    107:
+      type: item
+      page: 6
+      slot: 10
+      item:
+        material: TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    108:
+      type: item
+      page: 6
+      slot: 11
+      item:
+        material: WHITE_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    109:
+      type: item
+      page: 6
+      slot: 12
+      item:
+        material: ORANGE_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    110:
+      type: item
+      page: 6
+      slot: 13
+      item:
+        material: MAGENTA_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    111:
+      type: item
+      page: 6
+      slot: 14
+      item:
+        material: LIGHT_BLUE_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    112:
+      type: item
+      page: 6
+      slot: 15
+      item:
+        material: YELLOW_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    113:
+      type: item
+      page: 6
+      slot: 16
+      item:
+        material: LIME_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    114:
+      type: item
+      page: 6
+      slot: 19
+      item:
+        material: PINK_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    115:
+      type: item
+      page: 6
+      slot: 20
+      item:
+        material: GRAY_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    116:
+      type: item
+      page: 6
+      slot: 21
+      item:
+        material: LIGHT_GRAY_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    117:
+      type: item
+      page: 6
+      slot: 22
+      item:
+        material: CYAN_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    118:
+      type: item
+      page: 6
+      slot: 23
+      item:
+        material: PURPLE_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    119:
+      type: item
+      page: 6
+      slot: 24
+      item:
+        material: BLUE_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    120:
+      type: item
+      page: 6
+      slot: 25
+      item:
+        material: BROWN_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    121:
+      type: item
+      page: 6
+      slot: 28
+      item:
+        material: GREEN_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    122:
+      type: item
+      page: 6
+      slot: 29
+      item:
+        material: RED_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    123:
+      type: item
+      page: 6
+      slot: 30
+      item:
+        material: BLACK_TERRACOTTA
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    124:
+      type: item
+      page: 7
+      slot: 10
+      item:
+        material: WHITE_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    125:
+      type: item
+      page: 7
+      slot: 11
+      item:
+        material: ORANGE_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    126:
+      type: item
+      page: 7
+      slot: 12
+      item:
+        material: MAGENTA_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    127:
+      type: item
+      page: 7
+      slot: 13
+      item:
+        material: LIGHT_BLUE_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    128:
+      type: item
+      page: 7
+      slot: 14
+      item:
+        material: YELLOW_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    129:
+      type: item
+      page: 7
+      slot: 15
+      item:
+        material: LIME_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    130:
+      type: item
+      page: 7
+      slot: 16
+      item:
+        material: PINK_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    131:
+      type: item
+      page: 7
+      slot: 19
+      item:
+        material: GRAY_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    132:
+      type: item
+      page: 7
+      slot: 20
+      item:
+        material: LIGHT_GRAY_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    133:
+      type: item
+      page: 7
+      slot: 21
+      item:
+        material: CYAN_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    134:
+      type: item
+      page: 7
+      slot: 22
+      item:
+        material: PURPLE_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    135:
+      type: item
+      page: 7
+      slot: 23
+      item:
+        material: BLUE_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    136:
+      type: item
+      page: 7
+      slot: 24
+      item:
+        material: BROWN_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    137:
+      type: item
+      page: 7
+      slot: 25
+      item:
+        material: GREEN_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    138:
+      type: item
+      page: 7
+      slot: 28
+      item:
+        material: RED_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    139:
+      type: item
+      page: 7
+      slot: 29
+      item:
+        material: BLACK_CONCRETE
+        quantity: 64
+      buyPrice: 360
+      sellPrice: 18
+    140:
+      type: item
+      page: 8
+      slot: 10
+      item:
+        material: WHITE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    141:
+      type: item
+      page: 8
+      slot: 11
+      item:
+        material: ORANGE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    142:
+      type: item
+      page: 8
+      slot: 12
+      item:
+        material: MAGENTA_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    143:
+      type: item
+      page: 8
+      slot: 13
+      item:
+        material: LIGHT_BLUE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    144:
+      type: item
+      page: 8
+      slot: 14
+      item:
+        material: YELLOW_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    145:
+      type: item
+      page: 8
+      slot: 15
+      item:
+        material: LIME_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    146:
+      type: item
+      page: 8
+      slot: 16
+      item:
+        material: PINK_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    147:
+      type: item
+      page: 8
+      slot: 19
+      item:
+        material: GRAY_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    148:
+      type: item
+      page: 8
+      slot: 20
+      item:
+        material: LIGHT_GRAY_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    149:
+      type: item
+      page: 8
+      slot: 21
+      item:
+        material: CYAN_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    150:
+      type: item
+      page: 8
+      slot: 22
+      item:
+        material: PURPLE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    151:
+      type: item
+      page: 8
+      slot: 23
+      item:
+        material: BLUE_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    152:
+      type: item
+      page: 8
+      slot: 24
+      item:
+        material: BROWN_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    153:
+      type: item
+      page: 8
+      slot: 25
+      item:
+        material: GREEN_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    154:
+      type: item
+      page: 8
+      slot: 28
+      item:
+        material: RED_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    155:
+      type: item
+      page: 8
+      slot: 29
+      item:
+        material: BLACK_CONCRETE_POWDER
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    156:
+      type: item
+      page: 9
+      slot: 10
+      item:
+        material: WHITE_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    157:
+      type: item
+      page: 9
+      slot: 11
+      item:
+        material: ORANGE_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    158:
+      type: item
+      page: 9
+      slot: 12
+      item:
+        material: MAGENTA_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    159:
+      type: item
+      page: 9
+      slot: 13
+      item:
+        material: LIGHT_BLUE_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    160:
+      type: item
+      page: 9
+      slot: 14
+      item:
+        material: YELLOW_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    161:
+      type: item
+      page: 9
+      slot: 15
+      item:
+        material: LIME_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    162:
+      type: item
+      page: 9
+      slot: 16
+      item:
+        material: PINK_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    163:
+      type: item
+      page: 9
+      slot: 19
+      item:
+        material: GRAY_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    164:
+      type: item
+      page: 9
+      slot: 20
+      item:
+        material: LIGHT_GRAY_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    165:
+      type: item
+      page: 9
+      slot: 21
+      item:
+        material: CYAN_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    166:
+      type: item
+      page: 9
+      slot: 22
+      item:
+        material: PURPLE_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    167:
+      type: item
+      page: 9
+      slot: 23
+      item:
+        material: BLUE_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    168:
+      type: item
+      page: 9
+      slot: 24
+      item:
+        material: BROWN_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    169:
+      type: item
+      page: 9
+      slot: 25
+      item:
+        material: GREEN_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    170:
+      type: item
+      page: 9
+      slot: 28
+      item:
+        material: RED_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    171:
+      type: item
+      page: 9
+      slot: 29
+      item:
+        material: BLACK_WOOL
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13

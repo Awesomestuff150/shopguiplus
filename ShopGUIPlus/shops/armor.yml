@@ -282,15 +282,6 @@ armor:
         quantity: 1
       buyPrice: 1120
       sellPrice: 56
-    36:
-      type: item
-      page: 2
-      slot: 28
-      item:
-        material: ELYTRA
-        quantity: 1
-      buyPrice: 4000
-      sellPrice: 200
     37:
       type: item
       page: 2

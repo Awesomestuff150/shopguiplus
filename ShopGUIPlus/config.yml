@@ -633,12 +633,6 @@ shopMenuItems:
       quantity: 1
     shop: "armor"
     slot: 15
-  7:
-    item:
-      material: POTION
-      quantity: 1
-    shop: "potions"
-    slot: 16
   8:
     item:
       material: WHEAT

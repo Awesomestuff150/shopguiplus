@@ -597,3 +597,949 @@ natural_blocks:
         quantity: 64
       buyPrice: 300
       sellPrice: 15
+
+    66:
+      type: item
+      page: 4
+      slot: 10
+      item:
+        material: STRIPPED_OAK_LOG
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
+    67:
+      type: item
+      page: 4
+      slot: 11
+      item:
+        material: STRIPPED_SPRUCE_LOG
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
+    68:
+      type: item
+      page: 4
+      slot: 12
+      item:
+        material: STRIPPED_BIRCH_LOG
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
+    69:
+      type: item
+      page: 4
+      slot: 13
+      item:
+        material: STRIPPED_JUNGLE_LOG
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
+    70:
+      type: item
+      page: 4
+      slot: 14
+      item:
+        material: STRIPPED_ACACIA_LOG
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
+    71:
+      type: item
+      page: 4
+      slot: 15
+      item:
+        material: STRIPPED_DARK_OAK_LOG
+        quantity: 64
+      buyPrice: 300
+      sellPrice: 15
+    72:
+      type: item
+      page: 4
+      slot: 16
+      item:
+        material: STRIPPED_MANGROVE_LOG
+        quantity: 64
+      buyPrice: 300
+      sellPrice: 15
+    73:
+      type: item
+      page: 4
+      slot: 19
+      item:
+        material: STRIPPED_CHERRY_LOG
+        quantity: 64
+      buyPrice: 300
+      sellPrice: 15
+    74:
+      type: item
+      page: 4
+      slot: 20
+      item:
+        material: STRIPPED_BAMBOO_BLOCK
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    75:
+      type: item
+      page: 4
+      slot: 21
+      item:
+        material: STRIPPED_CRIMSON_STEM
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    76:
+      type: item
+      page: 4
+      slot: 22
+      item:
+        material: STRIPPED_WARPED_STEM
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    77:
+      type: item
+      page: 5
+      slot: 10
+      item:
+        material: OAK_LEAVES
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    78:
+      type: item
+      page: 5
+      slot: 11
+      item:
+        material: SPRUCE_LEAVES
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    79:
+      type: item
+      page: 5
+      slot: 12
+      item:
+        material: BIRCH_LEAVES
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    80:
+      type: item
+      page: 5
+      slot: 13
+      item:
+        material: JUNGLE_LEAVES
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    81:
+      type: item
+      page: 5
+      slot: 14
+      item:
+        material: ACACIA_LEAVES
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    82:
+      type: item
+      page: 5
+      slot: 15
+      item:
+        material: DARK_OAK_LEAVES
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    83:
+      type: item
+      page: 5
+      slot: 16
+      item:
+        material: MANGROVE_LEAVES
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    84:
+      type: item
+      page: 5
+      slot: 19
+      item:
+        material: CHERRY_LEAVES
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    85:
+      type: item
+      page: 5
+      slot: 20
+      item:
+        material: AZALEA_LEAVES
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    86:
+      type: item
+      page: 5
+      slot: 21
+      item:
+        material: FLOWERING_AZALEA_LEAVES
+        quantity: 64
+      buyPrice: 240
+      sellPrice: 12
+    87:
+      type: item
+      page: 6
+      slot: 10
+      item:
+        material: OAK_SAPLING
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 6
+    88:
+      type: item
+      page: 6
+      slot: 11
+      item:
+        material: SPRUCE_SAPLING
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 6
+    89:
+      type: item
+      page: 6
+      slot: 12
+      item:
+        material: BIRCH_SAPLING
+        quantity: 32
+      buyPrice: 120
+      sellPrice: 6
+    90:
+      type: item
+      page: 6
+      slot: 13
+      item:
+        material: JUNGLE_SAPLING
+        quantity: 32
+      buyPrice: 140
+      sellPrice: 7
+    91:
+      type: item
+      page: 6
+      slot: 14
+      item:
+        material: ACACIA_SAPLING
+        quantity: 32
+      buyPrice: 140
+      sellPrice: 7
+    92:
+      type: item
+      page: 6
+      slot: 15
+      item:
+        material: DARK_OAK_SAPLING
+        quantity: 32
+      buyPrice: 140
+      sellPrice: 7
+    93:
+      type: item
+      page: 6
+      slot: 16
+      item:
+        material: MANGROVE_PROPAGULE
+        quantity: 32
+      buyPrice: 160
+      sellPrice: 8
+    94:
+      type: item
+      page: 6
+      slot: 19
+      item:
+        material: CHERRY_SAPLING
+        quantity: 32
+      buyPrice: 160
+      sellPrice: 8
+    95:
+      type: item
+      page: 6
+      slot: 20
+      item:
+        material: BAMBOO
+        quantity: 64
+      buyPrice: 160
+      sellPrice: 8
+    96:
+      type: item
+      page: 6
+      slot: 21
+      item:
+        material: CRIMSON_FUNGUS
+        quantity: 32
+      buyPrice: 160
+      sellPrice: 8
+    97:
+      type: item
+      page: 6
+      slot: 22
+      item:
+        material: WARPED_FUNGUS
+        quantity: 32
+      buyPrice: 160
+      sellPrice: 8
+    98:
+      type: item
+      page: 7
+      slot: 10
+      item:
+        material: SHORT_GRASS
+        quantity: 64
+      buyPrice: 120
+      sellPrice: 6
+    99:
+      type: item
+      page: 7
+      slot: 11
+      item:
+        material: FERN
+        quantity: 64
+      buyPrice: 120
+      sellPrice: 6
+    100:
+      type: item
+      page: 7
+      slot: 12
+      item:
+        material: LARGE_FERN
+        quantity: 32
+      buyPrice: 140
+      sellPrice: 7
+    101:
+      type: item
+      page: 7
+      slot: 13
+      item:
+        material: AZALEA
+        quantity: 32
+      buyPrice: 160
+      sellPrice: 8
+    102:
+      type: item
+      page: 7
+      slot: 14
+      item:
+        material: FLOWERING_AZALEA
+        quantity: 32
+      buyPrice: 180
+      sellPrice: 9
+    103:
+      type: item
+      page: 7
+      slot: 15
+      item:
+        material: MOSS_BLOCK
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    104:
+      type: item
+      page: 7
+      slot: 16
+      item:
+        material: MOSS_CARPET
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    105:
+      type: item
+      page: 7
+      slot: 19
+      item:
+        material: VINE
+        quantity: 64
+      buyPrice: 180
+      sellPrice: 9
+    106:
+      type: item
+      page: 7
+      slot: 20
+      item:
+        material: GLOW_LICHEN
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    107:
+      type: item
+      page: 7
+      slot: 21
+      item:
+        material: HANGING_ROOTS
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    108:
+      type: item
+      page: 7
+      slot: 22
+      item:
+        material: ROOTED_DIRT
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    109:
+      type: item
+      page: 7
+      slot: 23
+      item:
+        material: MUD
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    110:
+      type: item
+      page: 7
+      slot: 24
+      item:
+        material: MUDDY_MANGROVE_ROOTS
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    111:
+      type: item
+      page: 7
+      slot: 25
+      item:
+        material: MANGROVE_ROOTS
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    112:
+      type: item
+      page: 7
+      slot: 28
+      item:
+        material: SCULK
+        quantity: 64
+      buyPrice: 300
+      sellPrice: 15
+    113:
+      type: item
+      page: 7
+      slot: 29
+      item:
+        material: SCULK_VEIN
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
+    114:
+      type: item
+      page: 7
+      slot: 30
+      item:
+        material: SCULK_SENSOR
+        quantity: 16
+      buyPrice: 360
+      sellPrice: 18
+    115:
+      type: item
+      page: 7
+      slot: 31
+      item:
+        material: SCULK_CATALYST
+        quantity: 16
+      buyPrice: 400
+      sellPrice: 20
+    116:
+      type: item
+      page: 7
+      slot: 32
+      item:
+        material: DRIPSTONE_BLOCK
+        quantity: 64
+      buyPrice: 240
+      sellPrice: 12
+    117:
+      type: item
+      page: 7
+      slot: 33
+      item:
+        material: POINTED_DRIPSTONE
+        quantity: 32
+      buyPrice: 240
+      sellPrice: 12
+    118:
+      type: item
+      page: 7
+      slot: 34
+      item:
+        material: CALCITE
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    119:
+      type: item
+      page: 7
+      slot: 37
+      item:
+        material: TUFF
+        quantity: 64
+      buyPrice: 300
+      sellPrice: 15
+    120:
+      type: item
+      page: 7
+      slot: 38
+      item:
+        material: AMETHYST_BLOCK
+        quantity: 32
+      buyPrice: 320
+      sellPrice: 16
+    121:
+      type: item
+      page: 7
+      slot: 39
+      item:
+        material: SCULK_SHRIEKER
+        quantity: 16
+      buyPrice: 380
+      sellPrice: 19
+    122:
+      type: item
+      page: 8
+      slot: 10
+      item:
+        material: LILY_PAD
+        quantity: 32
+      buyPrice: 200
+      sellPrice: 10
+    123:
+      type: item
+      page: 8
+      slot: 11
+      item:
+        material: SEA_PICKLE
+        quantity: 32
+      buyPrice: 200
+      sellPrice: 10
+    124:
+      type: item
+      page: 8
+      slot: 12
+      item:
+        material: SEAGRASS
+        quantity: 64
+      buyPrice: 180
+      sellPrice: 9
+    125:
+      type: item
+      page: 8
+      slot: 13
+      item:
+        material: KELP
+        quantity: 64
+      buyPrice: 180
+      sellPrice: 9
+    126:
+      type: item
+      page: 8
+      slot: 14
+      item:
+        material: TUBE_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    127:
+      type: item
+      page: 8
+      slot: 15
+      item:
+        material: BRAIN_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    128:
+      type: item
+      page: 8
+      slot: 16
+      item:
+        material: BUBBLE_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    129:
+      type: item
+      page: 8
+      slot: 19
+      item:
+        material: FIRE_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    130:
+      type: item
+      page: 8
+      slot: 20
+      item:
+        material: HORN_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    131:
+      type: item
+      page: 8
+      slot: 21
+      item:
+        material: DEAD_TUBE_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    132:
+      type: item
+      page: 8
+      slot: 22
+      item:
+        material: DEAD_BRAIN_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    133:
+      type: item
+      page: 8
+      slot: 23
+      item:
+        material: DEAD_BUBBLE_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    134:
+      type: item
+      page: 8
+      slot: 24
+      item:
+        material: DEAD_FIRE_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    135:
+      type: item
+      page: 8
+      slot: 25
+      item:
+        material: DEAD_HORN_CORAL_BLOCK
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    136:
+      type: item
+      page: 8
+      slot: 28
+      item:
+        material: SPONGE
+        quantity: 16
+      buyPrice: 360
+      sellPrice: 18
+    137:
+      type: item
+      page: 8
+      slot: 29
+      item:
+        material: WET_SPONGE
+        quantity: 16
+      buyPrice: 360
+      sellPrice: 18
+    138:
+      type: item
+      page: 8
+      slot: 30
+      item:
+        material: PRISMARINE
+        quantity: 64
+      buyPrice: 320
+      sellPrice: 16
+    139:
+      type: item
+      page: 8
+      slot: 31
+      item:
+        material: SEA_LANTERN
+        quantity: 32
+      buyPrice: 320
+      sellPrice: 16
+    140:
+      type: item
+      page: 9
+      slot: 10
+      item:
+        material: CACTUS
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    141:
+      type: item
+      page: 9
+      slot: 11
+      item:
+        material: SUGAR_CANE
+        quantity: 64
+      buyPrice: 160
+      sellPrice: 8
+    142:
+      type: item
+      page: 9
+      slot: 12
+      item:
+        material: PUMPKIN
+        quantity: 64
+      buyPrice: 200
+      sellPrice: 10
+    143:
+      type: item
+      page: 9
+      slot: 13
+      item:
+        material: CARVED_PUMPKIN
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    144:
+      type: item
+      page: 9
+      slot: 14
+      item:
+        material: JACK_O_LANTERN
+        quantity: 64
+      buyPrice: 240
+      sellPrice: 12
+    145:
+      type: item
+      page: 9
+      slot: 15
+      item:
+        material: MELON
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    146:
+      type: item
+      page: 9
+      slot: 16
+      item:
+        material: HAY_BLOCK
+        quantity: 64
+      buyPrice: 240
+      sellPrice: 12
+    147:
+      type: item
+      page: 9
+      slot: 19
+      item:
+        material: DRIED_KELP_BLOCK
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    148:
+      type: item
+      page: 9
+      slot: 20
+      item:
+        material: BROWN_MUSHROOM_BLOCK
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    149:
+      type: item
+      page: 9
+      slot: 21
+      item:
+        material: RED_MUSHROOM_BLOCK
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    150:
+      type: item
+      page: 9
+      slot: 22
+      item:
+        material: MUSHROOM_STEM
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    151:
+      type: item
+      page: 9
+      slot: 23
+      item:
+        material: NETHER_WART_BLOCK
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
+    152:
+      type: item
+      page: 9
+      slot: 24
+      item:
+        material: WARPED_WART_BLOCK
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
+    153:
+      type: item
+      page: 9
+      slot: 25
+      item:
+        material: SHROOMLIGHT
+        quantity: 32
+      buyPrice: 320
+      sellPrice: 16
+    154:
+      type: item
+      page: 9
+      slot: 28
+      item:
+        material: GLOWSTONE
+        quantity: 32
+      buyPrice: 320
+      sellPrice: 16
+    155:
+      type: item
+      page: 10
+      slot: 10
+      item:
+        material: NETHERRACK
+        quantity: 64
+      buyPrice: 160
+      sellPrice: 8
+    156:
+      type: item
+      page: 10
+      slot: 11
+      item:
+        material: CRIMSON_NYLIUM
+        quantity: 64
+      buyPrice: 240
+      sellPrice: 12
+    157:
+      type: item
+      page: 10
+      slot: 12
+      item:
+        material: WARPED_NYLIUM
+        quantity: 64
+      buyPrice: 240
+      sellPrice: 12
+    158:
+      type: item
+      page: 10
+      slot: 13
+      item:
+        material: SOUL_SAND
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    159:
+      type: item
+      page: 10
+      slot: 14
+      item:
+        material: SOUL_SOIL
+        quantity: 64
+      buyPrice: 220
+      sellPrice: 11
+    160:
+      type: item
+      page: 10
+      slot: 15
+      item:
+        material: BASALT
+        quantity: 64
+      buyPrice: 240
+      sellPrice: 12
+    161:
+      type: item
+      page: 10
+      slot: 16
+      item:
+        material: POLISHED_BASALT
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    162:
+      type: item
+      page: 10
+      slot: 19
+      item:
+        material: SMOOTH_BASALT
+        quantity: 64
+      buyPrice: 260
+      sellPrice: 13
+    163:
+      type: item
+      page: 10
+      slot: 20
+      item:
+        material: GILDED_BLACKSTONE
+        quantity: 32
+      buyPrice: 360
+      sellPrice: 18
+    164:
+      type: item
+      page: 10
+      slot: 21
+      item:
+        material: OBSIDIAN
+        quantity: 32
+      buyPrice: 400
+      sellPrice: 20
+    165:
+      type: item
+      page: 10
+      slot: 22
+      item:
+        material: CRYING_OBSIDIAN
+        quantity: 32
+      buyPrice: 420
+      sellPrice: 21
+    166:
+      type: item
+      page: 10
+      slot: 23
+      item:
+        material: END_STONE
+        quantity: 64
+      buyPrice: 240
+      sellPrice: 12
+    167:
+      type: item
+      page: 10
+      slot: 24
+      item:
+        material: CHORUS_PLANT
+        quantity: 32
+      buyPrice: 260
+      sellPrice: 13
+    168:
+      type: item
+      page: 10
+      slot: 25
+      item:
+        material: CHORUS_FLOWER
+        quantity: 32
+      buyPrice: 260
+      sellPrice: 13
+    169:
+      type: item
+      page: 10
+      slot: 28
+      item:
+        material: WARPED_HYPHAE
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
+    170:
+      type: item
+      page: 10
+      slot: 29
+      item:
+        material: CRIMSON_HYPHAE
+        quantity: 64
+      buyPrice: 280
+      sellPrice: 14
