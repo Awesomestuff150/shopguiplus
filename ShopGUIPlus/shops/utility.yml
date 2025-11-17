@@ -19,8 +19,8 @@ utility:
       item:
         material: CHEST
         quantity: 4
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ utility:
       item:
         material: TRAPPED_CHEST
         quantity: 4
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ utility:
       item:
         material: BARREL
         quantity: 4
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ utility:
       item:
         material: SHULKER_BOX
         quantity: 1
-      buyPrice: 500
-      sellPrice: 100
+      buyPrice: 1000
+      sellPrice: 200
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ utility:
       item:
         material: ENDER_CHEST
         quantity: 1
-      buyPrice: 450
-      sellPrice: 90
+      buyPrice: 900
+      sellPrice: 180
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ utility:
       item:
         material: HOPPER
         quantity: 4
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ utility:
       item:
         material: DROPPER
         quantity: 4
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ utility:
       item:
         material: DISPENSER
         quantity: 4
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 44
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ utility:
       item:
         material: OBSERVER
         quantity: 4
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ utility:
       item:
         material: PISTON
         quantity: 4
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ utility:
       item:
         material: STICKY_PISTON
         quantity: 4
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 68
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ utility:
       item:
         material: NOTE_BLOCK
         quantity: 4
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ utility:
       item:
         material: JUKEBOX
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ utility:
       item:
         material: LODESTONE
         quantity: 1
-      buyPrice: 400
-      sellPrice: 80
+      buyPrice: 800
+      sellPrice: 160
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ utility:
       item:
         material: RAIL
         quantity: 64
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ utility:
       item:
         material: POWERED_RAIL
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ utility:
       item:
         material: DETECTOR_RAIL
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     18:
       type: item
       page: 1
@@ -172,8 +172,8 @@ utility:
       item:
         material: ACTIVATOR_RAIL
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     19:
       type: item
       page: 1
@@ -181,8 +181,8 @@ utility:
       item:
         material: MINECART
         quantity: 4
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     20:
       type: item
       page: 1
@@ -190,8 +190,8 @@ utility:
       item:
         material: CHEST_MINECART
         quantity: 4
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     21:
       type: item
       page: 1
@@ -199,8 +199,8 @@ utility:
       item:
         material: HOPPER_MINECART
         quantity: 4
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     22:
       type: item
       page: 2
@@ -208,8 +208,8 @@ utility:
       item:
         material: TNT_MINECART
         quantity: 2
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     23:
       type: item
       page: 2
@@ -217,8 +217,8 @@ utility:
       item:
         material: FURNACE_MINECART
         quantity: 2
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     24:
       type: item
       page: 2
@@ -226,8 +226,8 @@ utility:
       item:
         material: OAK_BOAT
         quantity: 2
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     25:
       type: item
       page: 2
@@ -235,8 +235,8 @@ utility:
       item:
         material: SPRUCE_BOAT
         quantity: 2
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     26:
       type: item
       page: 2
@@ -244,8 +244,8 @@ utility:
       item:
         material: BIRCH_BOAT
         quantity: 2
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     27:
       type: item
       page: 2
@@ -253,8 +253,8 @@ utility:
       item:
         material: JUNGLE_BOAT
         quantity: 2
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     28:
       type: item
       page: 2
@@ -262,8 +262,8 @@ utility:
       item:
         material: ACACIA_BOAT
         quantity: 2
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     29:
       type: item
       page: 2
@@ -271,8 +271,8 @@ utility:
       item:
         material: DARK_OAK_BOAT
         quantity: 2
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     30:
       type: item
       page: 2
@@ -280,8 +280,8 @@ utility:
       item:
         material: MANGROVE_BOAT
         quantity: 2
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     31:
       type: item
       page: 2
@@ -289,8 +289,8 @@ utility:
       item:
         material: CHERRY_BOAT
         quantity: 2
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     32:
       type: item
       page: 2
@@ -298,8 +298,8 @@ utility:
       item:
         material: BAMBOO_RAFT
         quantity: 2
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     33:
       type: item
       page: 2
@@ -307,8 +307,8 @@ utility:
       item:
         material: BAMBOO_RAFT_WITH_CHEST
         quantity: 2
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     34:
       type: item
       page: 2
@@ -316,8 +316,8 @@ utility:
       item:
         material: OAK_CHEST_BOAT
         quantity: 2
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 44
     35:
       type: item
       page: 2
@@ -325,8 +325,8 @@ utility:
       item:
         material: COMPASS
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     36:
       type: item
       page: 2
@@ -334,8 +334,8 @@ utility:
       item:
         material: CLOCK
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     37:
       type: item
       page: 2
@@ -343,8 +343,8 @@ utility:
       item:
         material: SPYGLASS
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     38:
       type: item
       page: 2
@@ -352,8 +352,8 @@ utility:
       item:
         material: MAP
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     39:
       type: item
       page: 2
@@ -361,8 +361,8 @@ utility:
       item:
         material: LEAD
         quantity: 4
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     40:
       type: item
       page: 2
@@ -370,8 +370,8 @@ utility:
       item:
         material: NAME_TAG
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     41:
       type: item
       page: 2
@@ -379,8 +379,8 @@ utility:
       item:
         material: SHEARS
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     42:
       type: item
       page: 2
@@ -388,5 +388,5 @@ utility:
       item:
         material: BUCKET
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60

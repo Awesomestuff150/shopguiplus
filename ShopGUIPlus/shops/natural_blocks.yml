@@ -19,8 +19,8 @@ natural_blocks:
       item:
         material: STONE
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ natural_blocks:
       item:
         material: COBBLESTONE
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ natural_blocks:
       item:
         material: MOSSY_COBBLESTONE
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ natural_blocks:
       item:
         material: SMOOTH_STONE
         quantity: 64
-      buyPrice: 85
-      sellPrice: 17
+      buyPrice: 170
+      sellPrice: 34
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ natural_blocks:
       item:
         material: STONE_BRICKS
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ natural_blocks:
       item:
         material: MOSSY_STONE_BRICKS
         quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ natural_blocks:
       item:
         material: CRACKED_STONE_BRICKS
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ natural_blocks:
       item:
         material: CHISELED_STONE_BRICKS
         quantity: 64
-      buyPrice: 95
-      sellPrice: 19
+      buyPrice: 190
+      sellPrice: 38
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ natural_blocks:
       item:
         material: ANDESITE
         quantity: 64
-      buyPrice: 75
-      sellPrice: 15
+      buyPrice: 150
+      sellPrice: 30
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ natural_blocks:
       item:
         material: POLISHED_ANDESITE
         quantity: 64
-      buyPrice: 85
-      sellPrice: 17
+      buyPrice: 170
+      sellPrice: 34
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ natural_blocks:
       item:
         material: DIORITE
         quantity: 64
-      buyPrice: 75
-      sellPrice: 15
+      buyPrice: 150
+      sellPrice: 30
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ natural_blocks:
       item:
         material: POLISHED_DIORITE
         quantity: 64
-      buyPrice: 85
-      sellPrice: 17
+      buyPrice: 170
+      sellPrice: 34
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ natural_blocks:
       item:
         material: GRANITE
         quantity: 64
-      buyPrice: 75
-      sellPrice: 15
+      buyPrice: 150
+      sellPrice: 30
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ natural_blocks:
       item:
         material: POLISHED_GRANITE
         quantity: 64
-      buyPrice: 85
-      sellPrice: 17
+      buyPrice: 170
+      sellPrice: 34
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ natural_blocks:
       item:
         material: DEEPSLATE
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ natural_blocks:
       item:
         material: COBBLED_DEEPSLATE
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ natural_blocks:
       item:
         material: POLISHED_DEEPSLATE
         quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     18:
       type: item
       page: 1
@@ -172,8 +172,8 @@ natural_blocks:
       item:
         material: BLACKSTONE
         quantity: 64
-      buyPrice: 95
-      sellPrice: 19
+      buyPrice: 190
+      sellPrice: 38
     19:
       type: item
       page: 1
@@ -181,8 +181,8 @@ natural_blocks:
       item:
         material: POLISHED_BLACKSTONE
         quantity: 64
-      buyPrice: 105
-      sellPrice: 21
+      buyPrice: 210
+      sellPrice: 42
     20:
       type: item
       page: 1
@@ -190,8 +190,8 @@ natural_blocks:
       item:
         material: BASALT
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     21:
       type: item
       page: 1
@@ -199,8 +199,8 @@ natural_blocks:
       item:
         material: BRICKS
         quantity: 64
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 44
     22:
       type: item
       page: 2
@@ -208,8 +208,8 @@ natural_blocks:
       item:
         material: DIRT
         quantity: 64
-      buyPrice: 40
-      sellPrice: 8
+      buyPrice: 80
+      sellPrice: 16
     23:
       type: item
       page: 2
@@ -217,8 +217,8 @@ natural_blocks:
       item:
         material: COARSE_DIRT
         quantity: 64
-      buyPrice: 45
-      sellPrice: 9
+      buyPrice: 90
+      sellPrice: 18
     24:
       type: item
       page: 2
@@ -226,8 +226,8 @@ natural_blocks:
       item:
         material: PODZOL
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     25:
       type: item
       page: 2
@@ -235,8 +235,8 @@ natural_blocks:
       item:
         material: MYCELIUM
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     26:
       type: item
       page: 2
@@ -244,8 +244,8 @@ natural_blocks:
       item:
         material: GRASS_BLOCK
         quantity: 64
-      buyPrice: 50
-      sellPrice: 10
+      buyPrice: 100
+      sellPrice: 20
     27:
       type: item
       page: 2
@@ -253,8 +253,8 @@ natural_blocks:
       item:
         material: SAND
         quantity: 64
-      buyPrice: 45
-      sellPrice: 9
+      buyPrice: 90
+      sellPrice: 18
     28:
       type: item
       page: 2
@@ -262,8 +262,8 @@ natural_blocks:
       item:
         material: RED_SAND
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     29:
       type: item
       page: 2
@@ -271,8 +271,8 @@ natural_blocks:
       item:
         material: GRAVEL
         quantity: 64
-      buyPrice: 45
-      sellPrice: 9
+      buyPrice: 90
+      sellPrice: 18
     30:
       type: item
       page: 2
@@ -280,8 +280,8 @@ natural_blocks:
       item:
         material: CLAY
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     31:
       type: item
       page: 2
@@ -289,8 +289,8 @@ natural_blocks:
       item:
         material: SNOW_BLOCK
         quantity: 64
-      buyPrice: 45
-      sellPrice: 9
+      buyPrice: 90
+      sellPrice: 18
     32:
       type: item
       page: 2
@@ -298,8 +298,8 @@ natural_blocks:
       item:
         material: ICE
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     33:
       type: item
       page: 2
@@ -307,8 +307,8 @@ natural_blocks:
       item:
         material: PACKED_ICE
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     34:
       type: item
       page: 2
@@ -316,8 +316,8 @@ natural_blocks:
       item:
         material: BLUE_ICE
         quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     35:
       type: item
       page: 2
@@ -325,8 +325,8 @@ natural_blocks:
       item:
         material: OBSIDIAN
         quantity: 64
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     36:
       type: item
       page: 2
@@ -334,8 +334,8 @@ natural_blocks:
       item:
         material: NETHERRACK
         quantity: 64
-      buyPrice: 40
-      sellPrice: 8
+      buyPrice: 80
+      sellPrice: 16
     37:
       type: item
       page: 2
@@ -343,8 +343,8 @@ natural_blocks:
       item:
         material: END_STONE
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     38:
       type: item
       page: 2
@@ -352,8 +352,8 @@ natural_blocks:
       item:
         material: SOUL_SOIL
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     39:
       type: item
       page: 2
@@ -361,8 +361,8 @@ natural_blocks:
       item:
         material: SOUL_SAND
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     40:
       type: item
       page: 2
@@ -370,8 +370,8 @@ natural_blocks:
       item:
         material: OAK_LOG
         quantity: 64
-      buyPrice: 65
-      sellPrice: 13
+      buyPrice: 130
+      sellPrice: 26
     41:
       type: item
       page: 2
@@ -379,8 +379,8 @@ natural_blocks:
       item:
         material: SPRUCE_LOG
         quantity: 64
-      buyPrice: 65
-      sellPrice: 13
+      buyPrice: 130
+      sellPrice: 26
     42:
       type: item
       page: 2
@@ -388,8 +388,8 @@ natural_blocks:
       item:
         material: BIRCH_LOG
         quantity: 64
-      buyPrice: 65
-      sellPrice: 13
+      buyPrice: 130
+      sellPrice: 26
     43:
       type: item
       page: 3
@@ -397,8 +397,8 @@ natural_blocks:
       item:
         material: JUNGLE_LOG
         quantity: 64
-      buyPrice: 65
-      sellPrice: 13
+      buyPrice: 130
+      sellPrice: 26
     44:
       type: item
       page: 3
@@ -406,8 +406,8 @@ natural_blocks:
       item:
         material: ACACIA_LOG
         quantity: 64
-      buyPrice: 65
-      sellPrice: 13
+      buyPrice: 130
+      sellPrice: 26
     45:
       type: item
       page: 3
@@ -415,8 +415,8 @@ natural_blocks:
       item:
         material: DARK_OAK_LOG
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     46:
       type: item
       page: 3
@@ -424,8 +424,8 @@ natural_blocks:
       item:
         material: MANGROVE_LOG
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     47:
       type: item
       page: 3
@@ -433,8 +433,8 @@ natural_blocks:
       item:
         material: CHERRY_LOG
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     48:
       type: item
       page: 3
@@ -442,8 +442,8 @@ natural_blocks:
       item:
         material: CRIMSON_STEM
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     49:
       type: item
       page: 3
@@ -451,8 +451,8 @@ natural_blocks:
       item:
         material: WARPED_STEM
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     50:
       type: item
       page: 3
@@ -460,8 +460,8 @@ natural_blocks:
       item:
         material: BAMBOO_BLOCK
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     51:
       type: item
       page: 3
@@ -469,8 +469,8 @@ natural_blocks:
       item:
         material: OAK_PLANKS
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     52:
       type: item
       page: 3
@@ -478,8 +478,8 @@ natural_blocks:
       item:
         material: SPRUCE_PLANKS
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     53:
       type: item
       page: 3
@@ -487,8 +487,8 @@ natural_blocks:
       item:
         material: BIRCH_PLANKS
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     54:
       type: item
       page: 3
@@ -496,8 +496,8 @@ natural_blocks:
       item:
         material: JUNGLE_PLANKS
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     55:
       type: item
       page: 3
@@ -505,8 +505,8 @@ natural_blocks:
       item:
         material: ACACIA_PLANKS
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     56:
       type: item
       page: 3
@@ -514,8 +514,8 @@ natural_blocks:
       item:
         material: DARK_OAK_PLANKS
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     57:
       type: item
       page: 3
@@ -523,8 +523,8 @@ natural_blocks:
       item:
         material: MANGROVE_PLANKS
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     58:
       type: item
       page: 3
@@ -532,8 +532,8 @@ natural_blocks:
       item:
         material: CHERRY_PLANKS
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     59:
       type: item
       page: 3
@@ -541,8 +541,8 @@ natural_blocks:
       item:
         material: BAMBOO_PLANKS
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     60:
       type: item
       page: 3
@@ -550,8 +550,8 @@ natural_blocks:
       item:
         material: CRIMSON_PLANKS
         quantity: 64
-      buyPrice: 65
-      sellPrice: 13
+      buyPrice: 130
+      sellPrice: 26
     61:
       type: item
       page: 3
@@ -559,8 +559,8 @@ natural_blocks:
       item:
         material: WARPED_PLANKS
         quantity: 64
-      buyPrice: 65
-      sellPrice: 13
+      buyPrice: 130
+      sellPrice: 26
     62:
       type: item
       page: 3
@@ -568,8 +568,8 @@ natural_blocks:
       item:
         material: GLASS
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     63:
       type: item
       page: 3
@@ -577,8 +577,8 @@ natural_blocks:
       item:
         material: WHITE_STAINED_GLASS
         quantity: 64
-      buyPrice: 75
-      sellPrice: 15
+      buyPrice: 150
+      sellPrice: 30
     64:
       type: item
       page: 3
@@ -586,8 +586,8 @@ natural_blocks:
       item:
         material: LIGHT_GRAY_STAINED_GLASS
         quantity: 64
-      buyPrice: 75
-      sellPrice: 15
+      buyPrice: 150
+      sellPrice: 30
     65:
       type: item
       page: 3
@@ -595,5 +595,5 @@ natural_blocks:
       item:
         material: BLACK_STAINED_GLASS
         quantity: 64
-      buyPrice: 75
-      sellPrice: 15
+      buyPrice: 150
+      sellPrice: 30

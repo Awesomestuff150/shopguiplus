@@ -19,8 +19,8 @@ weapons:
       item:
         material: WOODEN_SWORD
         quantity: 1
-      buyPrice: 40
-      sellPrice: 8
+      buyPrice: 80
+      sellPrice: 16
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ weapons:
       item:
         material: STONE_SWORD
         quantity: 1
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ weapons:
       item:
         material: IRON_SWORD
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ weapons:
       item:
         material: GOLDEN_SWORD
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     5:
       type: item
       page: 1
@@ -55,17 +55,8 @@ weapons:
       item:
         material: DIAMOND_SWORD
         quantity: 1
-      buyPrice: 380
-      sellPrice: 76
-    6:
-      type: item
-      page: 1
-      slot: 15
-      item:
-        material: NETHERITE_SWORD
-        quantity: 1
-      buyPrice: 650
-      sellPrice: 130
+      buyPrice: 760
+      sellPrice: 152
     7:
       type: item
       page: 1
@@ -73,8 +64,8 @@ weapons:
       item:
         material: WOODEN_AXE
         quantity: 1
-      buyPrice: 40
-      sellPrice: 8
+      buyPrice: 80
+      sellPrice: 16
     8:
       type: item
       page: 1
@@ -82,8 +73,8 @@ weapons:
       item:
         material: STONE_AXE
         quantity: 1
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     9:
       type: item
       page: 1
@@ -91,8 +82,8 @@ weapons:
       item:
         material: IRON_AXE
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     10:
       type: item
       page: 1
@@ -100,8 +91,8 @@ weapons:
       item:
         material: GOLDEN_AXE
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     11:
       type: item
       page: 1
@@ -109,17 +100,8 @@ weapons:
       item:
         material: DIAMOND_AXE
         quantity: 1
-      buyPrice: 360
-      sellPrice: 72
-    12:
-      type: item
-      page: 1
-      slot: 23
-      item:
-        material: NETHERITE_AXE
-        quantity: 1
-      buyPrice: 630
-      sellPrice: 126
+      buyPrice: 720
+      sellPrice: 144
     13:
       type: item
       page: 1
@@ -127,8 +109,8 @@ weapons:
       item:
         material: TRIDENT
         quantity: 1
-      buyPrice: 500
-      sellPrice: 100
+      buyPrice: 1000
+      sellPrice: 200
     14:
       type: item
       page: 1
@@ -136,8 +118,8 @@ weapons:
       item:
         material: SHIELD
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     15:
       type: item
       page: 1
@@ -145,8 +127,8 @@ weapons:
       item:
         material: BOW
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     16:
       type: item
       page: 1
@@ -154,8 +136,8 @@ weapons:
       item:
         material: CROSSBOW
         quantity: 1
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 96
     17:
       type: item
       page: 1
@@ -163,8 +145,8 @@ weapons:
       item:
         material: ARROW
         quantity: 64
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     18:
       type: item
       page: 1
@@ -172,8 +154,8 @@ weapons:
       item:
         material: SPECTRAL_ARROW
         quantity: 64
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     19:
       type: item
       page: 1
@@ -181,8 +163,8 @@ weapons:
       item:
         material: FIREWORK_ROCKET
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     20:
       type: item
       page: 1
@@ -190,8 +172,8 @@ weapons:
       item:
         material: FIRE_CHARGE
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     21:
       type: item
       page: 1
@@ -199,8 +181,8 @@ weapons:
       item:
         material: SNOWBALL
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     22:
       type: item
       page: 2
@@ -208,8 +190,8 @@ weapons:
       item:
         material: TNT
         quantity: 16
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     23:
       type: item
       page: 2
@@ -217,8 +199,8 @@ weapons:
       item:
         material: TNT_MINECART
         quantity: 4
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 104
     24:
       type: item
       page: 2
@@ -226,8 +208,8 @@ weapons:
       item:
         material: END_CRYSTAL
         quantity: 1
-      buyPrice: 800
-      sellPrice: 160
+      buyPrice: 1600
+      sellPrice: 320
     25:
       type: item
       page: 2
@@ -235,8 +217,8 @@ weapons:
       item:
         material: RESPAWN_ANCHOR
         quantity: 1
-      buyPrice: 600
-      sellPrice: 120
+      buyPrice: 1200
+      sellPrice: 240
     26:
       type: item
       page: 2
@@ -244,8 +226,8 @@ weapons:
       item:
         material: WITHER_SKELETON_SKULL
         quantity: 1
-      buyPrice: 500
-      sellPrice: 100
+      buyPrice: 1000
+      sellPrice: 200
     27:
       type: item
       page: 2
@@ -253,8 +235,8 @@ weapons:
       item:
         material: ENDER_PEARL
         quantity: 16
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     28:
       type: item
       page: 2
@@ -262,8 +244,8 @@ weapons:
       item:
         material: EYE_OF_ENDER
         quantity: 16
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 104
     29:
       type: item
       page: 2
@@ -271,8 +253,8 @@ weapons:
       item:
         material: EXPERIENCE_BOTTLE
         quantity: 32
-      buyPrice: 240
-      sellPrice: 48
+      buyPrice: 480
+      sellPrice: 96
     30:
       type: item
       page: 2
@@ -280,8 +262,8 @@ weapons:
       item:
         material: TOTEM_OF_UNDYING
         quantity: 1
-      buyPrice: 750
-      sellPrice: 150
+      buyPrice: 1500
+      sellPrice: 300
     31:
       type: item
       page: 2
@@ -289,8 +271,8 @@ weapons:
       item:
         material: GOLDEN_APPLE
         quantity: 8
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 128
     32:
       type: item
       page: 2
@@ -298,8 +280,8 @@ weapons:
       item:
         material: ENCHANTED_GOLDEN_APPLE
         quantity: 1
-      buyPrice: 1200
-      sellPrice: 240
+      buyPrice: 2400
+      sellPrice: 480
     33:
       type: item
       page: 2
@@ -307,8 +289,8 @@ weapons:
       item:
         material: GUNPOWDER
         quantity: 64
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     34:
       type: item
       page: 2
@@ -316,8 +298,8 @@ weapons:
       item:
         material: DRAGON_BREATH
         quantity: 16
-      buyPrice: 260
-      sellPrice: 52
+      buyPrice: 520
+      sellPrice: 104
     35:
       type: item
       page: 2
@@ -325,8 +307,8 @@ weapons:
       item:
         material: SPLASH_POTION
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     36:
       type: item
       page: 2
@@ -334,8 +316,8 @@ weapons:
       item:
         material: LINGERING_POTION
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     37:
       type: item
       page: 2
@@ -343,8 +325,8 @@ weapons:
       item:
         material: POWDER_SNOW_BUCKET
         quantity: 1
-      buyPrice: 210
-      sellPrice: 42
+      buyPrice: 420
+      sellPrice: 84
     38:
       type: item
       page: 2
@@ -352,8 +334,8 @@ weapons:
       item:
         material: LAVA_BUCKET
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     39:
       type: item
       page: 2
@@ -361,8 +343,8 @@ weapons:
       item:
         material: BELL
         quantity: 1
-      buyPrice: 300
-      sellPrice: 60
+      buyPrice: 600
+      sellPrice: 120
     40:
       type: item
       page: 2
@@ -370,8 +352,8 @@ weapons:
       item:
         material: ELYTRA
         quantity: 1
-      buyPrice: 1000
-      sellPrice: 200
+      buyPrice: 2000
+      sellPrice: 400
     41:
       type: item
       page: 2
@@ -379,8 +361,8 @@ weapons:
       item:
         material: SADDLE
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     42:
       type: item
       page: 2
@@ -388,5 +370,5 @@ weapons:
       item:
         material: LEAD
         quantity: 4
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56

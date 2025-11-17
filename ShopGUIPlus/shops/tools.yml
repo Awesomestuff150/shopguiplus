@@ -19,8 +19,8 @@ tools:
       item:
         material: WOODEN_PICKAXE
         quantity: 1
-      buyPrice: 50
-      sellPrice: 10
+      buyPrice: 100
+      sellPrice: 20
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ tools:
       item:
         material: WOODEN_AXE
         quantity: 1
-      buyPrice: 50
-      sellPrice: 10
+      buyPrice: 100
+      sellPrice: 20
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ tools:
       item:
         material: WOODEN_SHOVEL
         quantity: 1
-      buyPrice: 40
-      sellPrice: 8
+      buyPrice: 80
+      sellPrice: 16
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ tools:
       item:
         material: WOODEN_HOE
         quantity: 1
-      buyPrice: 40
-      sellPrice: 8
+      buyPrice: 80
+      sellPrice: 16
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ tools:
       item:
         material: STONE_PICKAXE
         quantity: 1
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ tools:
       item:
         material: STONE_AXE
         quantity: 1
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ tools:
       item:
         material: STONE_SHOVEL
         quantity: 1
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ tools:
       item:
         material: STONE_HOE
         quantity: 1
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ tools:
       item:
         material: IRON_PICKAXE
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ tools:
       item:
         material: IRON_AXE
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ tools:
       item:
         material: IRON_SHOVEL
         quantity: 1
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ tools:
       item:
         material: IRON_HOE
         quantity: 1
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ tools:
       item:
         material: GOLDEN_PICKAXE
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ tools:
       item:
         material: GOLDEN_AXE
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ tools:
       item:
         material: GOLDEN_SHOVEL
         quantity: 1
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ tools:
       item:
         material: GOLDEN_HOE
         quantity: 1
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ tools:
       item:
         material: DIAMOND_PICKAXE
         quantity: 1
-      buyPrice: 400
-      sellPrice: 80
+      buyPrice: 800
+      sellPrice: 160
     18:
       type: item
       page: 1
@@ -172,8 +172,8 @@ tools:
       item:
         material: DIAMOND_AXE
         quantity: 1
-      buyPrice: 380
-      sellPrice: 76
+      buyPrice: 760
+      sellPrice: 152
     19:
       type: item
       page: 1
@@ -181,8 +181,8 @@ tools:
       item:
         material: DIAMOND_SHOVEL
         quantity: 1
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 128
     20:
       type: item
       page: 1
@@ -190,44 +190,8 @@ tools:
       item:
         material: DIAMOND_HOE
         quantity: 1
-      buyPrice: 320
-      sellPrice: 64
-    21:
-      type: item
-      page: 1
-      slot: 34
-      item:
-        material: NETHERITE_PICKAXE
-        quantity: 1
-      buyPrice: 650
-      sellPrice: 130
-    22:
-      type: item
-      page: 2
-      slot: 10
-      item:
-        material: NETHERITE_AXE
-        quantity: 1
-      buyPrice: 630
-      sellPrice: 126
-    23:
-      type: item
-      page: 2
-      slot: 11
-      item:
-        material: NETHERITE_SHOVEL
-        quantity: 1
-      buyPrice: 600
-      sellPrice: 120
-    24:
-      type: item
-      page: 2
-      slot: 12
-      item:
-        material: NETHERITE_HOE
-        quantity: 1
-      buyPrice: 600
-      sellPrice: 120
+      buyPrice: 640
+      sellPrice: 128
     25:
       type: item
       page: 2
@@ -235,8 +199,8 @@ tools:
       item:
         material: FISHING_ROD
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     26:
       type: item
       page: 2
@@ -244,8 +208,8 @@ tools:
       item:
         material: CARROT_ON_A_STICK
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     27:
       type: item
       page: 2
@@ -253,8 +217,8 @@ tools:
       item:
         material: WARPED_FUNGUS_ON_A_STICK
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     28:
       type: item
       page: 2
@@ -262,8 +226,8 @@ tools:
       item:
         material: BRUSH
         quantity: 1
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     29:
       type: item
       page: 2
@@ -271,8 +235,8 @@ tools:
       item:
         material: SPYGLASS
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     30:
       type: item
       page: 2
@@ -280,8 +244,8 @@ tools:
       item:
         material: FLINT_AND_STEEL
         quantity: 1
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     31:
       type: item
       page: 2
@@ -289,8 +253,8 @@ tools:
       item:
         material: SHEARS
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     32:
       type: item
       page: 2
@@ -298,8 +262,8 @@ tools:
       item:
         material: COMPASS
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     33:
       type: item
       page: 2
@@ -307,8 +271,8 @@ tools:
       item:
         material: CLOCK
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     34:
       type: item
       page: 2
@@ -316,8 +280,8 @@ tools:
       item:
         material: RECOVERY_COMPASS
         quantity: 1
-      buyPrice: 280
-      sellPrice: 56
+      buyPrice: 560
+      sellPrice: 112
     35:
       type: item
       page: 2
@@ -325,8 +289,8 @@ tools:
       item:
         material: EMPTY_MAP
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     36:
       type: item
       page: 2
@@ -334,8 +298,8 @@ tools:
       item:
         material: BUCKET
         quantity: 1
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     37:
       type: item
       page: 2
@@ -343,8 +307,8 @@ tools:
       item:
         material: WATER_BUCKET
         quantity: 1
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 68
     38:
       type: item
       page: 2
@@ -352,8 +316,8 @@ tools:
       item:
         material: LAVA_BUCKET
         quantity: 1
-      buyPrice: 190
-      sellPrice: 38
+      buyPrice: 380
+      sellPrice: 76
     39:
       type: item
       page: 2
@@ -361,8 +325,8 @@ tools:
       item:
         material: MILK_BUCKET
         quantity: 1
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 72
     40:
       type: item
       page: 2
@@ -370,8 +334,8 @@ tools:
       item:
         material: POWDER_SNOW_BUCKET
         quantity: 1
-      buyPrice: 210
-      sellPrice: 42
+      buyPrice: 420
+      sellPrice: 84
     41:
       type: item
       page: 2
@@ -379,8 +343,8 @@ tools:
       item:
         material: HONEY_BOTTLE
         quantity: 16
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     42:
       type: item
       page: 2
@@ -388,8 +352,8 @@ tools:
       item:
         material: FIREWORK_ROCKET
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     43:
       type: item
       page: 3
@@ -397,8 +361,8 @@ tools:
       item:
         material: CRAFTING_TABLE
         quantity: 4
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     44:
       type: item
       page: 3
@@ -406,8 +370,8 @@ tools:
       item:
         material: SMITHING_TABLE
         quantity: 2
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     45:
       type: item
       page: 3
@@ -415,8 +379,8 @@ tools:
       item:
         material: STONECUTTER
         quantity: 2
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     46:
       type: item
       page: 3
@@ -424,8 +388,8 @@ tools:
       item:
         material: GRINDSTONE
         quantity: 2
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     47:
       type: item
       page: 3
@@ -433,8 +397,8 @@ tools:
       item:
         material: LOOM
         quantity: 2
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     48:
       type: item
       page: 3
@@ -442,8 +406,8 @@ tools:
       item:
         material: CARTOGRAPHY_TABLE
         quantity: 2
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     49:
       type: item
       page: 3
@@ -451,8 +415,8 @@ tools:
       item:
         material: FLETCHING_TABLE
         quantity: 2
-      buyPrice: 170
-      sellPrice: 34
+      buyPrice: 340
+      sellPrice: 68
     50:
       type: item
       page: 3
@@ -460,8 +424,8 @@ tools:
       item:
         material: BREWING_STAND
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     51:
       type: item
       page: 3
@@ -469,8 +433,8 @@ tools:
       item:
         material: BLAST_FURNACE
         quantity: 1
-      buyPrice: 220
-      sellPrice: 44
+      buyPrice: 440
+      sellPrice: 88
     52:
       type: item
       page: 3
@@ -478,8 +442,8 @@ tools:
       item:
         material: SMOKER
         quantity: 1
-      buyPrice: 200
-      sellPrice: 40
+      buyPrice: 400
+      sellPrice: 80
     53:
       type: item
       page: 3
@@ -487,8 +451,8 @@ tools:
       item:
         material: FURNACE
         quantity: 1
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     54:
       type: item
       page: 3
@@ -496,23 +460,14 @@ tools:
       item:
         material: CAMPFIRE
         quantity: 4
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     55:
       type: item
       page: 3
       slot: 24
       item:
         material: ENCHANTING_TABLE
-        quantity: 1
-      buyPrice: 400
-      sellPrice: 80
-    56:
-      type: item
-      page: 3
-      slot: 25
-      item:
-        material: SMITHING_TEMPLATE_NETHERITE_UPGRADE
         quantity: 1
       buyPrice: 800
       sellPrice: 160
@@ -523,8 +478,8 @@ tools:
       item:
         material: ANVIL
         quantity: 1
-      buyPrice: 350
-      sellPrice: 70
+      buyPrice: 700
+      sellPrice: 140
     58:
       type: item
       page: 3
@@ -532,8 +487,8 @@ tools:
       item:
         material: CHIPPED_ANVIL
         quantity: 1
-      buyPrice: 320
-      sellPrice: 64
+      buyPrice: 640
+      sellPrice: 128
     59:
       type: item
       page: 3
@@ -541,8 +496,8 @@ tools:
       item:
         material: DAMAGED_ANVIL
         quantity: 1
-      buyPrice: 300
-      sellPrice: 60
+      buyPrice: 600
+      sellPrice: 120
     60:
       type: item
       page: 3
@@ -550,8 +505,8 @@ tools:
       item:
         material: SHULKER_BOX
         quantity: 1
-      buyPrice: 500
-      sellPrice: 100
+      buyPrice: 1000
+      sellPrice: 200
     61:
       type: item
       page: 3
@@ -559,8 +514,8 @@ tools:
       item:
         material: ENDER_CHEST
         quantity: 1
-      buyPrice: 450
-      sellPrice: 90
+      buyPrice: 900
+      sellPrice: 180
     62:
       type: item
       page: 3
@@ -568,8 +523,8 @@ tools:
       item:
         material: BARREL
         quantity: 4
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     63:
       type: item
       page: 3
@@ -577,5 +532,5 @@ tools:
       item:
         material: CHEST
         quantity: 4
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32

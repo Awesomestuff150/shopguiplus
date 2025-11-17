@@ -19,8 +19,8 @@ food:
       item:
         material: APPLE
         quantity: 32
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     2:
       type: item
       page: 1
@@ -28,8 +28,8 @@ food:
       item:
         material: BREAD
         quantity: 32
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     3:
       type: item
       page: 1
@@ -37,8 +37,8 @@ food:
       item:
         material: COOKED_BEEF
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     4:
       type: item
       page: 1
@@ -46,8 +46,8 @@ food:
       item:
         material: COOKED_CHICKEN
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     5:
       type: item
       page: 1
@@ -55,8 +55,8 @@ food:
       item:
         material: COOKED_MUTTON
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     6:
       type: item
       page: 1
@@ -64,8 +64,8 @@ food:
       item:
         material: COOKED_PORKCHOP
         quantity: 32
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     7:
       type: item
       page: 1
@@ -73,8 +73,8 @@ food:
       item:
         material: COOKED_RABBIT
         quantity: 32
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     8:
       type: item
       page: 1
@@ -82,8 +82,8 @@ food:
       item:
         material: COOKED_COD
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     9:
       type: item
       page: 1
@@ -91,8 +91,8 @@ food:
       item:
         material: COOKED_SALMON
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     10:
       type: item
       page: 1
@@ -100,8 +100,8 @@ food:
       item:
         material: BAKED_POTATO
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 44
     11:
       type: item
       page: 1
@@ -109,8 +109,8 @@ food:
       item:
         material: BEETROOT_SOUP
         quantity: 16
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     12:
       type: item
       page: 1
@@ -118,8 +118,8 @@ food:
       item:
         material: MUSHROOM_STEW
         quantity: 16
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     13:
       type: item
       page: 1
@@ -127,8 +127,8 @@ food:
       item:
         material: RABBIT_STEW
         quantity: 16
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     14:
       type: item
       page: 1
@@ -136,8 +136,8 @@ food:
       item:
         material: SUSPICIOUS_STEW
         quantity: 16
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     15:
       type: item
       page: 1
@@ -145,8 +145,8 @@ food:
       item:
         material: PUMPKIN_PIE
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     16:
       type: item
       page: 1
@@ -154,8 +154,8 @@ food:
       item:
         material: CAKE
         quantity: 4
-      buyPrice: 180
-      sellPrice: 36
+      buyPrice: 360
+      sellPrice: 72
     17:
       type: item
       page: 1
@@ -163,8 +163,8 @@ food:
       item:
         material: COOKIE
         quantity: 64
-      buyPrice: 100
-      sellPrice: 20
+      buyPrice: 200
+      sellPrice: 40
     18:
       type: item
       page: 1
@@ -172,8 +172,8 @@ food:
       item:
         material: HONEY_BOTTLE
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     19:
       type: item
       page: 1
@@ -181,8 +181,8 @@ food:
       item:
         material: SWEET_BERRIES
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     20:
       type: item
       page: 1
@@ -190,8 +190,8 @@ food:
       item:
         material: GLOW_BERRIES
         quantity: 64
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     21:
       type: item
       page: 1
@@ -199,8 +199,8 @@ food:
       item:
         material: DRIED_KELP
         quantity: 64
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     22:
       type: item
       page: 2
@@ -208,8 +208,8 @@ food:
       item:
         material: BEEF
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     23:
       type: item
       page: 2
@@ -217,8 +217,8 @@ food:
       item:
         material: CHICKEN
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     24:
       type: item
       page: 2
@@ -226,8 +226,8 @@ food:
       item:
         material: MUTTON
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     25:
       type: item
       page: 2
@@ -235,8 +235,8 @@ food:
       item:
         material: PORKCHOP
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     26:
       type: item
       page: 2
@@ -244,8 +244,8 @@ food:
       item:
         material: RABBIT
         quantity: 32
-      buyPrice: 130
-      sellPrice: 26
+      buyPrice: 260
+      sellPrice: 52
     27:
       type: item
       page: 2
@@ -253,8 +253,8 @@ food:
       item:
         material: COD
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 44
     28:
       type: item
       page: 2
@@ -262,8 +262,8 @@ food:
       item:
         material: SALMON
         quantity: 32
-      buyPrice: 110
-      sellPrice: 22
+      buyPrice: 220
+      sellPrice: 44
     29:
       type: item
       page: 2
@@ -271,8 +271,8 @@ food:
       item:
         material: TROPICAL_FISH
         quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     30:
       type: item
       page: 2
@@ -280,8 +280,8 @@ food:
       item:
         material: PUFFERFISH
         quantity: 16
-      buyPrice: 150
-      sellPrice: 30
+      buyPrice: 300
+      sellPrice: 60
     31:
       type: item
       page: 2
@@ -289,8 +289,8 @@ food:
       item:
         material: BEETROOT
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     32:
       type: item
       page: 2
@@ -298,8 +298,8 @@ food:
       item:
         material: CARROT
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     33:
       type: item
       page: 2
@@ -307,8 +307,8 @@ food:
       item:
         material: POTATO
         quantity: 64
-      buyPrice: 55
-      sellPrice: 11
+      buyPrice: 110
+      sellPrice: 22
     34:
       type: item
       page: 2
@@ -316,8 +316,8 @@ food:
       item:
         material: MELON_SLICE
         quantity: 64
-      buyPrice: 60
-      sellPrice: 12
+      buyPrice: 120
+      sellPrice: 24
     35:
       type: item
       page: 2
@@ -325,8 +325,8 @@ food:
       item:
         material: PUMPKIN
         quantity: 32
-      buyPrice: 80
-      sellPrice: 16
+      buyPrice: 160
+      sellPrice: 32
     36:
       type: item
       page: 2
@@ -334,8 +334,8 @@ food:
       item:
         material: SUGAR
         quantity: 64
-      buyPrice: 50
-      sellPrice: 10
+      buyPrice: 100
+      sellPrice: 20
     37:
       type: item
       page: 2
@@ -343,8 +343,8 @@ food:
       item:
         material: MILK_BUCKET
         quantity: 1
-      buyPrice: 160
-      sellPrice: 32
+      buyPrice: 320
+      sellPrice: 64
     38:
       type: item
       page: 2
@@ -352,8 +352,8 @@ food:
       item:
         material: EGG
         quantity: 32
-      buyPrice: 90
-      sellPrice: 18
+      buyPrice: 180
+      sellPrice: 36
     39:
       type: item
       page: 2
@@ -361,8 +361,8 @@ food:
       item:
         material: WHEAT
         quantity: 64
-      buyPrice: 70
-      sellPrice: 14
+      buyPrice: 140
+      sellPrice: 28
     40:
       type: item
       page: 2
@@ -370,8 +370,8 @@ food:
       item:
         material: HONEYCOMB
         quantity: 32
-      buyPrice: 120
-      sellPrice: 24
+      buyPrice: 240
+      sellPrice: 48
     41:
       type: item
       page: 2
@@ -379,8 +379,8 @@ food:
       item:
         material: CHORUS_FRUIT
         quantity: 32
-      buyPrice: 140
-      sellPrice: 28
+      buyPrice: 280
+      sellPrice: 56
     42:
       type: item
       page: 2
@@ -388,5 +388,5 @@ food:
       item:
         material: ROTTEN_FLESH
         quantity: 64
-      buyPrice: 40
-      sellPrice: 8
+      buyPrice: 80
+      sellPrice: 16
